@@ -1,12 +1,12 @@
 import React, { Component, Fragment } from 'react';
 import MetaTags from "react-meta-tags";
-import Header from '../layouts/Header';
-import Footer from '../layouts/Footer';
-import Content from '../sections/home/Content';
+import Header from '../layouts/HeaderMain';
+import Footer from '../layouts/Footertwo';
+import Content from '../sections/home-v2/Content';
 
 const pagelocation = 'Homepage'
 
-class Home extends Component {
+class Hometwo extends Component {
     render() {
         return (
             <Fragment>
@@ -19,10 +19,10 @@ class Home extends Component {
                 </MetaTags>
                 <Header />
                 <Content/>
-                <Footer />
+                <Footer footer={{ style:"", logo:"assets/img/footer-logo.png" }}/>
             </Fragment>
         );
     }
 }
 
-export default Home;
+export default Hometwo;

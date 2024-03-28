@@ -1,6 +1,6 @@
 import React, { Component, Fragment } from 'react';
 import MetaTags from "react-meta-tags";
-import Header from '../layouts/Header';
+import Header from '../layouts/HeaderStyle2';
 import Footer from '../layouts/Footer';
 import Breadcrumb from '../layouts/Breadcrumb';
 import Content from '../sections/room-details/Content';
