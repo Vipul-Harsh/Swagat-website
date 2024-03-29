@@ -567,7 +567,7 @@ header.header-absolute {
   width: 100%;
   z-index: 99;
   background-color: transparent;
-  top: 22px;
+  top: 35px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1599px) {
   header .container.container-custom-one {
@@ -6434,6 +6434,8 @@ footer .copyright-area.light-theme .footer-menu ul li::before {
 
 .menu-item {
   text-align: -webkit-center;
+  margin-right: 20px;
+  font-size: 20px;
 }
 .menu-item .but {
   transition: all 0.4s ease-out 0s;
@@ -6443,6 +6445,7 @@ footer .copyright-area.light-theme .footer-menu ul li::before {
   width: 150px;
   text-align: center;
   border: 1px solid #bead8e;
+  letter-spacing: 3px;
 }
 .menu-item .but:hover {
   background: transparent !important;
@@ -6460,4 +6463,12 @@ footer .copyright-area.light-theme .footer-menu ul li::before {
 
 .hovering-btn:hover {
   color: black !important;
+}
+
+.menu-item a {
+  font-size: 16px !important;
+}
+
+.show-button {
+  background: white !important;
 }/*# sourceMappingURL=style.css.map */

@@ -33,7 +33,7 @@ class Testmonials extends Component {
                 <div className="container">
                     <div className="section-title text-center mb-80">
                         <span className="title-tag">testimonials</span>
-                        <h2>Client Feedback</h2>
+                        <h2>What Our Client Says</h2>
                     </div>
                     {/* testimonials loop  */}
                     <Slider className="row testimonial-slider" {...settings}>

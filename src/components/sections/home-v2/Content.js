@@ -15,11 +15,11 @@ class Content extends Component {
         return (
             <Fragment>
                 <Mainbanner />
-                <section className="booking-form">
+                {/* <section className="booking-form">
                     <div className="container">
                         <Bookingform />
                     </div>
-                </section>
+                </section> */}
                 <Textblock />
                 <Corefeature />
                 <Featureroom />

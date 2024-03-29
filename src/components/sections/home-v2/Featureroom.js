@@ -46,7 +46,7 @@ class Featureroom extends Component {
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-8 col-sm-7">
                             <div className="section-title">
-                                <span className="title-tag">Room</span>
+                                <span className="title-tag">Rooms</span>
                                 <h2>Featured Room</h2>
                             </div>
                         </div>

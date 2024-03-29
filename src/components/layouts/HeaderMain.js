@@ -122,7 +122,7 @@ class Headertwo extends HeaderComponent {
                       : null}
                       <li className="menu-item">
             <div className="but">
-                <Link to="/contact-main">Book Now</Link>
+                <Link to="/contact">Book Now</Link>
             </div>
         </li>
                   </ul>

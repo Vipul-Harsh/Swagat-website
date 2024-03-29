@@ -5,13 +5,13 @@ import Slider from "react-slick";
 const bannerPosts = [
     {
         photo: "assets/img/banner/04.jpg",
-        tag: 'The ultimate luxury experience',
-        title: "The Perfect <br/> Base For You",
+        tag: 'Experience Ultimate Luxury at Hotel Swagat',
+        title: "The Perfect <br/> Choice For You",
     },
     {
         photo: "assets/img/banner/05.jpg",
-        tag: 'The ultimate luxury experience',
-        title: 'The Perfect <br/> Base For You',
+        tag: 'Experience Ultimate Luxury at Hotel Swagat',
+        title: 'The Perfect <br/> Choice For You',
     },
 ];
 
@@ -37,10 +37,10 @@ class Mainbanner extends Component {
                                         <h1 className="title" dangerouslySetInnerHTML={{ __html: item.title }}/>
                                         <ul>
                                             <li>
-                                                <Link className="main-btn btn-filled" to="/room-details/">take a tour</Link>
+                                                <Link className="main-btn btn-filled" to="/contact">Book Now</Link>
                                             </li>
                                             <li>
-                                                <Link className="main-btn btn-border" to="/about">Learn More</Link>
+                                                <Link className="main-btn btn-border" to="/about">About Us</Link>
                                             </li>
                                         </ul>
                                     </div>

@@ -1,1248 +1,1179 @@
 [
-    {
-        "id": 1,
-        "title": "Amber Lastir",
-        "price": 365,
-        "period": "Night",
-        "category": [
-            1
-        ],
-        "gridimage": "assets/img/room/01.jpg",
-        "listimage": "assets/img/room/list-1.jpg",
-        "sliderimage": "assets/img/room-slider/01.jpg",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "longdesc": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>",
-        "authors": [
-            1,
-            2
-        ],
-        "amenities": [
-            {
-                "title": "Air conditioner",
-                "icon": "fal fa-bath"
-            },
-            {
-                "title": "High speed WiFi",
-                "icon": "fal fa-wifi"
-            },
-            {
-                "title": "Strong Locker",
-                "icon": "fal fa-key"
-            },
-            {
-                "title": "Breakfast",
-                "icon": "fal fa-cut"
-            },
-            {
-                "title": "Kitchen",
-                "icon": "fal fa-guitar"
-            },
-            {
-                "title": "Smart Security",
-                "icon": "fal fa-lock"
-            },
-            {
-                "title": "Cleaning",
-                "icon": "fal fa-broom"
-            },
-            {
-                "title": "Shower",
-                "icon": "fal fa-shower"
-            },
-            {
-                "title": "24/7 Online Support",
-                "icon": "fal fa-headphones-alt"
-            },
-            {
-                "title": "Grocery",
-                "icon": "fal fa-shopping-basket"
-            },
-            {
-                "title": "Single bed",
-                "icon": "fal fa-bed"
-            },
-            {
-                "title": "Expert Team",
-                "icon": "fal fa-users"
-            },
-            {
-                "title": "shop near",
-                "icon": "fal fa-shopping-cart"
-            },
-            {
-                "title": "Towels",
-                "icon": "fal fa-bus"
-            }
-        ],
-        "rules": [
-            "No smoking, parties or events.",
-            "Check-in time from 2 PM, check-out by 10 AM.",
-            "Time to time car parking",
-            "Download Our minimal app",
-            "Browse regular our website"
-        ],
-        "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
-        "location": {
-            "lat": 31.53912,
-            "lng": -89.29163
-        },
-        "offer":true
+  {
+    "id": 1,
+    "title": "Amber Lastir",
+    "price": 365,
+    "period": "Night",
+    "category": [1],
+    "gridimage": "assets/img/room/01.jpg",
+    "listimage": "assets/img/room/list-1.jpg",
+    "sliderimage": "assets/img/room-slider/01.jpg",
+    "text": "Experience luxury in Swagat Hotel's Amber Lastir room. Combining modern design with comfort, this room offers a tranquil stay in Bhiwadi. Enjoy high-speed WiFi, smart security, and 24/7 online support. Indulge in premium toiletries, gourmet breakfast, and a well-equipped kitchen. Whether for leisure or business, Amber Lastir promises a memorable stay.",
+    "longdesc": "<p>Discover the ultimate luxury experience in Swagat Hotel's Amber Lastir room, where elegance meets comfort in the heart of Bhiwadi. This meticulously crafted space showcases a sophisticated blend of contemporary design and thoughtful amenities, creating an inviting and serene environment for discerning travelers. From the sumptuous bedding and premium linens to the modern tech integrations and personalized touches, every detail in the Amber Lastir room is designed to exceed your expectations. Stay connected with high-speed WiFi, enjoy the peace of mind provided by smart security systems, and benefit from round-the-clock online support. Indulge in a rejuvenating shower with premium toiletries, savor delicious breakfast options crafted with locally sourced ingredients, and take advantage of the convenience of a well-equipped kitchen and grocery provisions. Whether you're in Bhiwadi for leisurely relaxation or productive business meetings, the Amber Lastir room offers a luxurious sanctuary where you can unwind, recharge, and create unforgettable memories.</p>",
+    "authors": [1, 2],
+    "amenities": [
+      {
+        "title": "Air conditioner",
+        "icon": "fal fa-bath"
+      },
+      {
+        "title": "High speed WiFi",
+        "icon": "fal fa-wifi"
+      },
+      {
+        "title": "Strong Locker",
+        "icon": "fal fa-key"
+      },
+      {
+        "title": "Breakfast",
+        "icon": "fal fa-cut"
+      },
+      {
+        "title": "Kitchen",
+        "icon": "fal fa-guitar"
+      },
+      {
+        "title": "Smart Security",
+        "icon": "fal fa-lock"
+      },
+      {
+        "title": "Cleaning",
+        "icon": "fal fa-broom"
+      },
+      {
+        "title": "Shower",
+        "icon": "fal fa-shower"
+      },
+      {
+        "title": "24/7 Online Support",
+        "icon": "fal fa-headphones-alt"
+      },
+      {
+        "title": "Grocery",
+        "icon": "fal fa-shopping-basket"
+      },
+      {
+        "title": "Single bed",
+        "icon": "fal fa-bed"
+      },
+      {
+        "title": "Expert Team",
+        "icon": "fal fa-users"
+      },
+      {
+        "title": "shop near",
+        "icon": "fal fa-shopping-cart"
+      },
+      {
+        "title": "Towels",
+        "icon": "fal fa-bus"
+      }
+    ],
+    "rules": [
+      "No smoking, parties or events.",
+      "Check-in time from 2 PM, check-out by 10 AM.",
+      "Time to time car parking",
+      "Download Our minimal app",
+      "Browse regular our website"
+    ],
+    "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
+    "location": {
+      "lat": 31.53912,
+      "lng": -89.29163
     },
-    {
-        "id": 2,
-        "title": "Sundred Serenity",
-        "price": 355,
-        "period": "Night",
-        "category": [
-            2
-        ],
-        "gridimage": "assets/img/room/02.jpg",
-        "listimage": "assets/img/room/list-2.jpg",
-        "sliderimage": "assets/img/room-slider/02.jpg",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "longdesc": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>",
-        "authors": [
-            3,
-            4
-        ],
-        "amenities": [
-            {
-                "title": "Air conditioner",
-                "icon": "fal fa-bath"
-            },
-            {
-                "title": "High speed WiFi",
-                "icon": "fal fa-wifi"
-            },
-            {
-                "title": "Strong Locker",
-                "icon": "fal fa-key"
-            },
-            {
-                "title": "Breakfast",
-                "icon": "fal fa-cut"
-            },
-            {
-                "title": "Kitchen",
-                "icon": "fal fa-guitar"
-            },
-            {
-                "title": "Smart Security",
-                "icon": "fal fa-lock"
-            },
-            {
-                "title": "Cleaning",
-                "icon": "fal fa-broom"
-            },
-            {
-                "title": "Shower",
-                "icon": "fal fa-shower"
-            },
-            {
-                "title": "24/7 Online Support",
-                "icon": "fal fa-headphones-alt"
-            },
-            {
-                "title": "Grocery",
-                "icon": "fal fa-shopping-basket"
-            },
-            {
-                "title": "Single bed",
-                "icon": "fal fa-bed"
-            },
-            {
-                "title": "Expert Team",
-                "icon": "fal fa-users"
-            },
-            {
-                "title": "shop near",
-                "icon": "fal fa-shopping-cart"
-            },
-            {
-                "title": "Towels",
-                "icon": "fal fa-bus"
-            }
-        ],
-        "rules": [
-            "No smoking, parties or events.",
-            "Check-in time from 2 PM, check-out by 10 AM.",
-            "Time to time car parking",
-            "Download Our minimal app",
-            "Browse regular our website"
-        ],
-        "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
-        "location": {
-            "lat": 31.53912,
-            "lng": -89.29163
-        },
-        "offer":true
+    "offer": true
+  },
+  {
+    "id": 2,
+    "title": "Sundred Serenity",
+    "price": 355,
+    "period": "Night",
+    "category": [2],
+    "gridimage": "assets/img/room/02.jpg",
+    "listimage": "assets/img/room/list-2.jpg",
+    "sliderimage": "assets/img/room-slider/02.jpg",
+    "text": "Savour the tranquility of Sundred Serenity, where comfort meets elegance. Immerse yourself in its serene ambiance, designed to elevate your stay. Unwind and indulge in a haven of relaxation.",
+    "longdesc": "<p>Experience the ultimate in luxury and tranquility with Sundred Serenity. This meticulously crafted room is a true embodiment of elegance, sophistication, and comfort. From the lavish furnishings and serene ambiance to the comprehensive array of thoughtful amenities, every detail has been carefully considered to ensure a sublime stay. Whether you're seeking a peaceful retreat, a romantic escape, or a luxurious getaway, Sundred Serenity offers an unparalleled experience that transcends expectations. Immerse yourself in the tranquil surroundings, indulge in the luxurious comforts, and let go of all your worries and stress. Here, amidst the peaceful oasis of Sundred Serenity, you'll find a sanctuary where time stands still and every moment is tailored to enhance your comfort, relaxation, and overall well-being. With its impeccable design, attentive service, and serene atmosphere, Sundred Serenity promises to provide a truly unforgettable experience that will leave you feeling refreshed, revitalized, and eager to return for more.</p>",
+    "authors": [3, 4],
+    "amenities": [
+      {
+        "title": "Air conditioner",
+        "icon": "fal fa-bath"
+      },
+      {
+        "title": "High speed WiFi",
+        "icon": "fal fa-wifi"
+      },
+      {
+        "title": "Strong Locker",
+        "icon": "fal fa-key"
+      },
+      {
+        "title": "Breakfast",
+        "icon": "fal fa-cut"
+      },
+      {
+        "title": "Kitchen",
+        "icon": "fal fa-guitar"
+      },
+      {
+        "title": "Smart Security",
+        "icon": "fal fa-lock"
+      },
+      {
+        "title": "Cleaning",
+        "icon": "fal fa-broom"
+      },
+      {
+        "title": "Shower",
+        "icon": "fal fa-shower"
+      },
+      {
+        "title": "24/7 Online Support",
+        "icon": "fal fa-headphones-alt"
+      },
+      {
+        "title": "Grocery",
+        "icon": "fal fa-shopping-basket"
+      },
+      {
+        "title": "Single bed",
+        "icon": "fal fa-bed"
+      },
+      {
+        "title": "Expert Team",
+        "icon": "fal fa-users"
+      },
+      {
+        "title": "shop near",
+        "icon": "fal fa-shopping-cart"
+      },
+      {
+        "title": "Towels",
+        "icon": "fal fa-bus"
+      }
+    ],
+    "rules": [
+      "No smoking, parties or events.",
+      "Check-in time from 2 PM, check-out by 10 AM.",
+      "Time to time car parking",
+      "Download Our minimal app",
+      "Browse regular our website"
+    ],
+    "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
+    "location": {
+      "lat": 31.53912,
+      "lng": -89.29163
     },
-    {
-        "id": 3,
-        "title": "Cambodian Star",
-        "price": 275,
-        "period": "Night",
-        "category": [
-            3
-        ],
-        "gridimage": "assets/img/room/03.jpg",
-        "listimage": "assets/img/room/list-3.jpg",
-        "sliderimage": "assets/img/room-slider/03.jpg",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "longdesc": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>",
-        "authors": [
-            1,
-            2
-        ],
-        "amenities": [
-            {
-                "title": "Air conditioner",
-                "icon": "fal fa-bath"
-            },
-            {
-                "title": "High speed WiFi",
-                "icon": "fal fa-wifi"
-            },
-            {
-                "title": "Strong Locker",
-                "icon": "fal fa-key"
-            },
-            {
-                "title": "Breakfast",
-                "icon": "fal fa-cut"
-            },
-            {
-                "title": "Kitchen",
-                "icon": "fal fa-guitar"
-            },
-            {
-                "title": "Smart Security",
-                "icon": "fal fa-lock"
-            },
-            {
-                "title": "Cleaning",
-                "icon": "fal fa-broom"
-            },
-            {
-                "title": "Shower",
-                "icon": "fal fa-shower"
-            },
-            {
-                "title": "24/7 Online Support",
-                "icon": "fal fa-headphones-alt"
-            },
-            {
-                "title": "Grocery",
-                "icon": "fal fa-shopping-basket"
-            },
-            {
-                "title": "Single bed",
-                "icon": "fal fa-bed"
-            },
-            {
-                "title": "Expert Team",
-                "icon": "fal fa-users"
-            },
-            {
-                "title": "shop near",
-                "icon": "fal fa-shopping-cart"
-            },
-            {
-                "title": "Towels",
-                "icon": "fal fa-bus"
-            }
-        ],
-        "rules": [
-            "No smoking, parties or events.",
-            "Check-in time from 2 PM, check-out by 10 AM.",
-            "Time to time car parking",
-            "Download Our minimal app",
-            "Browse regular our website"
-        ],
-        "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
-        "location": {
-            "lat": 31.53912,
-            "lng": -89.29163
-        },
-        "offer":false
+    "offer": true
+  },
+  {
+    "id": 3,
+    "title": "Cambodian Star",
+    "price": 275,
+    "period": "Night",
+    "category": [3],
+    "gridimage": "assets/img/room/03.jpg",
+    "listimage": "assets/img/room/list-3.jpg",
+    "sliderimage": "assets/img/room-slider/03.jpg",
+    "text": "Experience the allure of Cambodian Star, offering unparalleled comfort and style in every corner. Indulge in our meticulously designed rooms, blending modern amenities with cultural charm. Discover the perfect retreat amidst the hustle and bustle.",
+    "longdesc": "<p>Discover the essence of luxury at Cambodian Star. Immerse yourself in sophisticated interiors and thoughtful touches that redefine relaxation. With a harmonious blend of tradition and innovation, our accommodations promise an unforgettable stay. Dive into a world where comfort meets elegance, ensuring a memorable experience for every guest. From the plush bedding to the state-of-the-art amenities, every detail has been curated to perfection. Whether you're here for business or leisure, our dedicated team is committed to providing personalized service that exceeds expectations. Embrace the Cambodian Star experience, where every moment is crafted to perfection. Explore nearby attractions, indulge in gourmet dining options, or simply unwind by our serene surroundings. With our 24/7 online support, you're always connected, ensuring a seamless and enjoyable stay. Revel in the warmth of Cambodian hospitality, and let us elevate your travel experience to new heights.</p><p>Our rooms are designed with your utmost comfort in mind, featuring modern furnishings, high-speed WiFi, and smart security systems for your peace of mind. Start your day with a delicious breakfast served in our elegant dining area, and end it with a refreshing shower in our well-appointed bathrooms. For those looking to stay active, we offer a fully-equipped kitchen and a strong locker to store your valuables. Our expert team is always on hand to assist with any special requests or recommendations for local attractions. Plus, with convenient shopping options nearby, you'll have everything you need at your fingertips. Book your stay at Cambodian Star today and discover the perfect blend of luxury, convenience, and exceptional service.</p>",
+
+    "authors": [1, 2],
+    "amenities": [
+      {
+        "title": "Air conditioner",
+        "icon": "fal fa-bath"
+      },
+      {
+        "title": "High speed WiFi",
+        "icon": "fal fa-wifi"
+      },
+      {
+        "title": "Strong Locker",
+        "icon": "fal fa-key"
+      },
+      {
+        "title": "Breakfast",
+        "icon": "fal fa-cut"
+      },
+      {
+        "title": "Kitchen",
+        "icon": "fal fa-guitar"
+      },
+      {
+        "title": "Smart Security",
+        "icon": "fal fa-lock"
+      },
+      {
+        "title": "Cleaning",
+        "icon": "fal fa-broom"
+      },
+      {
+        "title": "Shower",
+        "icon": "fal fa-shower"
+      },
+      {
+        "title": "24/7 Online Support",
+        "icon": "fal fa-headphones-alt"
+      },
+      {
+        "title": "Grocery",
+        "icon": "fal fa-shopping-basket"
+      },
+      {
+        "title": "Single bed",
+        "icon": "fal fa-bed"
+      },
+      {
+        "title": "Expert Team",
+        "icon": "fal fa-users"
+      },
+      {
+        "title": "shop near",
+        "icon": "fal fa-shopping-cart"
+      },
+      {
+        "title": "Towels",
+        "icon": "fal fa-bus"
+      }
+    ],
+    "rules": [
+      "No smoking, parties or events.",
+      "Check-in time from 2 PM, check-out by 10 AM.",
+      "Time to time car parking",
+      "Download Our minimal app",
+      "Browse regular our website"
+    ],
+    "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
+    "location": {
+      "lat": 31.53912,
+      "lng": -89.29163
     },
-    {
-        "id": 4,
-        "title": "Queen Room",
-        "price": 375,
-        "period": "Night",
-        "category": [
-            4
-        ],
-        "gridimage": "assets/img/room/04.jpg",
-        "listimage": "assets/img/room/list-4.jpg",
-        "sliderimage": "assets/img/room-slider/04.jpg",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "longdesc": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>",
-        "authors": [
-            3,
-            4
-        ],
-        "amenities": [
-            {
-                "title": "Air conditioner",
-                "icon": "fal fa-bath"
-            },
-            {
-                "title": "High speed WiFi",
-                "icon": "fal fa-wifi"
-            },
-            {
-                "title": "Strong Locker",
-                "icon": "fal fa-key"
-            },
-            {
-                "title": "Breakfast",
-                "icon": "fal fa-cut"
-            },
-            {
-                "title": "Kitchen",
-                "icon": "fal fa-guitar"
-            },
-            {
-                "title": "Smart Security",
-                "icon": "fal fa-lock"
-            },
-            {
-                "title": "Cleaning",
-                "icon": "fal fa-broom"
-            },
-            {
-                "title": "Shower",
-                "icon": "fal fa-shower"
-            },
-            {
-                "title": "24/7 Online Support",
-                "icon": "fal fa-headphones-alt"
-            },
-            {
-                "title": "Grocery",
-                "icon": "fal fa-shopping-basket"
-            },
-            {
-                "title": "Single bed",
-                "icon": "fal fa-bed"
-            },
-            {
-                "title": "Expert Team",
-                "icon": "fal fa-users"
-            },
-            {
-                "title": "shop near",
-                "icon": "fal fa-shopping-cart"
-            },
-            {
-                "title": "Towels",
-                "icon": "fal fa-bus"
-            }
-        ],
-        "rules": [
-            "No smoking, parties or events.",
-            "Check-in time from 2 PM, check-out by 10 AM.",
-            "Time to time car parking",
-            "Download Our minimal app",
-            "Browse regular our website"
-        ],
-        "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
-        "location": {
-            "lat": 31.53912,
-            "lng": -89.29163
-        },
-        "offer":true
+    "offer": false
+  },
+  {
+    "id": 4,
+    "title": "Queen Room",
+    "price": 375,
+    "period": "Night",
+    "category": [4],
+    "gridimage": "assets/img/room/04.jpg",
+    "listimage": "assets/img/room/list-4.jpg",
+    "sliderimage": "assets/img/room-slider/04.jpg",
+    "text": "Experience comfort in Swagat Hotel's Queen Room, designed with elegance and equipped for a relaxing stay in Bhiwadi.",
+    "longdesc": "<p>Discover unparalleled comfort and sophistication in Swagat Hotel's Queen Room, a testament to luxury accommodation in Bhiwadi. Thoughtfully designed with meticulous attention to detail, our Queen Room combines contemporary elegance with practical amenities to create a haven of tranquility. From plush bedding and premium linens to modern tech integrations, every element is curated to enhance your comfort and convenience. Whether you're unwinding after a busy day of exploring Bhiwadi's attractions or preparing for a productive business meeting, our Queen Room offers a serene environment tailored to meet the needs of discerning travelers. Immerse yourself in a world of luxury and relaxation, and experience the epitome of hospitality at Swagat Hotel.</p>",
+    "authors": [3, 4],
+    "amenities": [
+      {
+        "title": "Air conditioner",
+        "icon": "fal fa-bath"
+      },
+      {
+        "title": "High speed WiFi",
+        "icon": "fal fa-wifi"
+      },
+      {
+        "title": "Strong Locker",
+        "icon": "fal fa-key"
+      },
+      {
+        "title": "Breakfast",
+        "icon": "fal fa-cut"
+      },
+      {
+        "title": "Kitchen",
+        "icon": "fal fa-guitar"
+      },
+      {
+        "title": "Smart Security",
+        "icon": "fal fa-lock"
+      },
+      {
+        "title": "Cleaning",
+        "icon": "fal fa-broom"
+      },
+      {
+        "title": "Shower",
+        "icon": "fal fa-shower"
+      },
+      {
+        "title": "24/7 Online Support",
+        "icon": "fal fa-headphones-alt"
+      },
+      {
+        "title": "Grocery",
+        "icon": "fal fa-shopping-basket"
+      },
+      {
+        "title": "Single bed",
+        "icon": "fal fa-bed"
+      },
+      {
+        "title": "Expert Team",
+        "icon": "fal fa-users"
+      },
+      {
+        "title": "shop near",
+        "icon": "fal fa-shopping-cart"
+      },
+      {
+        "title": "Towels",
+        "icon": "fal fa-bus"
+      }
+    ],
+    "rules": [
+      "No smoking, parties or events.",
+      "Check-in time from 2 PM, check-out by 10 AM.",
+      "Time to time car parking",
+      "Download Our minimal app",
+      "Browse regular our website"
+    ],
+    "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
+    "location": {
+      "lat": 31.53912,
+      "lng": -89.29163
     },
-    {
-        "id": 5,
-        "title": "Junior Suite",
-        "price": 320,
-        "period": "Night",
-        "category": [
-            1
-        ],
-        "gridimage": "assets/img/room/05.jpg",
-        "listimage": "assets/img/room/list-5.jpg",
-        "sliderimage": "assets/img/room-slider/05.jpg",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "longdesc": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>",
-        "authors": [
-            1,
-            2
-        ],
-        "amenities": [
-            {
-                "title": "Air conditioner",
-                "icon": "fal fa-bath"
-            },
-            {
-                "title": "High speed WiFi",
-                "icon": "fal fa-wifi"
-            },
-            {
-                "title": "Strong Locker",
-                "icon": "fal fa-key"
-            },
-            {
-                "title": "Breakfast",
-                "icon": "fal fa-cut"
-            },
-            {
-                "title": "Kitchen",
-                "icon": "fal fa-guitar"
-            },
-            {
-                "title": "Smart Security",
-                "icon": "fal fa-lock"
-            },
-            {
-                "title": "Cleaning",
-                "icon": "fal fa-broom"
-            },
-            {
-                "title": "Shower",
-                "icon": "fal fa-shower"
-            },
-            {
-                "title": "24/7 Online Support",
-                "icon": "fal fa-headphones-alt"
-            },
-            {
-                "title": "Grocery",
-                "icon": "fal fa-shopping-basket"
-            },
-            {
-                "title": "Single bed",
-                "icon": "fal fa-bed"
-            },
-            {
-                "title": "Expert Team",
-                "icon": "fal fa-users"
-            },
-            {
-                "title": "shop near",
-                "icon": "fal fa-shopping-cart"
-            },
-            {
-                "title": "Towels",
-                "icon": "fal fa-bus"
-            }
-        ],
-        "rules": [
-            "No smoking, parties or events.",
-            "Check-in time from 2 PM, check-out by 10 AM.",
-            "Time to time car parking",
-            "Download Our minimal app",
-            "Browse regular our website"
-        ],
-        "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
-        "location": {
-            "lat": 31.53912,
-            "lng": -89.29163
-        },
-        "offer":false
+    "offer": true
+  },
+  {
+    "id": 5,
+    "title": "Junior Suite",
+    "price": 320,
+    "period": "Night",
+    "category": [1],
+    "gridimage": "assets/img/room/05.jpg",
+    "listimage": "assets/img/room/list-5.jpg",
+    "sliderimage": "assets/img/room-slider/05.jpg",
+    "text": "Experience comfort and luxury in our Junior Suite, thoughtfully designed for your relaxation. Featuring modern amenities and elegant decor, it's the perfect retreat after a day of exploration.",
+    "longdesc": "<p>Indulge in the elegance of our Junior Suite, where every detail speaks of sophistication and comfort. Revel in the plush furnishings and upscale amenities that ensure a memorable stay. From the serene ambiance to the impeccable service, our suite promises a tranquil haven amidst the bustling city. Whether you're traveling for business or leisure, our Junior Suite offers a spacious retreat with all the comforts of home. Enjoy panoramic city views, unwind in the cozy living area, or pamper yourself in the luxurious bathroom equipped with premium toiletries. Our dedicated team is always on hand to cater to your every need, ensuring a seamless and enjoyable experience from start to finish. For those looking to stay active, take advantage of our fitness center or explore nearby jogging trails. Indulge in delectable cuisine at our on-site restaurant, or enjoy a refreshing cocktail at the bar. With convenient access to local attractions, shopping, and entertainment, our Junior Suite is the ideal choice for discerning travelers seeking comfort, convenience, and style.</p>",
+    "authors": [1, 2],
+    "amenities": [
+      {
+        "title": "Air conditioner",
+        "icon": "fal fa-bath"
+      },
+      {
+        "title": "High speed WiFi",
+        "icon": "fal fa-wifi"
+      },
+      {
+        "title": "Strong Locker",
+        "icon": "fal fa-key"
+      },
+      {
+        "title": "Breakfast",
+        "icon": "fal fa-cut"
+      },
+      {
+        "title": "Kitchen",
+        "icon": "fal fa-guitar"
+      },
+      {
+        "title": "Smart Security",
+        "icon": "fal fa-lock"
+      },
+      {
+        "title": "Cleaning",
+        "icon": "fal fa-broom"
+      },
+      {
+        "title": "Shower",
+        "icon": "fal fa-shower"
+      },
+      {
+        "title": "24/7 Online Support",
+        "icon": "fal fa-headphones-alt"
+      },
+      {
+        "title": "Grocery",
+        "icon": "fal fa-shopping-basket"
+      },
+      {
+        "title": "Single bed",
+        "icon": "fal fa-bed"
+      },
+      {
+        "title": "Expert Team",
+        "icon": "fal fa-users"
+      },
+      {
+        "title": "shop near",
+        "icon": "fal fa-shopping-cart"
+      },
+      {
+        "title": "Towels",
+        "icon": "fal fa-bus"
+      }
+    ],
+    "rules": [
+      "No smoking, parties or events.",
+      "Check-in time from 2 PM, check-out by 10 AM.",
+      "Time to time car parking",
+      "Download Our minimal app",
+      "Browse regular our website"
+    ],
+    "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
+    "location": {
+      "lat": 31.53912,
+      "lng": -89.29163
     },
-    {
-        "id": 6,
-        "title": "Triple Room",
-        "price": 255,
-        "period": "Night",
-        "category": [
-            2
-        ],
-        "gridimage": "assets/img/room/06.jpg",
-        "listimage": "assets/img/room/list-6.jpg",
-        "sliderimage": "assets/img/room-slider/06.jpg",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "longdesc": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>",
-        "authors": [
-            3,
-            4
-        ],
-        "amenities": [
-            {
-                "title": "Air conditioner",
-                "icon": "fal fa-bath"
-            },
-            {
-                "title": "High speed WiFi",
-                "icon": "fal fa-wifi"
-            },
-            {
-                "title": "Strong Locker",
-                "icon": "fal fa-key"
-            },
-            {
-                "title": "Breakfast",
-                "icon": "fal fa-cut"
-            },
-            {
-                "title": "Kitchen",
-                "icon": "fal fa-guitar"
-            },
-            {
-                "title": "Smart Security",
-                "icon": "fal fa-lock"
-            },
-            {
-                "title": "Cleaning",
-                "icon": "fal fa-broom"
-            },
-            {
-                "title": "Shower",
-                "icon": "fal fa-shower"
-            },
-            {
-                "title": "24/7 Online Support",
-                "icon": "fal fa-headphones-alt"
-            },
-            {
-                "title": "Grocery",
-                "icon": "fal fa-shopping-basket"
-            },
-            {
-                "title": "Single bed",
-                "icon": "fal fa-bed"
-            },
-            {
-                "title": "Expert Team",
-                "icon": "fal fa-users"
-            },
-            {
-                "title": "shop near",
-                "icon": "fal fa-shopping-cart"
-            },
-            {
-                "title": "Towels",
-                "icon": "fal fa-bus"
-            }
-        ],
-        "rules": [
-            "No smoking, parties or events.",
-            "Check-in time from 2 PM, check-out by 10 AM.",
-            "Time to time car parking",
-            "Download Our minimal app",
-            "Browse regular our website"
-        ],
-        "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
-        "location": {
-            "lat": 31.53912,
-            "lng": -89.29163
-        },
-        "offer":true
+    "offer": false
+  },
+  {
+    "id": 6,
+    "title": "Triple Room",
+    "price": 255,
+    "period": "Night",
+    "category": [2],
+    "gridimage": "assets/img/room/06.jpg",
+    "listimage": "assets/img/room/list-6.jpg",
+    "sliderimage": "assets/img/room-slider/06.jpg",
+    "text": "Experience comfort and luxury in our Junior Suite, thoughtfully designed for your relaxation. Featuring modern amenities and elegant decor, it's the perfect retreat after a day of exploration.",
+    "longdesc": "<p>Indulge in the elegance of our Junior Suite, where every detail speaks of sophistication and comfort. Revel in the plush furnishings and upscale amenities that ensure a memorable stay. From the serene ambiance to the impeccable service, our suite promises a tranquil haven amidst the bustling city. Whether you're traveling for business or leisure, our Junior Suite offers a spacious retreat with all the comforts of home. Enjoy panoramic city views, unwind in the cozy living area, or pamper yourself in the luxurious bathroom equipped with premium toiletries. Our dedicated team is always on hand to cater to your every need, ensuring a seamless and enjoyable experience from start to finish. For those looking to stay active, take advantage of our fitness center or explore nearby jogging trails. Indulge in delectable cuisine at our on-site restaurant, or enjoy a refreshing cocktail at the bar. With convenient access to local attractions, shopping, and entertainment, our Junior Suite is the ideal choice for discerning travelers seeking comfort, convenience, and style.</p>",
+    "authors": [3, 4],
+    "amenities": [
+      {
+        "title": "Air conditioner",
+        "icon": "fal fa-bath"
+      },
+      {
+        "title": "High speed WiFi",
+        "icon": "fal fa-wifi"
+      },
+      {
+        "title": "Strong Locker",
+        "icon": "fal fa-key"
+      },
+      {
+        "title": "Breakfast",
+        "icon": "fal fa-cut"
+      },
+      {
+        "title": "Kitchen",
+        "icon": "fal fa-guitar"
+      },
+      {
+        "title": "Smart Security",
+        "icon": "fal fa-lock"
+      },
+      {
+        "title": "Cleaning",
+        "icon": "fal fa-broom"
+      },
+      {
+        "title": "Shower",
+        "icon": "fal fa-shower"
+      },
+      {
+        "title": "24/7 Online Support",
+        "icon": "fal fa-headphones-alt"
+      },
+      {
+        "title": "Grocery",
+        "icon": "fal fa-shopping-basket"
+      },
+      {
+        "title": "Single bed",
+        "icon": "fal fa-bed"
+      },
+      {
+        "title": "Expert Team",
+        "icon": "fal fa-users"
+      },
+      {
+        "title": "shop near",
+        "icon": "fal fa-shopping-cart"
+      },
+      {
+        "title": "Towels",
+        "icon": "fal fa-bus"
+      }
+    ],
+    "rules": [
+      "No smoking, parties or events.",
+      "Check-in time from 2 PM, check-out by 10 AM.",
+      "Time to time car parking",
+      "Download Our minimal app",
+      "Browse regular our website"
+    ],
+    "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
+    "location": {
+      "lat": 31.53912,
+      "lng": -89.29163
     },
-    {
-        "id": 7,
-        "title": "Single Room",
-        "price": 75,
-        "period": "Night",
-        "category": [
-            3
-        ],
-        "gridimage": "assets/img/room/07.jpg",
-        "listimage": "assets/img/room/list-1.jpg",
-        "sliderimage": "assets/img/room-slider/07.jpg",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "longdesc": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>",
-        "authors": [
-            1,
-            2
-        ],
-        "amenities": [
-            {
-                "title": "Air conditioner",
-                "icon": "fal fa-bath"
-            },
-            {
-                "title": "High speed WiFi",
-                "icon": "fal fa-wifi"
-            },
-            {
-                "title": "Strong Locker",
-                "icon": "fal fa-key"
-            },
-            {
-                "title": "Breakfast",
-                "icon": "fal fa-cut"
-            },
-            {
-                "title": "Kitchen",
-                "icon": "fal fa-guitar"
-            },
-            {
-                "title": "Smart Security",
-                "icon": "fal fa-lock"
-            },
-            {
-                "title": "Cleaning",
-                "icon": "fal fa-broom"
-            },
-            {
-                "title": "Shower",
-                "icon": "fal fa-shower"
-            },
-            {
-                "title": "24/7 Online Support",
-                "icon": "fal fa-headphones-alt"
-            },
-            {
-                "title": "Grocery",
-                "icon": "fal fa-shopping-basket"
-            },
-            {
-                "title": "Single bed",
-                "icon": "fal fa-bed"
-            },
-            {
-                "title": "Expert Team",
-                "icon": "fal fa-users"
-            },
-            {
-                "title": "shop near",
-                "icon": "fal fa-shopping-cart"
-            },
-            {
-                "title": "Towels",
-                "icon": "fal fa-bus"
-            }
-        ],
-        "rules": [
-            "No smoking, parties or events.",
-            "Check-in time from 2 PM, check-out by 10 AM.",
-            "Time to time car parking",
-            "Download Our minimal app",
-            "Browse regular our website"
-        ],
-        "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
-        "location": {
-            "lat": 31.53912,
-            "lng": -89.29163
-        },
-        "offer":false
+    "offer": true
+  },
+  {
+    "id": 7,
+    "title": "Single Room",
+    "price": 75,
+    "period": "Night",
+    "category": [3],
+    "gridimage": "assets/img/room/07.jpg",
+    "listimage": "assets/img/room/list-1.jpg",
+    "sliderimage": "assets/img/room-slider/07.jpg",
+    "text": " Experience comfort and convenience in our cozy single room, designed with thoughtful touches and modern amenities to make your stay enjoyable. Whether you're traveling for business or leisure, our single room offers a welcoming retreat where you can relax, recharge, and create lasting memories.",
+    "longdesc": "<p>Our cozy single room offers a blend of comfort and convenience for travelers seeking a pleasant stay. With thoughtful touches, modern amenities, and a welcoming atmosphere, it's the perfect choice for those traveling alone. Relax and recharge in a space designed with your comfort in mind, from the comfortable bedding to the functional layout that maximizes space. Whether you're exploring the city or attending a business meeting, this room provides a comfortable haven where you can unwind after a long day. Experience warm hospitality and personalized service that will make you feel right at home from the moment you arrive. Enjoy the convenience of complimentary Wi-Fi, a flat-screen TV with cable channels, and a well-appointed ensuite bathroom with premium toiletries. Start your day with a delicious continental breakfast served in the privacy of your room or head down to our on-site restaurant to savor a variety of local and international dishes. With 24-hour room service, a dedicated concierge team, and a range of amenities designed to enhance your stay, our single room offers everything you need for a comfortable and enjoyable experience. Whether you're traveling for business or leisure, you'll find that our single room provides a welcoming retreat where you can relax, rejuvenate, and create lasting memories.</p>",
+    "authors": [1, 2],
+    "amenities": [
+      {
+        "title": "Air conditioner",
+        "icon": "fal fa-bath"
+      },
+      {
+        "title": "High speed WiFi",
+        "icon": "fal fa-wifi"
+      },
+      {
+        "title": "Strong Locker",
+        "icon": "fal fa-key"
+      },
+      {
+        "title": "Breakfast",
+        "icon": "fal fa-cut"
+      },
+      {
+        "title": "Kitchen",
+        "icon": "fal fa-guitar"
+      },
+      {
+        "title": "Smart Security",
+        "icon": "fal fa-lock"
+      },
+      {
+        "title": "Cleaning",
+        "icon": "fal fa-broom"
+      },
+      {
+        "title": "Shower",
+        "icon": "fal fa-shower"
+      },
+      {
+        "title": "24/7 Online Support",
+        "icon": "fal fa-headphones-alt"
+      },
+      {
+        "title": "Grocery",
+        "icon": "fal fa-shopping-basket"
+      },
+      {
+        "title": "Single bed",
+        "icon": "fal fa-bed"
+      },
+      {
+        "title": "Expert Team",
+        "icon": "fal fa-users"
+      },
+      {
+        "title": "shop near",
+        "icon": "fal fa-shopping-cart"
+      },
+      {
+        "title": "Towels",
+        "icon": "fal fa-bus"
+      }
+    ],
+    "rules": [
+      "No smoking, parties or events.",
+      "Check-in time from 2 PM, check-out by 10 AM.",
+      "Time to time car parking",
+      "Download Our minimal app",
+      "Browse regular our website"
+    ],
+    "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
+    "location": {
+      "lat": 31.53912,
+      "lng": -89.29163
     },
-    {
-        "id": 8,
-        "title": "Master Suite",
-        "price": 550,
-        "period": "Night",
-        "category": [
-            4
-        ],
-        "gridimage": "assets/img/room/08.jpg",
-        "listimage": "assets/img/room/list-2.jpg",
-        "sliderimage": "assets/img/room-slider/08.jpg",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "longdesc": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>",
-        "authors": [
-            3,
-            4
-        ],
-        "amenities": [
-            {
-                "title": "Air conditioner",
-                "icon": "fal fa-bath"
-            },
-            {
-                "title": "High speed WiFi",
-                "icon": "fal fa-wifi"
-            },
-            {
-                "title": "Strong Locker",
-                "icon": "fal fa-key"
-            },
-            {
-                "title": "Breakfast",
-                "icon": "fal fa-cut"
-            },
-            {
-                "title": "Kitchen",
-                "icon": "fal fa-guitar"
-            },
-            {
-                "title": "Smart Security",
-                "icon": "fal fa-lock"
-            },
-            {
-                "title": "Cleaning",
-                "icon": "fal fa-broom"
-            },
-            {
-                "title": "Shower",
-                "icon": "fal fa-shower"
-            },
-            {
-                "title": "24/7 Online Support",
-                "icon": "fal fa-headphones-alt"
-            },
-            {
-                "title": "Grocery",
-                "icon": "fal fa-shopping-basket"
-            },
-            {
-                "title": "Single bed",
-                "icon": "fal fa-bed"
-            },
-            {
-                "title": "Expert Team",
-                "icon": "fal fa-users"
-            },
-            {
-                "title": "shop near",
-                "icon": "fal fa-shopping-cart"
-            },
-            {
-                "title": "Towels",
-                "icon": "fal fa-bus"
-            }
-        ],
-        "rules": [
-            "No smoking, parties or events.",
-            "Check-in time from 2 PM, check-out by 10 AM.",
-            "Time to time car parking",
-            "Download Our minimal app",
-            "Browse regular our website"
-        ],
-        "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
-        "location": {
-            "lat": 31.53912,
-            "lng": -89.29163
-        },
-        "offer":false
+    "offer": false
+  },
+  {
+    "id": 8,
+    "title": "Master Suite",
+    "price": 550,
+    "period": "Night",
+    "category": [4],
+    "gridimage": "assets/img/room/08.jpg",
+    "listimage": "assets/img/room/list-2.jpg",
+    "sliderimage": "assets/img/room-slider/08.jpg",
+    "text": "Experience unparalleled luxury in our Master Suite, meticulously designed to offer comfort and sophistication. Revel in the exquisite decor and modern amenities, ensuring a memorable stay.",
+    "longdesc": "<p>Indulge in the ultimate comfort of our Master Suite, where every detail is crafted with your utmost satisfaction in mind. From the plush furnishings to the state-of-the-art facilities, immerse yourself in a haven of tranquility and opulence. Discover a sanctuary where luxury meets functionality, promising an unforgettable retreat. Our Master Suite boasts spacious interiors adorned with tasteful artwork and elegant finishes, creating an ambiance of refined elegance. The expansive windows offer breathtaking views of the surrounding landscapes, allowing natural light to flood in, creating a serene atmosphere.</p><p>Unwind in the lavish bathroom featuring a luxurious bathtub and premium toiletries, providing a spa-like experience within the comforts of your suite. The bedroom is furnished with a sumptuous king-size bed draped in high-quality linens, ensuring a restful sleep night after night. For your entertainment, a state-of-the-art entertainment system is provided, complete with a large flat-screen TV and a selection of premium channels.</p><p>The Master Suite's kitchen is fully equipped with modern appliances and all the essential cookware, allowing you to prepare your favorite meals with ease. Enjoy your meals in the elegant dining area, or step out onto the private balcony to dine al fresco while enjoying the refreshing breeze. For those who need to stay productive during their stay, a spacious work desk and high-speed Wi-Fi are available, ensuring you can work efficiently from the comfort of your suite.</p><p>Our dedicated staff is committed to providing exceptional service, catering to your every need to ensure a seamless and enjoyable stay. Whether you require assistance with restaurant reservations, local sightseeing recommendations, or any other special requests, our attentive team is always on hand to assist. Experience the epitome of luxury and comfort in our Master Suite, where every moment is designed to exceed your expectations and create lasting memories.</p>",
+    "authors": [3, 4],
+    "amenities": [
+      {
+        "title": "Air conditioner",
+        "icon": "fal fa-bath"
+      },
+      {
+        "title": "High speed WiFi",
+        "icon": "fal fa-wifi"
+      },
+      {
+        "title": "Strong Locker",
+        "icon": "fal fa-key"
+      },
+      {
+        "title": "Breakfast",
+        "icon": "fal fa-cut"
+      },
+      {
+        "title": "Kitchen",
+        "icon": "fal fa-guitar"
+      },
+      {
+        "title": "Smart Security",
+        "icon": "fal fa-lock"
+      },
+      {
+        "title": "Cleaning",
+        "icon": "fal fa-broom"
+      },
+      {
+        "title": "Shower",
+        "icon": "fal fa-shower"
+      },
+      {
+        "title": "24/7 Online Support",
+        "icon": "fal fa-headphones-alt"
+      },
+      {
+        "title": "Grocery",
+        "icon": "fal fa-shopping-basket"
+      },
+      {
+        "title": "Single bed",
+        "icon": "fal fa-bed"
+      },
+      {
+        "title": "Expert Team",
+        "icon": "fal fa-users"
+      },
+      {
+        "title": "shop near",
+        "icon": "fal fa-shopping-cart"
+      },
+      {
+        "title": "Towels",
+        "icon": "fal fa-bus"
+      }
+    ],
+    "rules": [
+      "No smoking, parties or events.",
+      "Check-in time from 2 PM, check-out by 10 AM.",
+      "Time to time car parking",
+      "Download Our minimal app",
+      "Browse regular our website"
+    ],
+    "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
+    "location": {
+      "lat": 31.53912,
+      "lng": -89.29163
     },
-    {
-        "id": 9,
-        "title": "Classic Double Bed",
-        "price": 100,
-        "period": "Night",
-        "category": [
-            1
-        ],
-        "gridimage": "assets/img/room/09.jpg",
-        "listimage": "assets/img/room/list-3.jpg",
-        "sliderimage": "assets/img/room-slider/01.jpg",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "longdesc": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>",
-        "authors": [
-            1,
-            2
-        ],
-        "amenities": [
-            {
-                "title": "Air conditioner",
-                "icon": "fal fa-bath"
-            },
-            {
-                "title": "High speed WiFi",
-                "icon": "fal fa-wifi"
-            },
-            {
-                "title": "Strong Locker",
-                "icon": "fal fa-key"
-            },
-            {
-                "title": "Breakfast",
-                "icon": "fal fa-cut"
-            },
-            {
-                "title": "Kitchen",
-                "icon": "fal fa-guitar"
-            },
-            {
-                "title": "Smart Security",
-                "icon": "fal fa-lock"
-            },
-            {
-                "title": "Cleaning",
-                "icon": "fal fa-broom"
-            },
-            {
-                "title": "Shower",
-                "icon": "fal fa-shower"
-            },
-            {
-                "title": "24/7 Online Support",
-                "icon": "fal fa-headphones-alt"
-            },
-            {
-                "title": "Grocery",
-                "icon": "fal fa-shopping-basket"
-            },
-            {
-                "title": "Single bed",
-                "icon": "fal fa-bed"
-            },
-            {
-                "title": "Expert Team",
-                "icon": "fal fa-users"
-            },
-            {
-                "title": "shop near",
-                "icon": "fal fa-shopping-cart"
-            },
-            {
-                "title": "Towels",
-                "icon": "fal fa-bus"
-            }
-        ],
-        "rules": [
-            "No smoking, parties or events.",
-            "Check-in time from 2 PM, check-out by 10 AM.",
-            "Time to time car parking",
-            "Download Our minimal app",
-            "Browse regular our website"
-        ],
-        "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
-        "location": {
-            "lat": 31.53912,
-            "lng": -89.29163
-        },
-        "offer":false
+    "offer": false
+  },
+  {
+    "id": 9,
+    "title": "Classic Double Bed",
+    "price": 100,
+    "period": "Night",
+    "category": [1],
+    "gridimage": "assets/img/room/09.jpg",
+    "listimage": "assets/img/room/list-3.jpg",
+    "sliderimage": "assets/img/room-slider/01.jpg",
+    "text": "Experience unparalleled comfort in our Classic Double Bed room, meticulously designed to cater to your every need. Revel in the seamless blend of luxury and functionality, ensuring an unforgettable stay for every guest.",
+    "longdesc": "<p>Indulge in the epitome of opulence with our Classic Double Bed room. This space is thoughtfully curated to offer a harmonious balance between elegance and modern amenities. From the plush bedding that promises a restful sleep to the state-of-the-art facilities that elevate your stay, every detail is crafted with your comfort in mind.</p><p>Awaken to the aroma of freshly brewed coffee, complemented by a sumptuous breakfast spread that caters to diverse palates. The room boasts high-speed WiFi, ensuring you're always connected, whether for work or leisure. Additionally, our smart security systems guarantee peace of mind throughout your stay.</p><p>Convenience meets luxury with amenities like air conditioning, a strong locker for your valuables, and a fully-equipped kitchenette. Our expert team is always on hand to assist, ensuring a hassle-free experience. Plus, enjoy the convenience of 24/7 online support and nearby shopping options for your convenience.</p><p>Strictly adhering to hygiene standards, our commitment to cleanliness is evident in our meticulous cleaning protocols. With easy check-in and check-out procedures, and the flexibility of our cancellation policy, we prioritize your convenience at every turn.</p><p>Experience the best of hospitality with our Classic Double Bed room, where every stay promises a blend of comfort, luxury, and unmatched convenience.</p>",
+    "authors": [1, 2],
+    "amenities": [
+      {
+        "title": "Air conditioner",
+        "icon": "fal fa-bath"
+      },
+      {
+        "title": "High speed WiFi",
+        "icon": "fal fa-wifi"
+      },
+      {
+        "title": "Strong Locker",
+        "icon": "fal fa-key"
+      },
+      {
+        "title": "Breakfast",
+        "icon": "fal fa-cut"
+      },
+      {
+        "title": "Kitchen",
+        "icon": "fal fa-guitar"
+      },
+      {
+        "title": "Smart Security",
+        "icon": "fal fa-lock"
+      },
+      {
+        "title": "Cleaning",
+        "icon": "fal fa-broom"
+      },
+      {
+        "title": "Shower",
+        "icon": "fal fa-shower"
+      },
+      {
+        "title": "24/7 Online Support",
+        "icon": "fal fa-headphones-alt"
+      },
+      {
+        "title": "Grocery",
+        "icon": "fal fa-shopping-basket"
+      },
+      {
+        "title": "Single bed",
+        "icon": "fal fa-bed"
+      },
+      {
+        "title": "Expert Team",
+        "icon": "fal fa-users"
+      },
+      {
+        "title": "shop near",
+        "icon": "fal fa-shopping-cart"
+      },
+      {
+        "title": "Towels",
+        "icon": "fal fa-bus"
+      }
+    ],
+    "rules": [
+      "No smoking, parties or events.",
+      "Check-in time from 2 PM, check-out by 10 AM.",
+      "Time to time car parking",
+      "Download Our minimal app",
+      "Browse regular our website"
+    ],
+    "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
+    "location": {
+      "lat": 31.53912,
+      "lng": -89.29163
     },
-    {
-        "id": 10,
-        "title": "Amber Lastir",
-        "price": 365,
-        "period": "Night",
-        "category": [
-            2
-        ],
-        "gridimage": "assets/img/room/10.jpg",
-        "listimage": "assets/img/room/list-4.jpg",
-        "sliderimage": "assets/img/room-slider/02.jpg",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "longdesc": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>",
-        "authors": [
-            3,
-            4
-        ],
-        "amenities": [
-            {
-                "title": "Air conditioner",
-                "icon": "fal fa-bath"
-            },
-            {
-                "title": "High speed WiFi",
-                "icon": "fal fa-wifi"
-            },
-            {
-                "title": "Strong Locker",
-                "icon": "fal fa-key"
-            },
-            {
-                "title": "Breakfast",
-                "icon": "fal fa-cut"
-            },
-            {
-                "title": "Kitchen",
-                "icon": "fal fa-guitar"
-            },
-            {
-                "title": "Smart Security",
-                "icon": "fal fa-lock"
-            },
-            {
-                "title": "Cleaning",
-                "icon": "fal fa-broom"
-            },
-            {
-                "title": "Shower",
-                "icon": "fal fa-shower"
-            },
-            {
-                "title": "24/7 Online Support",
-                "icon": "fal fa-headphones-alt"
-            },
-            {
-                "title": "Grocery",
-                "icon": "fal fa-shopping-basket"
-            },
-            {
-                "title": "Single bed",
-                "icon": "fal fa-bed"
-            },
-            {
-                "title": "Expert Team",
-                "icon": "fal fa-users"
-            },
-            {
-                "title": "shop near",
-                "icon": "fal fa-shopping-cart"
-            },
-            {
-                "title": "Towels",
-                "icon": "fal fa-bus"
-            }
-        ],
-        "rules": [
-            "No smoking, parties or events.",
-            "Check-in time from 2 PM, check-out by 10 AM.",
-            "Time to time car parking",
-            "Download Our minimal app",
-            "Browse regular our website"
-        ],
-        "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
-        "location": {
-            "lat": 31.53912,
-            "lng": -89.29163
-        },
-        "offer":false
+    "offer": false
+  },
+  {
+    "id": 10,
+    "title": "Amber Lastir",
+    "price": 365,
+    "period": "Night",
+    "category": [2],
+    "gridimage": "assets/img/room/10.jpg",
+    "listimage": "assets/img/room/list-4.jpg",
+    "sliderimage": "assets/img/room-slider/02.jpg",
+    "text": "Experience unparalleled comfort at Amber Lastir. Immerse yourself in luxury with our meticulously designed rooms. Discover a blend of modern amenities and timeless elegance. Perfect for both business and leisure travelers, our accommodations offer a sanctuary in the heart of the city.",
+    "longdesc": "<p>Experience unparalleled comfort at Amber Lastir. Immerse yourself in luxury with our meticulously designed rooms. Discover a blend of modern amenities and timeless elegance. Perfect for both business and leisure travelers, our accommodations offer a sanctuary in the heart of the city. From the moment you step into our hotel, you'll be greeted by a warm and welcoming atmosphere. Each room is equipped with state-of-the-art facilities, ensuring a relaxing and enjoyable stay. Whether you're here for a short visit or an extended stay, our attentive staff is always on hand to assist you with anything you need. Indulge in our complimentary breakfast buffet, featuring a variety of delicious options to start your day right. Stay connected with our high-speed WiFi, designed to meet the needs of today's digital nomads. Our smart security systems ensure your peace of mind throughout your stay. Additionally, we offer 24/7 online support, so you can reach out to us anytime, anywhere. Explore nearby shops and attractions, all within walking distance from our hotel. We also offer convenient parking facilities for our guests. Experience the ultimate in comfort and convenience at Amber Lastir. Book your stay with us today!</p>",
+    "authors": [3, 4],
+    "amenities": [
+      {
+        "title": "Air conditioner",
+        "icon": "fal fa-bath"
+      },
+      {
+        "title": "High speed WiFi",
+        "icon": "fal fa-wifi"
+      },
+      {
+        "title": "Strong Locker",
+        "icon": "fal fa-key"
+      },
+      {
+        "title": "Breakfast",
+        "icon": "fal fa-cut"
+      },
+      {
+        "title": "Kitchen",
+        "icon": "fal fa-guitar"
+      },
+      {
+        "title": "Smart Security",
+        "icon": "fal fa-lock"
+      },
+      {
+        "title": "Cleaning",
+        "icon": "fal fa-broom"
+      },
+      {
+        "title": "Shower",
+        "icon": "fal fa-shower"
+      },
+      {
+        "title": "24/7 Online Support",
+        "icon": "fal fa-headphones-alt"
+      },
+      {
+        "title": "Grocery",
+        "icon": "fal fa-shopping-basket"
+      },
+      {
+        "title": "Single bed",
+        "icon": "fal fa-bed"
+      },
+      {
+        "title": "Expert Team",
+        "icon": "fal fa-users"
+      },
+      {
+        "title": "shop near",
+        "icon": "fal fa-shopping-cart"
+      },
+      {
+        "title": "Towels",
+        "icon": "fal fa-bus"
+      }
+    ],
+    "rules": [
+      "No smoking, parties or events.",
+      "Check-in time from 2 PM, check-out by 10 AM.",
+      "Time to time car parking",
+      "Download Our minimal app",
+      "Browse regular our website"
+    ],
+    "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
+    "location": {
+      "lat": 31.53912,
+      "lng": -89.29163
     },
-    {
-        "id": 11,
-        "title": "Sundred Serenity",
-        "price": 355,
-        "period": "Night",
-        "category": [
-            3
-        ],
-        "gridimage": "assets/img/room/11.jpg",
-        "listimage": "assets/img/room/list-5.jpg",
-        "sliderimage": "assets/img/room-slider/03.jpg",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "longdesc": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>",
-        "authors": [
-            1,
-            2
-        ],
-        "amenities": [
-            {
-                "title": "Air conditioner",
-                "icon": "fal fa-bath"
-            },
-            {
-                "title": "High speed WiFi",
-                "icon": "fal fa-wifi"
-            },
-            {
-                "title": "Strong Locker",
-                "icon": "fal fa-key"
-            },
-            {
-                "title": "Breakfast",
-                "icon": "fal fa-cut"
-            },
-            {
-                "title": "Kitchen",
-                "icon": "fal fa-guitar"
-            },
-            {
-                "title": "Smart Security",
-                "icon": "fal fa-lock"
-            },
-            {
-                "title": "Cleaning",
-                "icon": "fal fa-broom"
-            },
-            {
-                "title": "Shower",
-                "icon": "fal fa-shower"
-            },
-            {
-                "title": "24/7 Online Support",
-                "icon": "fal fa-headphones-alt"
-            },
-            {
-                "title": "Grocery",
-                "icon": "fal fa-shopping-basket"
-            },
-            {
-                "title": "Single bed",
-                "icon": "fal fa-bed"
-            },
-            {
-                "title": "Expert Team",
-                "icon": "fal fa-users"
-            },
-            {
-                "title": "shop near",
-                "icon": "fal fa-shopping-cart"
-            },
-            {
-                "title": "Towels",
-                "icon": "fal fa-bus"
-            }
-        ],
-        "rules": [
-            "No smoking, parties or events.",
-            "Check-in time from 2 PM, check-out by 10 AM.",
-            "Time to time car parking",
-            "Download Our minimal app",
-            "Browse regular our website"
-        ],
-        "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
-        "location": {
-            "lat": 31.53912,
-            "lng": -89.29163
-        },
-        "offer":false
+    "offer": false
+  },
+  {
+    "id": 11,
+    "title": "Sundred Serenity",
+    "price": 355,
+    "period": "Night",
+    "category": [3],
+    "gridimage": "assets/img/room/11.jpg",
+    "listimage": "assets/img/room/list-5.jpg",
+    "sliderimage": "assets/img/room-slider/03.jpg",
+    "text": "Experience unparalleled luxury at Sundred Serenity, where comfort meets elegance. Indulge in a serene retreat that promises rejuvenation and tranquility. Dive into a world of opulence and sophistication.",
+    "longdesc": "<p>Experience the epitome of luxury and comfort at Sundred Serenity. Nestled amidst breathtaking landscapes, this sanctuary offers an escape from the ordinary. Revel in spacious accommodations adorned with modern amenities, ensuring a memorable stay.</p><p>Our rooms are meticulously designed, blending style with functionality. Immerse yourself in plush bedding, exquisite decor, and state-of-the-art facilities. Whether you're here for business or leisure, Sundred Serenity caters to all your needs with unparalleled hospitality.</p><p>Awaken your senses with our delectable breakfast spread, crafted with fresh, locally-sourced ingredients. Stay connected with high-speed WiFi and enjoy peace of mind with our smart security features. With 24/7 online support, we're always here to assist you.</p><p>Explore the nearby shopping destinations or unwind with a leisurely stroll in the vicinity. Our expert team is dedicated to ensuring your comfort, making your stay truly memorable. Discover the essence of luxury at Sundred Serenity, where every moment is crafted to perfection.</p><p>Embrace the tranquility and indulge in the ultimate relaxation. Experience the warmth of our hospitality and the splendor of our surroundings. Book your stay now and embark on a journey of unparalleled luxury and serenity.</p>",
+    "authors": [1, 2],
+    "amenities": [
+      {
+        "title": "Air conditioner",
+        "icon": "fal fa-bath"
+      },
+      {
+        "title": "High speed WiFi",
+        "icon": "fal fa-wifi"
+      },
+      {
+        "title": "Strong Locker",
+        "icon": "fal fa-key"
+      },
+      {
+        "title": "Breakfast",
+        "icon": "fal fa-cut"
+      },
+      {
+        "title": "Kitchen",
+        "icon": "fal fa-guitar"
+      },
+      {
+        "title": "Smart Security",
+        "icon": "fal fa-lock"
+      },
+      {
+        "title": "Cleaning",
+        "icon": "fal fa-broom"
+      },
+      {
+        "title": "Shower",
+        "icon": "fal fa-shower"
+      },
+      {
+        "title": "24/7 Online Support",
+        "icon": "fal fa-headphones-alt"
+      },
+      {
+        "title": "Grocery",
+        "icon": "fal fa-shopping-basket"
+      },
+      {
+        "title": "Single bed",
+        "icon": "fal fa-bed"
+      },
+      {
+        "title": "Expert Team",
+        "icon": "fal fa-users"
+      },
+      {
+        "title": "shop near",
+        "icon": "fal fa-shopping-cart"
+      },
+      {
+        "title": "Towels",
+        "icon": "fal fa-bus"
+      }
+    ],
+    "rules": [
+      "No smoking, parties or events.",
+      "Check-in time from 2 PM, check-out by 10 AM.",
+      "Time to time car parking",
+      "Download Our minimal app",
+      "Browse regular our website"
+    ],
+    "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
+    "location": {
+      "lat": 31.53912,
+      "lng": -89.29163
     },
-    {
-        "id": 12,
-        "title": "Cambodian Star",
-        "price": 275,
-        "period": "Night",
-        "category": [
-            4
-        ],
-        "gridimage": "assets/img/room/12.jpg",
-        "listimage": "assets/img/room/list-6.jpg",
-        "sliderimage": "assets/img/room-slider/04.jpg",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "longdesc": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>",
-        "authors": [
-            3,
-            4
-        ],
-        "amenities": [
-            {
-                "title": "Air conditioner",
-                "icon": "fal fa-bath"
-            },
-            {
-                "title": "High speed WiFi",
-                "icon": "fal fa-wifi"
-            },
-            {
-                "title": "Strong Locker",
-                "icon": "fal fa-key"
-            },
-            {
-                "title": "Breakfast",
-                "icon": "fal fa-cut"
-            },
-            {
-                "title": "Kitchen",
-                "icon": "fal fa-guitar"
-            },
-            {
-                "title": "Smart Security",
-                "icon": "fal fa-lock"
-            },
-            {
-                "title": "Cleaning",
-                "icon": "fal fa-broom"
-            },
-            {
-                "title": "Shower",
-                "icon": "fal fa-shower"
-            },
-            {
-                "title": "24/7 Online Support",
-                "icon": "fal fa-headphones-alt"
-            },
-            {
-                "title": "Grocery",
-                "icon": "fal fa-shopping-basket"
-            },
-            {
-                "title": "Single bed",
-                "icon": "fal fa-bed"
-            },
-            {
-                "title": "Expert Team",
-                "icon": "fal fa-users"
-            },
-            {
-                "title": "shop near",
-                "icon": "fal fa-shopping-cart"
-            },
-            {
-                "title": "Towels",
-                "icon": "fal fa-bus"
-            }
-        ],
-        "rules": [
-            "No smoking, parties or events.",
-            "Check-in time from 2 PM, check-out by 10 AM.",
-            "Time to time car parking",
-            "Download Our minimal app",
-            "Browse regular our website"
-        ],
-        "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
-        "location": {
-            "lat": 31.53912,
-            "lng": -89.29163
-        },
-        "offer":false
+    "offer": false
+  },
+  {
+    "id": 12,
+    "title": "Cambodian Star",
+    "price": 275,
+    "period": "Night",
+    "category": [4],
+    "gridimage": "assets/img/room/12.jpg",
+    "listimage": "assets/img/room/list-6.jpg",
+    "sliderimage": "assets/img/room-slider/04.jpg",
+    "text": "Discover the unparalleled comfort of our Cambodian Star suite. Immerse yourself in a blend of contemporary design and traditional charm, providing a serene retreat after a day of exploration.",
+    "longdesc": "<p>Experience the epitome of luxury and sophistication with our Cambodian Star suite. Situated amidst breathtaking landscapes, this suite offers guests an exquisite fusion of modern amenities and authentic Cambodian elegance. Revel in spacious interiors adorned with tasteful furnishings, ensuring a restful and rejuvenating stay. Indulge in the sumptuous king-size bed, enveloped in premium linens for the ultimate sleeping experience.</p><p>Unwind in the lavish bathroom featuring a rejuvenating rain shower and a deep soaking tub, complemented by luxurious bath amenities. Stay connected with high-speed WiFi and enjoy entertainment on a state-of-the-art flat-screen TV. For those who love to cook, the fully-equipped kitchenette awaits your culinary adventures.</p><p>Your safety and security are our top priorities; hence, our suite boasts smart security features and 24/7 online support for your peace of mind. Additionally, our dedicated team ensures impeccable cleanliness and hygiene standards throughout your stay. Whether you're visiting for business or leisure, the Cambodian Star suite promises an unforgettable experience tailored to meet your every need.</p>",
+    "authors": [3, 4],
+    "amenities": [
+      {
+        "title": "Air conditioner",
+        "icon": "fal fa-bath"
+      },
+      {
+        "title": "High speed WiFi",
+        "icon": "fal fa-wifi"
+      },
+      {
+        "title": "Strong Locker",
+        "icon": "fal fa-key"
+      },
+      {
+        "title": "Breakfast",
+        "icon": "fal fa-cut"
+      },
+      {
+        "title": "Kitchen",
+        "icon": "fal fa-guitar"
+      },
+      {
+        "title": "Smart Security",
+        "icon": "fal fa-lock"
+      },
+      {
+        "title": "Cleaning",
+        "icon": "fal fa-broom"
+      },
+      {
+        "title": "Shower",
+        "icon": "fal fa-shower"
+      },
+      {
+        "title": "24/7 Online Support",
+        "icon": "fal fa-headphones-alt"
+      },
+      {
+        "title": "Grocery",
+        "icon": "fal fa-shopping-basket"
+      },
+      {
+        "title": "Single bed",
+        "icon": "fal fa-bed"
+      },
+      {
+        "title": "Expert Team",
+        "icon": "fal fa-users"
+      },
+      {
+        "title": "shop near",
+        "icon": "fal fa-shopping-cart"
+      },
+      {
+        "title": "Towels",
+        "icon": "fal fa-bus"
+      }
+    ],
+    "rules": [
+      "No smoking, parties or events.",
+      "Check-in time from 2 PM, check-out by 10 AM.",
+      "Time to time car parking",
+      "Download Our minimal app",
+      "Browse regular our website"
+    ],
+    "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
+    "location": {
+      "lat": 31.53912,
+      "lng": -89.29163
     },
-    {
-        "id": 13,
-        "title": "Queen Room",
-        "price": 375,
-        "period": "Night",
-        "category": [
-            1
-        ],
-        "gridimage": "assets/img/room/13.jpg",
-        "listimage": "assets/img/room/list-1.jpg",
-        "sliderimage": "assets/img/room-slider/05.jpg",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "longdesc": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>",
-        "authors": [
-            1,
-            2
-        ],
-        "amenities": [
-            {
-                "title": "Air conditioner",
-                "icon": "fal fa-bath"
-            },
-            {
-                "title": "High speed WiFi",
-                "icon": "fal fa-wifi"
-            },
-            {
-                "title": "Strong Locker",
-                "icon": "fal fa-key"
-            },
-            {
-                "title": "Breakfast",
-                "icon": "fal fa-cut"
-            },
-            {
-                "title": "Kitchen",
-                "icon": "fal fa-guitar"
-            },
-            {
-                "title": "Smart Security",
-                "icon": "fal fa-lock"
-            },
-            {
-                "title": "Cleaning",
-                "icon": "fal fa-broom"
-            },
-            {
-                "title": "Shower",
-                "icon": "fal fa-shower"
-            },
-            {
-                "title": "24/7 Online Support",
-                "icon": "fal fa-headphones-alt"
-            },
-            {
-                "title": "Grocery",
-                "icon": "fal fa-shopping-basket"
-            },
-            {
-                "title": "Single bed",
-                "icon": "fal fa-bed"
-            },
-            {
-                "title": "Expert Team",
-                "icon": "fal fa-users"
-            },
-            {
-                "title": "shop near",
-                "icon": "fal fa-shopping-cart"
-            },
-            {
-                "title": "Towels",
-                "icon": "fal fa-bus"
-            }
-        ],
-        "rules": [
-            "No smoking, parties or events.",
-            "Check-in time from 2 PM, check-out by 10 AM.",
-            "Time to time car parking",
-            "Download Our minimal app",
-            "Browse regular our website"
-        ],
-        "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
-        "location": {
-            "lat": 31.53912,
-            "lng": -89.29163
-        },
-        "offer":false
+    "offer": false
+  },
+  {
+    "id": 13,
+    "title": "Queen Room",
+    "price": 375,
+    "period": "Night",
+    "category": [1],
+    "gridimage": "assets/img/room/13.jpg",
+    "listimage": "assets/img/room/list-1.jpg",
+    "sliderimage": "assets/img/room-slider/05.jpg",
+    "text": "Experience unparalleled comfort in our Queen Room. Designed with your relaxation in mind, this room boasts modern amenities and elegant decor. Perfect for solo travelers or couples seeking a cozy retreat.",
+    "longdesc": "<p>Discover the epitome of luxury and comfort in our Queen Room. Immerse yourself in a serene ambiance, complemented by sophisticated furnishings and state-of-the-art amenities. Whether you're traveling for business or leisure, our room offers a tranquil haven for relaxation. Indulge in the plush bedding, unwind in the spacious living area, and enjoy the convenience of high-speed WiFi and smart security features. Our attentive staff is always on hand to cater to your every need, ensuring a memorable stay. Additionally, take advantage of our complimentary breakfast and 24/7 online support. With a prime location near shopping centers and tourist attractions, our Queen Room is the ideal choice for discerning travelers. Experience luxury redefined at our establishment.</p>",
+    "authors": [1, 2],
+    "amenities": [
+      {
+        "title": "Air conditioner",
+        "icon": "fal fa-bath"
+      },
+      {
+        "title": "High speed WiFi",
+        "icon": "fal fa-wifi"
+      },
+      {
+        "title": "Strong Locker",
+        "icon": "fal fa-key"
+      },
+      {
+        "title": "Breakfast",
+        "icon": "fal fa-cut"
+      },
+      {
+        "title": "Kitchen",
+        "icon": "fal fa-guitar"
+      },
+      {
+        "title": "Smart Security",
+        "icon": "fal fa-lock"
+      },
+      {
+        "title": "Cleaning",
+        "icon": "fal fa-broom"
+      },
+      {
+        "title": "Shower",
+        "icon": "fal fa-shower"
+      },
+      {
+        "title": "24/7 Online Support",
+        "icon": "fal fa-headphones-alt"
+      },
+      {
+        "title": "Grocery",
+        "icon": "fal fa-shopping-basket"
+      },
+      {
+        "title": "Single bed",
+        "icon": "fal fa-bed"
+      },
+      {
+        "title": "Expert Team",
+        "icon": "fal fa-users"
+      },
+      {
+        "title": "shop near",
+        "icon": "fal fa-shopping-cart"
+      },
+      {
+        "title": "Towels",
+        "icon": "fal fa-bus"
+      }
+    ],
+    "rules": [
+      "No smoking, parties or events.",
+      "Check-in time from 2 PM, check-out by 10 AM.",
+      "Time to time car parking",
+      "Download Our minimal app",
+      "Browse regular our website"
+    ],
+    "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
+    "location": {
+      "lat": 31.53912,
+      "lng": -89.29163
     },
-    {
-        "id": 14,
-        "title": "Junior Suite",
-        "price": 325,
-        "period": "Night",
-        "category": [
-            2
-        ],
-        "gridimage": "assets/img/room/14.jpg",
-        "listimage": "assets/img/room/list-2.jpg",
-        "sliderimage": "assets/img/room-slider/06.jpg",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "longdesc": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>",
-        "authors": [
-            3,
-            4
-        ],
-        "amenities": [
-            {
-                "title": "Air conditioner",
-                "icon": "fal fa-bath"
-            },
-            {
-                "title": "High speed WiFi",
-                "icon": "fal fa-wifi"
-            },
-            {
-                "title": "Strong Locker",
-                "icon": "fal fa-key"
-            },
-            {
-                "title": "Breakfast",
-                "icon": "fal fa-cut"
-            },
-            {
-                "title": "Kitchen",
-                "icon": "fal fa-guitar"
-            },
-            {
-                "title": "Smart Security",
-                "icon": "fal fa-lock"
-            },
-            {
-                "title": "Cleaning",
-                "icon": "fal fa-broom"
-            },
-            {
-                "title": "Shower",
-                "icon": "fal fa-shower"
-            },
-            {
-                "title": "24/7 Online Support",
-                "icon": "fal fa-headphones-alt"
-            },
-            {
-                "title": "Grocery",
-                "icon": "fal fa-shopping-basket"
-            },
-            {
-                "title": "Single bed",
-                "icon": "fal fa-bed"
-            },
-            {
-                "title": "Expert Team",
-                "icon": "fal fa-users"
-            },
-            {
-                "title": "shop near",
-                "icon": "fal fa-shopping-cart"
-            },
-            {
-                "title": "Towels",
-                "icon": "fal fa-bus"
-            }
-        ],
-        "rules": [
-            "No smoking, parties or events.",
-            "Check-in time from 2 PM, check-out by 10 AM.",
-            "Time to time car parking",
-            "Download Our minimal app",
-            "Browse regular our website"
-        ],
-        "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
-        "location": {
-            "lat": 31.53912,
-            "lng": -89.29163
-        },
-        "offer":false
-    }
+    "offer": false
+  },
+  {
+    "id": 14,
+    "title": "Junior Suite",
+    "price": 325,
+    "period": "Night",
+    "category": [2],
+    "gridimage": "assets/img/room/14.jpg",
+    "listimage": "assets/img/room/list-2.jpg",
+    "sliderimage": "assets/img/room-slider/06.jpg",
+    "text": "Experience unmatched luxury in our Junior Suite, meticulously designed to offer you a blend of comfort and elegance. Revel in the serene ambiance and modern amenities that cater to all your needs.",
+    "longdesc": "<p>Indulge in the ultimate comfort with our Junior Suite, where every detail is crafted with your relaxation in mind. From the plush bedding to the state-of-the-art facilities, we ensure a stay that exceeds expectations. Delight in the spacious interiors adorned with tasteful decor, creating an inviting atmosphere for both leisure and work. Dive into a world of tranquility as you unwind in the opulent setting, equipped with high-speed WiFi, smart security, and more. Our commitment to excellence shines through in every corner, making your stay truly memorable.</p><p>Our Junior Suite is designed to offer an unparalleled experience of luxury and sophistication. The room boasts of modern amenities such as air conditioning, high-speed WiFi, and a strong locker to ensure the utmost comfort and security during your stay. Wake up to a complimentary breakfast served in-room or at our elegant dining area, followed by a refreshing shower in our well-appointed bathroom facilities.</p><p>Additionally, our guests have access to a fully-equipped kitchen, allowing you to prepare your favorite meals at your convenience. For those who prefer to dine out, there are numerous dining options and shops located near our property, ensuring you never run out of choices. Our expert team is always available to assist you with any queries or special requests, ensuring a hassle-free stay.</p>",
+    "authors": [3, 4],
+    "amenities": [
+      {
+        "title": "Air conditioner",
+        "icon": "fal fa-bath"
+      },
+      {
+        "title": "High speed WiFi",
+        "icon": "fal fa-wifi"
+      },
+      {
+        "title": "Strong Locker",
+        "icon": "fal fa-key"
+      },
+      {
+        "title": "Breakfast",
+        "icon": "fal fa-cut"
+      },
+      {
+        "title": "Kitchen",
+        "icon": "fal fa-guitar"
+      },
+      {
+        "title": "Smart Security",
+        "icon": "fal fa-lock"
+      },
+      {
+        "title": "Cleaning",
+        "icon": "fal fa-broom"
+      },
+      {
+        "title": "Shower",
+        "icon": "fal fa-shower"
+      },
+      {
+        "title": "24/7 Online Support",
+        "icon": "fal fa-headphones-alt"
+      },
+      {
+        "title": "Grocery",
+        "icon": "fal fa-shopping-basket"
+      },
+      {
+        "title": "Single bed",
+        "icon": "fal fa-bed"
+      },
+      {
+        "title": "Expert Team",
+        "icon": "fal fa-users"
+      },
+      {
+        "title": "shop near",
+        "icon": "fal fa-shopping-cart"
+      },
+      {
+        "title": "Towels",
+        "icon": "fal fa-bus"
+      }
+    ],
+    "rules": [
+      "No smoking, parties or events.",
+      "Check-in time from 2 PM, check-out by 10 AM.",
+      "Time to time car parking",
+      "Download Our minimal app",
+      "Browse regular our website"
+    ],
+    "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
+    "location": {
+      "lat": 31.53912,
+      "lng": -89.29163
+    },
+    "offer": false
+  }
 ]

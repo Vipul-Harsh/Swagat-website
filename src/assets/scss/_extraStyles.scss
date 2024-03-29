@@ -1,34 +1,43 @@
-.but{
-    background: #bead8e;
-    height: 10%;
-    color: white;
+.but {
+  background: #bead8e;
+  height: 10%;
+  color: white;
 }
-.menu-item{
-    .but{
-        a{
-            line-height: 50px !important;
-            width: 150px ;
-            text-align: center;
-            border: 1px solid #bead8e;
-        }
-        transition: all 0.4s ease-out 0s;
+.menu-item {
+  .but {
+    a {
+      line-height: 50px !important;
+      width: 150px;
+      text-align: center;
+      border: 1px solid #bead8e;
+      letter-spacing: 3px;
     }
-    .but:hover{
-        
-            background: transparent !important ;
-            border: 0px solid #bead8e !important;
-            transition: all 0.4s ease-out 0s;
-    }
-    text-align: -webkit-center;
-    
+    transition: all 0.4s ease-out 0s;
+  }
+  .but:hover {
+    background: transparent !important ;
+    border: 0px solid #bead8e !important;
+    transition: all 0.4s ease-out 0s;
+  }
+  text-align: -webkit-center;
+  margin-right: 20px;
+  font-size: 20px;
 }
-.itt{
-    color: black !important;
+.itt {
+  color: black !important;
+}
+.hovering-btn {
+  color: white !important;
+}
+.hovering-btn:hover {
+  color: black !important;
+}
 
+.menu-item {
+  a {
+    font-size: 16px !important;
+  }
 }
-.hovering-btn{
-    color: white !important;
-}
-.hovering-btn:hover{
- color:black !important;
+.show-button{
+  background: white !important;
 }
