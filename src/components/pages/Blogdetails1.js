@@ -1,13 +1,13 @@
 import React, { Component, Fragment } from 'react';
 import MetaTags from "react-meta-tags";
-import Header from '../layouts/HeaderStyle2';
+import Header from '../layouts/Header';
 import Footer from '../layouts/Footer';
 import Breadcrumb from '../layouts/Breadcrumb';
-import Content from '../sections/restaurant/Content';
+import Content from '../sections/blog-details/Content';
 
-const pagelocation = 'Restaurants'
+const pagelocation = 'Blog Details'
 
-class Restaurant extends Component {
+class Blogdetails extends Component {
     render() {
         return (
             <Fragment>
@@ -18,16 +18,13 @@ class Restaurant extends Component {
                         content="#"
                     />
                 </MetaTags>
-                <div style={{color:"black"}}>
                 <Header />
-                </div>
-                
                 <Breadcrumb breadcrumb={{ pagename: pagelocation }} />
-                <Content/>
+                <Content blogId={this.props.match.params.id}/>
                 <Footer />
             </Fragment>
         );
     }
 }
 
-export default Restaurant;
+export default Blogdetails;

@@ -7,27 +7,27 @@
     {
         "id": 2,
         "linkText": "About Us",
-        "link": "/about-main"
+        "link": "/about"
     },
     {
         "id": 3,
         "linkText": "Rooms",
-        "link":"/room-main"
+        "link":"/room-grid"
     },
     {
         "id": 4,
         "linkText": "Restaurant",
-        "link":"/restraunt-main"
+        "link":"/restaurant"
     },
     {
         "id": 5,
         "linkText": "Gallery",
-        "link":"/gallery-main"
+        "link":"/gallery"
     },
     {
         "id": 6,
         "linkText": "Blogs",
-        "link":"/blogs-main"
+        "link":"/blog-standard"
     },
     {
         "id": 7,

@@ -1,8 +1,9 @@
 import React, { Component, Fragment } from 'react';
 import MetaTags from "react-meta-tags";
-import Header from '../layouts/Header';
-import Footer from '../layouts/Footer';
+import Header from '../layouts/HeaderStyle2';
+import Footer from '../layouts/Footertwo';
 import Breadcrumb from '../layouts/Breadcrumb';
+import Instagram from '../sections/home-v2/Instagram';
 import Content from '../sections/blog-details/Content';
 
 const pagelocation = 'Blog Details'
@@ -21,7 +22,8 @@ class Blogdetails extends Component {
                 <Header />
                 <Breadcrumb breadcrumb={{ pagename: pagelocation }} />
                 <Content blogId={this.props.match.params.id}/>
-                <Footer />
+                <Instagram/>
+                <Footer footer={{ style:"", logo:"assets/img/footer-logo.png" }}/>
             </Fragment>
         );
     }

@@ -126,8 +126,8 @@ class Headertwo extends HeaderComponent {
                       : null}
                     <li className="menu-item">
                       <div className="but">
-                        <Link className="itt" to="/contact-main">
-                          Book Now
+                        <Link className="hovering-btn" to="/contact" >
+                          <span >Book Now</span>
                         </Link>
                       </div>
                     </li>
@@ -162,9 +162,9 @@ class Headertwo extends HeaderComponent {
                 })}
                 onClick={this.toggleNav}
               >
-                <span />
-                <span />
-                <span />
+                <span style={{background:"black"}}/>
+                <span style={{background:"black"}}/>
+                <span style={{background:"black"}}/>
               </div>
             </div>
           </div>

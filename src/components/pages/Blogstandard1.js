@@ -1,13 +1,13 @@
 import React, { Component, Fragment } from 'react';
 import MetaTags from "react-meta-tags";
-import Header from '../layouts/HeaderStyle2';
+import Header from '../layouts/Header';
 import Footer from '../layouts/Footer';
 import Breadcrumb from '../layouts/Breadcrumb';
-import Content from '../sections/room-grid/Content';
+import Content from '../sections/blog-standard/Content';
 
-const pagelocation = 'Room Grid'
+const pagelocation = 'Blog Standard'
 
-class Roomgrid extends Component {
+class Blogstandard extends Component {
     render() {
         return (
             <Fragment>
@@ -27,4 +27,4 @@ class Roomgrid extends Component {
     }
 }
 
-export default Roomgrid;
+export default Blogstandard;

@@ -19,9 +19,16 @@
             border: 0px solid #bead8e !important;
             transition: all 0.4s ease-out 0s;
     }
+    text-align: -webkit-center;
     
 }
 .itt{
     color: black !important;
 
+}
+.hovering-btn{
+    color: white !important;
+}
+.hovering-btn:hover{
+ color:black !important;
 }

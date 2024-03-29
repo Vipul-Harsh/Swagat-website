@@ -1,8 +1,9 @@
 import React, { Component, Fragment } from 'react';
 import MetaTags from "react-meta-tags";
-import Header from '../layouts/Header';
-import Footer from '../layouts/Footer';
+import Header from '../layouts/HeaderStyle2';
+import Footer from '../layouts/Footertwo';
 import Breadcrumb from '../layouts/Breadcrumb';
+import Instagram from '../sections/home-v2/Instagram';
 import Content from '../sections/room-grid/Content';
 
 const pagelocation = 'Room Grid'
@@ -21,7 +22,8 @@ class Roomgrid extends Component {
                 <Header />
                 <Breadcrumb breadcrumb={{ pagename: pagelocation }} />
                 <Content/>
-                <Footer />
+                <Instagram/>
+                <Footer footer={{ style:"", logo:"assets/img/footer-logo.png" }}/>
             </Fragment>
         );
     }

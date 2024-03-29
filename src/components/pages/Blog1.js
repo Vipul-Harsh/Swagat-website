@@ -1,13 +1,13 @@
 import React, { Component, Fragment } from 'react';
 import MetaTags from "react-meta-tags";
-import Header from '../layouts/HeaderStyle2';
+import Header from '../layouts/Header';
 import Footer from '../layouts/Footer';
 import Breadcrumb from '../layouts/Breadcrumb';
-import Content from '../sections/gallery/Content';
+import Content from '../sections/blog/Content';
 
-const pagelocation = 'Gallery'
+const pagelocation = 'Blog'
 
-class Gallery extends Component {
+class Blog extends Component {
     render() {
         return (
             <Fragment>
@@ -20,11 +20,11 @@ class Gallery extends Component {
                 </MetaTags>
                 <Header />
                 <Breadcrumb breadcrumb={{ pagename: pagelocation }} />
-                <Content/>
+                <Content catId={this.props.match.params.catId} tagId={this.props.match.params.tagId} userId={this.props.match.params.userId}/>
                 <Footer />
             </Fragment>
         );
     }
 }
 
-export default Gallery;
+export default Blog;

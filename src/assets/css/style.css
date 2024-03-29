@@ -567,7 +567,7 @@ header.header-absolute {
   width: 100%;
   z-index: 99;
   background-color: transparent;
-  top: 35px;
+  top: 22px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1599px) {
   header .container.container-custom-one {
@@ -6432,6 +6432,9 @@ footer .copyright-area.light-theme .footer-menu ul li::before {
   color: white;
 }
 
+.menu-item {
+  text-align: -webkit-center;
+}
 .menu-item .but {
   transition: all 0.4s ease-out 0s;
 }
@@ -6448,5 +6451,13 @@ footer .copyright-area.light-theme .footer-menu ul li::before {
 }
 
 .itt {
+  color: black !important;
+}
+
+.hovering-btn {
+  color: white !important;
+}
+
+.hovering-btn:hover {
   color: black !important;
 }/*# sourceMappingURL=style.css.map */

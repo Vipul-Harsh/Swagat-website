@@ -1,13 +1,13 @@
 import React, { Component, Fragment } from 'react';
 import MetaTags from "react-meta-tags";
-import Header from '../layouts/HeaderStyle2';
+import Header from '../layouts/Header';
 import Footer from '../layouts/Footer';
 import Breadcrumb from '../layouts/Breadcrumb';
-import Content from '../sections/about/Content';
+import Content from '../sections/gallery/Content';
 
-const pagelocation = 'About Us'
+const pagelocation = 'Gallery'
 
-class About extends Component {
+class Gallery extends Component {
     render() {
         return (
             <Fragment>
@@ -27,4 +27,4 @@ class About extends Component {
     }
 }
 
-export default About;
+export default Gallery;

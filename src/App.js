@@ -6,12 +6,12 @@ const Preloader = React.lazy(() => import("./components/layouts/Preloader"));
 
 // Pages
 const Home = React.lazy(() => import("./components/pages/Home"));
-const AboutMain = React.lazy(() => import("./components/pages/MainAboutUs"));
-const RoomMain= React.lazy(() => import("./components/pages/RoomMain"));
-const RestaurantMain = React.lazy(() => import("./components/pages/RestrauntMain"));
-const GalleryMain = React.lazy(() => import("./components/pages/GalleryMain"));
-const BlogsMain = React.lazy(() => import("./components/pages/BlosgsMain"));
-const ContactMain = React.lazy(() => import("./components/pages/ContactMain"));
+// const AboutMain = React.lazy(() => import("./components/pages/MainAboutUs"));
+// const RoomMain= React.lazy(() => import("./components/pages/RoomMain"));
+// const RestaurantMain = React.lazy(() => import("./components/pages/RestrauntMain"));
+// const GalleryMain = React.lazy(() => import("./components/pages/GalleryMain"));
+// const BlogsMain = React.lazy(() => import("./components/pages/BlosgsMain"));
+// const ContactMain = React.lazy(() => import("./components/pages/ContactMain"));
 const Hometwo = React.lazy(() => import("./components/pages/Hometwo"));
 const Homethree = React.lazy(() => import("./components/pages/Homethree"));
 const Roomgrid = React.lazy(() => import("./components/pages/Roomgrid"));
@@ -47,12 +47,12 @@ function App() {
         <ScrollToTop>
           <Preloader />
           <Route path="/" exact component={Home} />
-          <Route path="/about-main" exact component={AboutMain} />
+          {/* <Route path="/about-main" exact component={AboutMain} />
           <Route path="/room-main" exact component={RoomMain} />
           <Route path="/restraunt-main" exact component={RestaurantMain} />
           <Route path="/gallery-main" exact component={GalleryMain} />
           <Route path="/blogs-main" exact component={BlogsMain} />
-          <Route path="/contact-main" exact component={ContactMain} />
+          <Route path="/contact-main" exact component={ContactMain} /> */}
           <Route path="/home-v2" exact component={Hometwo} />
           <Route path="/home-v3" exact component={Homethree} />
           <Route path="/room-grid" exact component={Roomgrid} />

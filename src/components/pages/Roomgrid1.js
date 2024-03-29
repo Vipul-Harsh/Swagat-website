@@ -1,13 +1,13 @@
 import React, { Component, Fragment } from 'react';
 import MetaTags from "react-meta-tags";
-import Header from '../layouts/HeaderStyle2';
+import Header from '../layouts/Header';
 import Footer from '../layouts/Footer';
 import Breadcrumb from '../layouts/Breadcrumb';
-import Content from '../sections/contact/Content';
+import Content from '../sections/room-grid/Content';
 
-const pagelocation = 'Contact Us'
+const pagelocation = 'Room Grid'
 
-class Contact extends Component {
+class Roomgrid extends Component {
     render() {
         return (
             <Fragment>
@@ -27,4 +27,4 @@ class Contact extends Component {
     }
 }
 
-export default Contact;
+export default Roomgrid;

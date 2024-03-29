@@ -1,13 +1,13 @@
 import React, { Component, Fragment } from 'react';
 import MetaTags from "react-meta-tags";
-import Header from '../layouts/HeaderStyle2';
+import Header from '../layouts/Header';
 import Footer from '../layouts/Footer';
 import Breadcrumb from '../layouts/Breadcrumb';
-import Content from '../sections/blog-standard/Content';
+import Content from '../sections/about/Content';
 
-const pagelocation = 'Blog Standard'
+const pagelocation = 'About Us'
 
-class Blogstandard extends Component {
+class About extends Component {
     render() {
         return (
             <Fragment>
@@ -27,4 +27,4 @@ class Blogstandard extends Component {
     }
 }
 
-export default Blogstandard;
+export default About;
