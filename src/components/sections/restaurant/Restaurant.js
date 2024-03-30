@@ -35,7 +35,7 @@ class Restaurant extends Component {
                 <div className="food-box">
                     <div className="thumb">
                         <img src={process.env.PUBLIC_URL + "/" + item.img} alt="" />
-                        <span className="price">${new Intl.NumberFormat().format((item.price).toFixed(2))}</span>
+                        <span className="price bookbtn">${new Intl.NumberFormat().format((item.price).toFixed(2))}</span>
                     </div>
                     <div className="desc">
                         {item.category.slice(0,1).map((category) => (
@@ -56,10 +56,10 @@ class Restaurant extends Component {
                 <div className="container">
                     <ul className="restaurant-rood-list row justify-content-center nav nav-pills mb-30" id="restaurant-tab" role="tablist">
                         {productcategory.map((item) => (
-                            <li className="nav-item col-lg-2 col-md-3 col-sm-4 col-6">
-                                <Link key={item.id} className={this.state.activeItem === parseInt(item.id) ? 'nav-link active' : 'nav-link'} onClick={this.handleClick.bind(this, item.id)}>
+                            <li className="nav-item col-lg-2 col-md-3 col-sm-4 col-6 cates ">
+                                <Link   key={item.id} className={this.state.activeItem === parseInt(item.id) ? 'nav-link active' : 'nav-link'} id="cate" onClick={this.handleClick.bind(this, item.id)}>
                                     <i className={item.icon} />
-                                    <span className="title">{item.title}</span>
+                                    <span className="title t1">{item.title}</span>
                                 </Link>
                             </li>
                         ))}

@@ -4,7 +4,7 @@ import HeaderComponent from "../../helper/Navhelp";
 import classNames from "classnames";
 import navigationmenu from "../../data/navigation2.json";
 import Canvas from "./Canvas";
-
+import logo from "../../assets/img/swagatlogo.png"
 class Headertwo extends HeaderComponent {
   render() {
     const breakpoint = this.state.isMobile ? "breakpoint-on" : "";
@@ -26,13 +26,13 @@ class Headertwo extends HeaderComponent {
               <div className="site-logo">
                 <Link to="/" className="main-logo">
                   <img
-                    src={process.env.PUBLIC_URL + "/assets/img/logo-white.png"}
+                    src={logo}
                     alt="logo"
                   />
                 </Link>
                 <Link to="/" className="sticky-logo">
                   <img
-                    src={process.env.PUBLIC_URL + "/assets/img/logo.png"}
+                    src={logo}
                     alt="logo"
                   />
                 </Link>

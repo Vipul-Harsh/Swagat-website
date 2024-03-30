@@ -37,10 +37,10 @@ class Mainbanner extends Component {
                                         <h1 className="title" dangerouslySetInnerHTML={{ __html: item.title }}/>
                                         <ul>
                                             <li>
-                                                <Link className="main-btn btn-filled" to="/contact">Book Now</Link>
+                                                <Link className="main-btn btn-filled bookbtn" to="/contact">Book Now</Link>
                                             </li>
                                             <li>
-                                                <Link className="main-btn btn-border" to="/about">About Us</Link>
+                                                <Link className="main-btn btn-border aboutbtn" to="/about">About Us</Link>
                                             </li>
                                         </ul>
                                     </div>

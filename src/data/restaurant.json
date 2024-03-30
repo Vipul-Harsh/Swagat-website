@@ -7,7 +7,7 @@
             3,
             5
         ],
-        "title": "Roasted Lamb",
+        "title": "Roasted Vegetable Platter",
         "price": 82
     },
     {
@@ -18,7 +18,7 @@
             4,
             6
         ],
-        "title": "Shrimp Noodles",
+        "title": "Vegetable Noodles",
         "price": 50
     },
     {
@@ -40,7 +40,7 @@
             4,
             6
         ],
-        "title": "Waldorf salad",
+        "title": "Veggie Waldorf Salad",
         "price": 80
     }
 ]

@@ -55,20 +55,20 @@ class Content extends Component {
                         blogcategory.filter(item => {
                             return item.id === category
                         }).map((cat, i) => (
-                            <Link key={i} to={"/blog/cat/" + cat.id} className="cat">{cat.title}</Link>
+                            <Link key={i} to={"/blog/cat/" + cat.id} className="cat bookbtn">{cat.title}</Link>
                         ))
                     ))}
                     <h2>
-                        <Link to={"/blog-details/" + item.id}>{item.title}</Link>
+                        <Link to={"/blog-details/" + item.id} className="booktext">{item.title}</Link>
                     </h2>
                     <ul className="post-meta">
                         {
-                            item.views > 0 || item.views !== '' ? <li><Link to="#"><i className="far fa-eye" />{item.views} Views</Link></li> : ''
+                            item.views > 0 || item.views !== '' ? <li><Link to="#" className="booktext"><i className="far fa-eye" />{item.views} Views</Link></li> : ''
                         }
                         {
-                            item.reviews > 0 || item.reviews !== '' ? <li><Link to="#"><i className="far fa-comments" />{item.reviews.length} Comments</Link></li> : ''
+                            item.reviews > 0 || item.reviews !== '' ? <li><Link to="#" className="booktext"><i className="far fa-comments" />{item.reviews.length} Comments</Link></li> : ''
                         }
-                        <li><Link to="#"><i className="far fa-calendar-alt" />{item.postdate}</Link></li>
+                        <li><Link to="#"  className="booktext"><i className="far fa-calendar-alt " />{item.postdate}</Link></li>
                     </ul>
                     <p>{item.shortdesc}</p>
                     <div className="post-footer">
@@ -84,7 +84,7 @@ class Content extends Component {
                             ))
                         ))}
                         <div className="read-more">
-                            <Link to={"/blog-details/" + item.id}><i className="far fa-arrow-right" />Read More</Link>
+                            <Link to={"/blog-details/" + item.id} className="booktext"><i className="far fa-arrow-right" />Read More</Link>
                         </div>
                     </div>
                 </div>
@@ -99,8 +99,8 @@ class Content extends Component {
             const activeCondition = this.state.currentPage === number ? 'active' : ''
             return (
                 <Fragment key={number}>
-                    {pageNumbers.length > 1 ? <li className={classNames({ "active": activeCondition })}>
-                        <Link to="#" data-page={number} onClick={this.handleClick}>{number}</Link>
+                    {pageNumbers.length > 1 ? <li  className={classNames({ "active": activeCondition })}>
+                        <Link to="#" data-page={number}   id='texty' onClick={this.handleClick}>{number}</Link>
                     </li> : ''}
                 </Fragment>
             );

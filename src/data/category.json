@@ -1,8 +1,8 @@
 [
     {
         "id":1,
-        "icon":"flaticon-boiled",
-        "title":"Chicken"
+        "icon": "flaticon-boiled",
+        "title":"Veggie Delight"
     },
     {
         "id":2,
@@ -27,6 +27,6 @@
     {
         "id":6,
         "icon":"flaticon-cocktail",
-        "title":"Cocktail"
+        "title":"Cocktails"
     }
 ]

@@ -11,7 +11,7 @@ class Breadcrumb extends Component {
                         <h2 className="page-title">{this.props.breadcrumb.pagename}</h2>
                         <ul className="breadcrumb-nav">
                             <li><Link to="/">Home</Link></li>
-                            <li className="active">{this.props.breadcrumb.pagename}</li>
+                            <li className="active price2">{this.props.breadcrumb.pagename}</li>
                         </ul>
                     </div>
                 </div>

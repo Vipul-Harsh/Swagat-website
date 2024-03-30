@@ -13,7 +13,7 @@ class Restaurant extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Hotel Miranda - React Template | {pagelocation}</title>
+                    <title>Hotel Swagat - React Template | {pagelocation}</title>
                     <meta
                         name="description"
                         content="#"
@@ -25,7 +25,7 @@ class Restaurant extends Component {
                 
                 <Breadcrumb breadcrumb={{ pagename: pagelocation }} />
                 <Content/>
-                <Instagram/>
+                {/* <Instagram/> */}
                 <Footer footer={{ style:"", logo:"assets/img/footer-logo.png" }}/>
             </Fragment>
         );

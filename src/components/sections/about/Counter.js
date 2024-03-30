@@ -30,8 +30,8 @@ function Counter(props) {
             <div className="container">
                 {/* Section Title */}
                 <div className="section-title mb-80">
-                    <span className="title-tag">COUNTER</span>
-                    <h2>Some Fun Facts</h2>
+                    <span className="title-tag">SWAGAT</span>
+                    <h2>By the Numbers</h2>
                 </div>
                 {/* Counter */}
                 <div className="row justify-content-center">

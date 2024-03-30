@@ -54,10 +54,10 @@ class Content extends Component {
                                 <li key={i}><i className={item.icon} /></li>
                             ))}
                         </ul>
-                        <h4 className="title"><Link to={"/room-details/" + item.id}>{item.title}</Link></h4>
+                        <h4 className="title "><Link  className="booktext" to={"/room-details/" + item.id}>{item.title}</Link></h4>
                         <p>{item.text.slice(0,75)}...</p>
-                        <span className="price">${new Intl.NumberFormat().format(item.price)}/{item.period}</span>
-                        <Link to={"/room-details/" + item.id} className="book-btn">Booking Now</Link>
+                        <span className="price price2">${new Intl.NumberFormat().format(item.price)}/{item.period}</span>
+                        <Link to={"/room-details/" + item.id} className="book-btn booktext">Book Now</Link>
                     </div>
                 </div>
             </div>
@@ -72,7 +72,7 @@ class Content extends Component {
             return (
                 <Fragment key={number}>
                     {pageNumbers.length > 1 ? <li className={classNames({ "active": activeCondition })}>
-                        <Link to="#" data-page={number} onClick={this.handleClick}>{number}</Link>
+                        <Link to="#" data-page={number} onClick={this.handleClick} className="bookbtn">{number}</Link>
                     </li> : ''}
                 </Fragment>
             );
@@ -91,8 +91,8 @@ class Content extends Component {
                                 {/* Prev */}
                                 {/* to show previous, we need to be on the 2nd or more page */}
                                 {pageNumbers.length > 1 && this.state.currentPage !== 1 ?
-                                    <li>
-                                        <Link to="#" data-page={this.state.currentPage - 1} onClick={this.handleClick}>
+                                    <li className="booktext">
+                                        <Link to="#" data-page={this.state.currentPage - 1}  className="aboutbtn" onClick={this.handleClick}>
                                             <i className="far fa-angle-double-left" />
                                         </Link>
                                     </li>
@@ -102,7 +102,7 @@ class Content extends Component {
                                 {/* Next */}
                                 {/* to show next, we should not be on the last page */}
                                 {pageNumbers.length > 1 && this.state.currentPage !== pageNumbers.length ? <li>
-                                    <Link to="#" data-page={parseInt(this.state.currentPage + 1)} onClick={this.handleClick}>
+                                    <Link to="#" data-page={parseInt(this.state.currentPage + 1)}   onClick={this.handleClick}>
                                         <i className="far fa-angle-double-right" />
                                     </Link>
                                 </li>

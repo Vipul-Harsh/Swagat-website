@@ -68,7 +68,7 @@ function Content(props) {
                                 </div>
                             </div>
                             <div className="room-rules clearfix mb-60">
-                                <h3 className="subtitle">House Rules</h3>
+                                <h3 className="subtitle">Hotel Guidelines</h3>
                                 <ul className="room-rules-list">
                                     {item.rules.map((text, i) => (
                                         <li key={i}>{text}</li>
@@ -76,7 +76,7 @@ function Content(props) {
                                 </ul>
                             </div>
                             <div className="cancellation-box clearfix mb-60">
-                                <h3 className="subtitle">Cancellation</h3>
+                                <h3 className="subtitle">Cancellation Process</h3>
                                 <p dangerouslySetInnerHTML={{ __html: item.cancellation }} />
                             </div>
                             <div className="room-map mb-60 position-relative" id="roomMap">

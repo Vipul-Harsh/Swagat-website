@@ -20,7 +20,7 @@ class Menuarea extends Component {
                     {/* Section Title */}
                     <div className="section-title text-center mb-80">
                         <span className="title-tag">available</span>
-                        <h2>Treanding Menu</h2>
+                        <h2>Chef's Special Vegetarian Selections</h2>
                     </div>
                     {/* Menu Looop */}
                     <div className="menu-loop">
@@ -32,9 +32,9 @@ class Menuarea extends Component {
                                             <div className="menu-img" style={{ backgroundImage: "url(" + process.env.PUBLIC_URL + "/" + item.img + ")" }}>
                                             </div>
                                             <div className="menu-desc">
-                                                <h4><Link to="#">{item.title}</Link></h4>
+                                                <h4><Link to="#" className="booktext">{item.title}</Link></h4>
                                                 <p>{item.shortdesc}</p>
-                                                <Link to="#" className="menu-link"><i className="fal fa-long-arrow-right" /></Link>
+                                                <Link to="#" className="menu-link price2"><i className="fal fa-long-arrow-right" /></Link>
                                             </div>
                                         </div>
                                     ))}

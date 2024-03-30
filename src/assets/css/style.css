@@ -6427,7 +6427,7 @@ footer .copyright-area.light-theme .footer-menu ul li::before {
 }
 
 .but {
-  background: #bead8e;
+  background: #008d49;
   height: 10%;
   color: white;
 }
@@ -6444,7 +6444,7 @@ footer .copyright-area.light-theme .footer-menu ul li::before {
   line-height: 50px !important;
   width: 150px;
   text-align: center;
-  border: 1px solid #bead8e;
+  border: 1px solid #008d49;
   letter-spacing: 3px;
 }
 .menu-item .but:hover {
@@ -6471,4 +6471,72 @@ footer .copyright-area.light-theme .footer-menu ul li::before {
 
 .show-button {
   background: white !important;
+}
+
+.bookbtn {
+  background-color: #008d49 !important;
+  border-color: #008d49 !important;
+}
+
+.aboutbtn {
+  border: 1px solid #008d49 !important;
+}
+
+.aboutbtn:hover {
+  background-color: #008d49 !important;
+}
+
+.aboutbtn1:hover {
+  background-color: #008d49 !important;
+  color: white !important;
+}
+
+.single-twitter::before {
+  color: #008d49 !important;
+}
+
+.price2 {
+  color: #008d49 !important;
+}
+
+.booktext:hover {
+  color: #008d49 !important;
+}
+
+.about-features li a i {
+  color: #008d49;
+}
+
+.vegicon:hover {
+  background: #008d49 !important;
+}
+.vegicon:hover i {
+  color: black !important;
+}
+
+.icon i {
+  color: #008d49 !important;
+}
+
+#cate:hover {
+  background: #008d49 !important;
+}
+#cate:hover i {
+  color: black !important;
+}
+
+.cates a i {
+  color: #008d49 !important;
+}
+
+#texty {
+  background-color: #008d49 !important;
+}
+
+.widget-title::before {
+  background-color: #008d49 !important;
+}
+
+.boo {
+  background-color: #03be64 !important;
 }/*# sourceMappingURL=style.css.map */

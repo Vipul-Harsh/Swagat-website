@@ -9,7 +9,7 @@ class Blogpost extends Component {
             <section className="latest-news pt-115 pb-115">
                 <div className="container">
                     <div className="section-title text-center">
-                        <span className="title-tag">Blog</span>
+                        <span className="title-tag">Blogs</span>
                         <h2>News Feeds</h2>
                     </div>
                     {/* Latest post loop */}
@@ -31,7 +31,7 @@ class Blogpost extends Component {
                                                 ))
                                             ))}
                                         </ul>
-                                        <h4><Link to={"/blog-details/" + item.id}>{item.title}</Link></h4>
+                                        <h4><Link to={"/blog-details/" + item.id} className="booktext">{item.title}</Link></h4>
                                         <p>
                                             {item.shortdesc.slice(0, 100)}
                                         </p>

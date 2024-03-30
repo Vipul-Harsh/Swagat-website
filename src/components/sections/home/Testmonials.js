@@ -42,10 +42,10 @@ class Testmonials extends Component {
                                 <div className="testimonial-box">
                                     <div className="client-img">
                                         <img src={process.env.PUBLIC_URL + "/" + item.img} alt={item.name} />
-                                        <span className="check"><i className="fal fa-check" /></span>
+                                        <span className="check bookbtn"><i className="fal fa-check" /></span>
                                     </div>
                                     <h3>{item.name}</h3>
-                                    <span className="clinet-post">{item.designation}</span>
+                                    <span className="clinet-post price2">{item.designation}</span>
                                     <p>{item.shotdesc}</p>
                                 </div>
                             </div>

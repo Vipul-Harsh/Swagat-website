@@ -29,7 +29,7 @@ class Textblock extends Component {
                   comfort and convenience. Secure, hygienic, and memorable your
                   perfect stay awaits at Swagat Hotel.
                 </p>
-                <Link to="/about" className="main-btn btn-filled mt-40">
+                <Link to="/about" className="main-btn btn-filled mt-40 bookbtn">
                   Learn More
                 </Link>
               </div>

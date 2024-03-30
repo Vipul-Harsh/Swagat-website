@@ -37,10 +37,10 @@ class Blogsidebar extends Component {
             <div className="sidebar">
                 {/* Search Widget */}
                 <div className="widget search-widget mb-40">
-                    <h5 className="widget-title">Search Objects</h5>
+                    <h5 className="widget-title ">Search Objects</h5>
                     <form action="#">
                         <input type="text" placeholder="Search your keyword..." />
-                        <button type="submit"><i className="far fa-search" /></button>
+                        <button type="submit" className='bookbtn'><i className="far fa-search" /></button>
                     </form>
                 </div>
                 {/* Popular Post Widget */}
@@ -53,7 +53,7 @@ class Blogsidebar extends Component {
                                     <img src={process.env.PUBLIC_URL + "/" + item.gridimg} alt={item.title} />
                                 </div>
                                 <div className="feed-desc">
-                                    <h6><Link to={"/blog-details/" + item.id}>{item.title.slice(0, 40)}...</Link></h6>
+                                    <h6><Link to={"/blog-details/" + item.id} className="booktext">{item.title.slice(0, 40)}...</Link></h6>
                                     <span className="time"><i className="far fa-calendar-alt" /> {item.postdate}</span>
                                 </div>
                             </div>
@@ -65,8 +65,8 @@ class Blogsidebar extends Component {
                     <h5 className="widget-title">Categories</h5>
                     <ul>
                         {blogcategory.map((item, i) => (
-                            <li key={i}>
-                                <Link to={"/blog/cat/" + item.id}>{item.title}<span>{item.count}</span></Link>
+                            <li key={i} >
+                                <Link to={"/blog/cat/" + item.id} className="aboutbtn1">{item.title}<span className='boo'>{item.count}</span></Link>
                             </li>
                         ))}
                     </ul>
@@ -75,11 +75,11 @@ class Blogsidebar extends Component {
                 <div className="widget socail-widget mb-40">
                     <h5 className="widget-title">Never Miss News</h5>
                     <ul>
-                        <li><Link to="#"><i className="fab fa-facebook-f" /></Link></li>
-                        <li><Link to="#"><i className="fab fa-twitter" /></Link></li>
-                        <li><Link to="#"><i className="fab fa-behance" /></Link></li>
-                        <li><Link to="#"><i className="fab fa-linkedin" /></Link></li>
-                        <li><Link to="#"><i className="fab fa-pinterest" /></Link></li>
+                        <li><Link to="#" className="aboutbtn1"><i className="fab fa-facebook-f" /></Link></li>
+                        <li><Link to="#" className="aboutbtn1"><i className="fab fa-twitter" /></Link></li>
+                        <li><Link to="#" className="aboutbtn1"><i className="fab fa-behance" /></Link></li>
+                        <li><Link to="#" className="aboutbtn1"><i className="fab fa-linkedin" /></Link></li>
+                        <li><Link to="#" className="aboutbtn1"><i className="fab fa-pinterest" /></Link></li>
                     </ul>
                 </div>
                 {/* Twitter Feeds Widget */}
@@ -109,7 +109,7 @@ class Blogsidebar extends Component {
                     <ul>
                         {blogtags.map((item, i) => (
                             <li key={i}>
-                                <Link to={"/blog/tag/" + item.id}>{item.title}</Link>
+                                <Link to={"/blog/tag/" + item.id} className="aboutbtn1">{item.title}</Link>
                             </li>
                         ))}
                     </ul>

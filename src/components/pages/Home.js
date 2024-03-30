@@ -1,7 +1,7 @@
 import React, { Component, Fragment } from 'react';
 import MetaTags from "react-meta-tags";
 import Header from '../layouts/HeaderMain';
-import Footer from '../layouts/Footertwo';
+import Footer from '../layouts/Footerthree';
 import Content from '../sections/home-v2/Content';
 
 const pagelocation = 'Homepage'

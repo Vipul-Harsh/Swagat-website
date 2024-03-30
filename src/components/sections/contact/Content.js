@@ -92,7 +92,7 @@ function Content(props) {
                                 </div>
                             </div>
                             <div className="col-12 text-center">
-                                <button type="submit" className="main-btn btn-filled">Get Free Quote</button>
+                                <button type="submit" className="main-btn btn-filled bookbtn">Get Free Quote</button>
                             </div>
                         </div>
                     </form>

@@ -1,62 +1,62 @@
 [
     {
-        "id":1,
+        "id": 1,
         "img": "assets/img/menu/01.jpg",
-        "title": "Eggs & Bacon",
-        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adip isicing elit, sed do eiusmod tempor."
+        "title": "Veggie Omelette",
+        "shortdesc": "A delightful combination of fresh vegetables in a fluffy omelette."
     },
     {
-        "id":2,
+        "id": 2,
         "img": "assets/img/menu/02.jpg",
-        "title": "Tea or Coffee",
-        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adip isicing elit, sed do eiusmod tempor."
+        "title": "Herbal Tea",
+        "shortdesc": "A soothing blend of natural herbs to start your day."
     },
     {
-        "id":3,
+        "id": 3,
         "img": "assets/img/menu/03.jpg",
         "title": "Chia Oatmeal",
-        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adip isicing elit, sed do eiusmod tempor."
+        "shortdesc": "Nutritious oatmeal topped with chia seeds for a healthy kickstart."
     },
     {
-        "id":4,
+        "id": 4,
         "img": "assets/img/menu/04.jpg",
-        "title": "Juice",
-        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adip isicing elit, sed do eiusmod tempor."
+        "title": "Fresh Fruit Juice",
+        "shortdesc": "A refreshing blend of seasonal fruits, packed with vitamins."
     },
     {
-        "id":5,
+        "id": 5,
         "img": "assets/img/menu/05.jpg",
         "title": "Chia Oatmeal",
-        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adip isicing elit, sed do eiusmod tempor."
+        "shortdesc": "Nutritious oatmeal topped with chia seeds for a healthy kickstart."
     },
     {
-        "id":6,
+        "id": 6,
         "img": "assets/img/menu/06.jpg",
         "title": "Fruit Parfait",
-        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adip isicing elit, sed do eiusmod tempor."
+        "shortdesc": "Layers of fresh fruits and yogurt for a light and delicious treat."
     },
     {
-        "id":7,
+        "id": 7,
         "img": "assets/img/menu/07.jpg",
-        "title": "Marmalade Selection",
-        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adip isicing elit, sed do eiusmod tempor."
+        "title": "Jam Selection",
+        "shortdesc": "Assorted jams made from organic fruits, perfect for your toast."
     },
     {
-        "id":8,
+        "id": 8,
         "img": "assets/img/menu/08.jpg",
-        "title": "Cheese Platen",
-        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adip isicing elit, sed do eiusmod tempor."
+        "title": "Cheese Platter",
+        "shortdesc": "A selection of fine cheeses served with crackers and grapes."
     },
     {
-        "id":9,
+        "id": 9,
         "img": "assets/img/menu/09.jpg",
         "title": "Avocado Toast",
-        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adip isicing elit, sed do eiusmod tempor."
+        "shortdesc": "Sliced avocado on toasted whole-grain bread, drizzled with olive oil."
     },
     {
-        "id":10,
+        "id": 10,
         "img": "assets/img/menu/10.jpg",
-        "title": "Avocado Toast",
-        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adip isicing elit, sed do eiusmod tempor."
+        "title": "Mushroom Risotto",
+        "shortdesc": "Creamy risotto cooked with fresh mushrooms and herbs."
     }
 ]

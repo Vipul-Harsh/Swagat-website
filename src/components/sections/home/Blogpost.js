@@ -56,7 +56,7 @@ class Blogpost extends Component {
                                 <div className="slick-arrow prev-arrow" onClick={this.previous}>
                                     <i className="fal fa-arrow-left" />
                                 </div>
-                                <div className="slick-arrow next-arrow" onClick={this.next}>
+                                <div className="slick-arrow next-arrow bookbtn" onClick={this.next}>
                                     <i className="fal fa-arrow-right" />
                                 </div>
                             </div>
@@ -81,7 +81,7 @@ class Blogpost extends Component {
                                                 ))
                                             ))}
                                         </ul>
-                                        <h4><Link to={"/blog-details/" + item.id}>{item.title}</Link></h4>
+                                        <h4><Link to={"/blog-details/" + item.id} className="booktext">{item.title}</Link></h4>
                                         <p>
                                             {item.shortdesc.slice(0, 100)}
                                         </p>

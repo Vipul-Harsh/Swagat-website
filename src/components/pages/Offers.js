@@ -1,7 +1,7 @@
 import React, { Component, Fragment } from 'react';
 import MetaTags from "react-meta-tags";
-import Header from '../layouts/Header';
-import Footer from '../layouts/Footer';
+import Header from '../layouts/HeaderStyle2';
+import Footer from '../layouts/Footertwo';
 import Breadcrumb from '../layouts/Breadcrumb';
 import Content from '../sections/offers/Content';
 
@@ -12,7 +12,7 @@ class Offers extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Hotel Miranda - React Template | {pagelocation}</title>
+                    <title>Hotel Swagat - React Template | {pagelocation}</title>
                     <meta
                         name="description"
                         content="#"
@@ -21,7 +21,7 @@ class Offers extends Component {
                 <Header />
                 <Breadcrumb breadcrumb={{ pagename: pagelocation }} />
                 <Content/>
-                <Footer />
+                <Footer footer={{ style:"", logo:"assets/img/footer-logo.png" }}/>
             </Fragment>
         );
     }
