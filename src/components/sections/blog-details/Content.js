@@ -23,7 +23,7 @@ class Content extends Component {
                                         blogcategory.filter(item => {
                                             return item.id === category
                                         }).map((cat, i) => (
-                                            <Link key={i} to={"/blog/cat/" + cat.id} className="cat">{cat.title}</Link>
+                                            <Link key={i} to={"/blog/cat/" + cat.id} className="cat bookbtn">{cat.title}</Link>
                                         ))
                                     ))}
                                     <h2 className="title">{item.title}</h2>
@@ -32,14 +32,14 @@ class Content extends Component {
                                             authors.filter(item => {
                                                 return item.id === user
                                             }).map((name, i) => (
-                                                <li key={i}><Link to={"/blog/user/" + name.id}><i className="far fa-user" />by {name.name}</Link></li>
+                                                <li key={i}><Link to={"/blog/user/" + name.id} className='booktext'><i className="far fa-user" />by {name.name}</Link></li>
                                             ))
                                         ))}
 
                                         {
-                                            item.reviews > 0 || item.reviews !== '' ? <li><Link to="#"><i className="far fa-comments" />{item.reviews.length} Comments</Link></li> : ''
+                                            item.reviews > 0 || item.reviews !== '' ? <li><Link to="#" className='booktext'><i className="far fa-comments" />{item.reviews.length} Comments</Link></li> : ''
                                         }
-                                        <li><Link to="#"><i className="far fa-calendar-alt" />{item.postdate}</Link></li>
+                                        <li><Link to="#" className='booktext'><i className="far fa-calendar-alt" />{item.postdate}</Link></li>
                                     </ul>
                                     <div dangerouslySetInnerHTML={{ __html: item.longdescription }}></div>
                                 </div>
@@ -52,7 +52,7 @@ class Content extends Component {
                                                     blogtags.filter(item => {
                                                         return item.id === tag
                                                     }).map((tags, i) => (
-                                                        <li key={i}><Link to={"/blog/tag/" + tags.id}>{tags.title}</Link></li>
+                                                        <li key={i}><Link to={"/blog/tag/" + tags.id} className="aboutbtn1">{tags.title}</Link></li>
                                                     ))
                                                 ))}
                                             </ul>
@@ -66,7 +66,7 @@ class Content extends Component {
                                             </ul>
                                         </div>
                                     </div>
-                                    <div className="post-nav d-md-flex align-items-center justify-content-between">
+                                    <div className="post-nav d-md-flex align-items-center justify-content-between booktext">
 
                                         {postnavigation(blogpost, blogpost.findIndex(item => parseInt(item.id) === parseInt(blogId)))}
                                     </div>
@@ -80,7 +80,7 @@ class Content extends Component {
                                                         </div>
                                                         <div className="desc">
                                                             <Link to={"/blog-details/" + data.id} className="date"><i className="far fa-calendar-alt" />{data.postdate}</Link>
-                                                            <h4><Link to={"/blog-details/" + data.id}>{item.title}</Link></h4>
+                                                            <h4><Link to={"/blog-details/" + data.id} className='booktext'>{item.title}</Link></h4>
                                                             <p>{item.shortdesc.slice(0,100)}</p>
                                                         </div>
                                                     </div>
@@ -97,7 +97,7 @@ class Content extends Component {
                                                     <img src={process.env.PUBLIC_URL + "/" + name.img} alt={name.name} />
                                                 </div>
                                                 <div className="info-text">
-                                                    <span>Written by</span>
+                                                    <span className='price2'>Written by</span>
                                                     <h3>{name.name}</h3>
                                                     <p>{name.longdescription}</p>
                                                 </div>
@@ -161,7 +161,7 @@ class Content extends Component {
                                                 <div className="icon"><i className="fas fa-globe" /></div>
                                             </div>
                                             <div className="input-group  mt-30">
-                                                <button type="submit" className="main-btn btn-filled"><i className="far fa-comments" /> Post Comment</button>
+                                                <button type="submit" className="main-btn btn-filled bookbtn"><i className="far fa-comments" /> Post Comment</button>
                                             </div>
                                         </form>
                                     </div>

@@ -27,7 +27,7 @@ class Offers extends Component {
 
                                             <h2>{item.title}</h2>
                                         </div>
-                                        <div className="price">
+                                        <div className="price price2">
                                             ${new Intl.NumberFormat().format(item.price)}<span>/{item.period}</span>
                                         </div>
                                     </div>
@@ -35,14 +35,14 @@ class Offers extends Component {
                                         <div className="col-lg-6">
                                             <div className="offer-text">
                                                 <p> {item.text} </p>
-                                                <Link to={"/room-details/" + item.id} className="main-btn btn-filled">Book Now</Link>
+                                                <Link to={"/room-details/" + item.id} className="main-btn btn-filled bookbtn">Book Now</Link>
                                             </div>
                                         </div>
                                         <div className="col-lg-5">
                                             <div className="offer-feature">
                                                 <ul>
                                                     {item.amenities.slice(0, 10).map((item, i) => (
-                                                        <li key={i}><i className={item.icon} /> {item.title}</li>
+                                                        <li key={i} ><i className={item.icon} id="price2"/> {item.title}</li>
                                                     ))}
                                                 </ul>
                                             </div>

@@ -18,7 +18,7 @@ class Corefeature extends Component {
                   <i className="flaticon-rating" />
                 </div>
                 <h3>
-                  <Link to="/room-grid">Have High Rating</Link>
+                  <Link to="/room-grid" className="booktext">Have High Rating</Link>
                 </h3>
                 <p>
                   With a solid 3.3 out of 5 rating, we stand out for exceptional
@@ -42,7 +42,7 @@ class Corefeature extends Component {
                   <i className="flaticon-clock" />
                 </div>
                 <h3>
-                  <Link to="/room-grid">Quiet Hours</Link>
+                  <Link to="/room-grid" className="booktext">Quiet Hours</Link>
                 </h3>
                 <p>
                   Experience tranquility and rejuvenation during our designated
@@ -57,7 +57,7 @@ class Corefeature extends Component {
                   <i className="flaticon-location-pin" />
                 </div>
                 <h3>
-                  <Link to="/room-grid">Best Locations</Link>
+                  <Link to="/room-grid" className="booktext">Best Locations</Link>
                 </h3>
                 <p>
                   Swagat Hotel boasts prime locations, ensuring top-tier
@@ -81,7 +81,7 @@ class Corefeature extends Component {
                   <i className="flaticon-clock-1" />
                 </div>
                 <h3>
-                  <Link to="/restaurant">Free Cancellation</Link>
+                  <Link to="/restaurant" className="booktext">Free Cancellation</Link>
                 </h3>
                 <p>
                   Enjoy peace of mind with our flexible free cancellation
@@ -97,7 +97,7 @@ class Corefeature extends Component {
                   <i className="flaticon-credit-card" />
                 </div>
                 <h3>
-                  <Link to="/room-grid">Payment Options</Link>
+                  <Link to="/room-grid" className="booktext">Payment Options</Link>
                 </h3>
                 <p>
                   Explore diverse Payment Options at Swagat Hotel, ensuring a
@@ -121,7 +121,7 @@ class Corefeature extends Component {
                   <i className="flaticon-discount" />
                 </div>
                 <h3>
-                  <Link to="/offers">Special Offers</Link>
+                  <Link to="/offers" className="booktext">Special Offers</Link>
                 </h3>
                 <p>
                   Explore Swagat Hotel's special offers, designed to enhance

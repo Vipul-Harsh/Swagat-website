@@ -9,14 +9,14 @@ function postnavigation(items, index) {
         id = item.id;
         // Show the previous button 
         output.push(<div key={id} className="prev-post">
-            <span>Prev Post</span><Link to={"/blog-details/" + parseInt(id)}>{item.title.slice(0,20)} </Link></div>);
+            <span className='price2'>Prev Post</span><Link to={"/blog-details/" + parseInt(id)}>{item.title.slice(0,20)} </Link></div>);
     }
     if (items[index + 1] !== undefined && index <= items.length - 1) {
         // Show next button 
         item = items[index + 1];
         id = item.id;
         output.push(<div key={id} className="next-post">
-            <span>Next Post</span><Link to={"/blog-details/" + parseInt(id)}>{item.title.slice(0,20)}</Link></div>);
+            <span className='price2'>Next Post</span><Link to={"/blog-details/" + parseInt(id)}>{item.title.slice(0,20)}</Link></div>);
     }
 
     return output;

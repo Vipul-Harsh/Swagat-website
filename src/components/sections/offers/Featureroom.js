@@ -25,10 +25,10 @@ class Featureroom extends Component {
                                                 <li key={i}><i className={item.icon} /></li>
                                             ))}
                                         </ul>
-                                        <h4 className="title"><Link to={"/room-details/" + item.id}>{item.title}</Link></h4>
+                                        <h4 className="title"><Link to={"/room-details/" + item.id} className='booktext'>{item.title}</Link></h4>
                                         <p>{item.text.slice(0, 75)}...</p>
-                                        <span className="price">${new Intl.NumberFormat().format(item.price)}/{item.period}</span>
-                                        <Link to={"/room-details/" + item.id} className="book-btn">Booking Now</Link>
+                                        <span className="price price2">${new Intl.NumberFormat().format(item.price)}/{item.period}</span>
+                                        <Link to={"/room-details/" + item.id} className="book-btn booktext">Booking Now</Link>
                                     </div>
                                 </div>
                             </div>

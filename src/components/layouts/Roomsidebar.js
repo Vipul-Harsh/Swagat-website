@@ -41,7 +41,7 @@ function Roomsidebar(props) {
                     </div>
                 </div>
                 <div className="input-group">
-                    <button className="main-btn btn-filled">check availability</button>
+                    <button className="main-btn btn-filled bookbtn">check availability</button>
                 </div>
             </form>
         </div>

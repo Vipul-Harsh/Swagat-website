@@ -1,7 +1,7 @@
 import React, { Component, Fragment } from "react";
 import { Link } from "react-router-dom";
 import Backtotop from "./Backtotop";
-import logo from "../../assets/img/swagatlogo.png"
+import logo from "../../assets/img/swagatlogo.png";
 class Footertwo extends Component {
   render() {
     return (
@@ -14,10 +14,7 @@ class Footertwo extends Component {
                 <div className="col-lg-8">
                   <div className="subscribe-text text-center">
                     <div className="footer-logo mb-45">
-                      <img
-                        src={logo}
-                        alt="logo"
-                      />
+                      <img src={logo} alt="logo" />
                     </div>
                     <p>
                       Join Our Newsletter for Exclusive Offers and Updates from
@@ -29,7 +26,9 @@ class Footertwo extends Component {
                         type="email"
                         placeholder="Enter your email address"
                       />
-                      <button type="submit">subscribe</button>
+                      <button type="submit" className="bookbtn">
+                        subscribe
+                      </button>
                     </form>
                   </div>
                 </div>
@@ -47,33 +46,27 @@ class Footertwo extends Component {
                   {/* Site Info Widget */}
                   <div className="widget site-info-widget mb-50">
                     <div className="footer-logo mb-50">
-                      <img
-                        src={
-                          process.env.PUBLIC_URL + "/" + this.props.footer.logo
-                        }
-                        alt="logo"
-                      />
+                      <img src={logo} alt="logo" />
                     </div>
                     <p>
-                      Lorem ipsum dolor sit amet, consect etur adipisicing elit,
-                      sed doing eius mod tempor incididunt ut labore et dolore
-                      magna aliqua. Ut enim ad minim veniam, quis nostrud
-                      exercitat ion ullamco laboris nisi.
+                      Experience luxury at Swagat Hotel, Bhiwadi's premier
+                      retreat. Enjoy top-notch amenities and exceptional
+                      service. Booknow for a memorable stay.
                     </p>
                     <div className="social-links mt-40">
-                      <Link to="#">
+                      <Link to="#" className="aboutbtn1">
                         <i className="fab fa-facebook-f" />
                       </Link>
-                      <Link to="#">
+                      <Link to="#" className="aboutbtn1">
                         <i className="fab fa-twitter" />
                       </Link>
-                      <Link to="#">
+                      <Link to="#" className="aboutbtn1">
                         <i className="fab fa-behance" />
                       </Link>
-                      <Link to="#">
+                      <Link to="#" className="aboutbtn1">
                         <i className="fab fa-linkedin" />
                       </Link>
-                      <Link to="#">
+                      <Link to="#" className="aboutbtn1">
                         <i className="fab fa-youtube" />
                       </Link>
                     </div>
@@ -83,34 +76,34 @@ class Footertwo extends Component {
                   {/* Nav Widget */}
                   <div className="widget nav-widget mb-50">
                     <div>
-                      <h4 className="widget-title">Services.</h4>
+                      <h4 className="widget-title">Services</h4>
                       <ul>
                         <li>
-                          <Link to="#">Resturent &amp; Bar</Link>
+                          <Link to="#" className="booktext">Resturent &amp; Bar</Link>
                         </li>
                         <li>
-                          <Link to="#">Gaming Zone</Link>
+                          <Link to="#" className="booktext">Gaming Zone</Link>
                         </li>
                         <li>
-                          <Link to="#">Swimming Pool</Link>
+                          <Link to="#" className="booktext">Swimming Pool</Link>
                         </li>
                         <li>
-                          <Link to="#">Marrige Party</Link>
+                          <Link to="#" className="booktext">Marrige Party</Link>
                         </li>
                         <li>
-                          <Link to="#">Restaurant</Link>
+                          <Link to="#" className="booktext">Restaurant</Link>
                         </li>
                         <li>
-                          <Link to="#">Party Planning</Link>
+                          <Link to="#" className="booktext">Party Planning</Link>
                         </li>
                         <li>
-                          <Link to="#">Conference Room</Link>
+                          <Link to="#" className="booktext">Conference Room</Link>
                         </li>
                         <li>
-                          <Link to="#">Tour Consultancy</Link>
+                          <Link to="#" className="booktext">Tour Consultancy</Link>
                         </li>
                         <li>
-                          <Link to="#">Coctail Party Houses</Link>
+                          <Link to="#" className="booktext">Coctail Party Houses</Link>
                         </li>
                       </ul>
                     </div>
@@ -119,7 +112,7 @@ class Footertwo extends Component {
                 <div className="col-lg-3 col-sm-6 order-2 order-lg-3">
                   {/* Contact Widget */}
                   <div className="widget contact-widget mb-50">
-                    <h4 className="widget-title">Contact Us.</h4>
+                    <h4 className="widget-title">Contact Us</h4>
                     <div className="contact-lists">
                       <div className="contact-box">
                         <div className="icon">
@@ -145,7 +138,7 @@ class Footertwo extends Component {
                         </div>
                         <div className="desc">
                           <h6 className="title">Office Address</h6>
-                          14/A, Miranda City, NYC
+                          B-294-295 A, RIICO CHOWK, BHIWADI, ALWAR RAJASTHAN, 301019
                         </div>
                       </div>
                     </div>
@@ -159,7 +152,7 @@ class Footertwo extends Component {
               <div className="row align-items-center">
                 <div className="col-lg-6 col-md-5 order-2 order-md-1">
                   <p className="copyright-text copyright-two">
-                    Copyright By@<Link to="#">Example</Link> - 2021
+                    &copy;<Link to="#">Swagat Palace </Link> - 2024 All Rights Reserved
                   </p>
                 </div>
                 <div className="col-lg-6 col-md-7 order-1 order-md-2">

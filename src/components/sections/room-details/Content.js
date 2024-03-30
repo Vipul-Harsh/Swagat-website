@@ -29,8 +29,8 @@ function Content(props) {
                                         ))
                                     ))}
                                     <h2>{item.title}</h2>
-                                </div>
-                                <div className="price">
+                                </div> 
+                                <div className="price price2">
                                     ${new Intl.NumberFormat().format(item.price)}<span>/{item.period}</span>
                                 </div>
                             </div>
@@ -41,7 +41,7 @@ function Content(props) {
                                 <h3 className="subtitle">Amenities</h3>
                                 <ul className="room-fearures-list">
                                     {item.amenities.map((item, i) => (
-                                        <li key={i}><i className={item.icon} />{item.title}</li>
+                                        <li key={i}><i className={item.icon} id='price2'/>{item.title}</li>
                                     ))}
                                 </ul>
                             </div>
@@ -56,10 +56,10 @@ function Content(props) {
                                                 <div className="testimonial-box">
                                                     <div className="client-img">
                                                         <img src={process.env.PUBLIC_URL + "/" + author.img} alt={author.name} />
-                                                        <span className="check"><i className="fal fa-check" /></span>
+                                                        <span className="check bookbtn"><i className="fal fa-check" /></span>
                                                     </div>
                                                     <h3>{author.name}</h3>
-                                                    <span className="clinet-post">{author.designation}</span>
+                                                    <span className="clinet-post price2">{author.designation}</span>
                                                     <p>{author.shotdesc}</p>
                                                 </div>
                                             </div>
@@ -71,7 +71,7 @@ function Content(props) {
                                 <h3 className="subtitle">Hotel Guidelines</h3>
                                 <ul className="room-rules-list">
                                     {item.rules.map((text, i) => (
-                                        <li key={i}>{text}</li>
+                                        <li key={i} >{text}</li>
                                     ))}
                                 </ul>
                             </div>
@@ -103,10 +103,10 @@ function Content(props) {
                                                             <li key={i}><i className={data.icon} /></li>
                                                         ))}
                                                     </ul>
-                                                    <h4 className="title"><Link to={"/room-details/" + data.id}>{data.title}</Link></h4>
+                                                    <h4 className="title "><Link to={"/room-details/" + data.id} className='booktext'>{data.title}</Link></h4>
                                                     <p>{data.text.slice(0, 75)}...</p>
-                                                    <span className="price">${new Intl.NumberFormat().format(data.price)}/{data.period}</span>
-                                                    <Link to={"/room-details/" + data.id} className="book-btn">Booking Now</Link>
+                                                    <span className="price price2">${new Intl.NumberFormat().format(data.price)}/{data.period}</span>
+                                                    <Link to={"/room-details/" + data.id} className="book-btn booktext">Booking Now</Link>
                                                 </div>
                                             </div>
                                         </div>

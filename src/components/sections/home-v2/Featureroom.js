@@ -52,7 +52,7 @@ class Featureroom extends Component {
                         </div>
                         <div className="col-lg-6 col-md-4 col-sm-5 d-none d-sm-block">
                             <div className="feature-room-arrow arrow-style text-right">
-                            <div className="slick-arrow prev-arrow "  onClick={this.previous}><i className="fal fa-arrow-left"></i></div>
+                            <div className="slick-arrow prev-arrow  aboutbtn1"  onClick={this.previous}><i className="fal fa-arrow-left"></i></div>
                             <div className="slick-arrow next-arrow bookbtn" onClick={this.next}><i className="fal fa-arrow-right"></i></div>
                             </div>
                         </div>
@@ -71,7 +71,7 @@ class Featureroom extends Component {
                                                 <li key={i}><i className={item.icon} /></li>
                                             ))}
                                         </ul>
-                                        <h4 className="title"><Link to={"/room-details/" + item.id}>{item.title}</Link></h4>
+                                        <h4 className="title"><Link to={"/room-details/" + item.id} className='booktext'>{item.title}</Link></h4>
                                         <p>{item.text.slice(0,75)}...</p>
                                         <span className="price price2">${new Intl.NumberFormat().format(item.price)}/{item.period}</span>
                                         <Link to={"/room-details/" + item.id} className="book-btn booktext">Booking Now</Link>

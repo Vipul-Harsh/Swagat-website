@@ -46,8 +46,8 @@ class Headertwo extends HeaderComponent {
                 {/* Navbar Close Icon */}
                 <div className="navbar-close" onClick={this.toggleNav}>
                   <div className="cross-wrap">
-                    <span className="top" />
-                    <span className="bottom" />
+                    <span className="top"  style={{background:"black"}}/>
+                    <span className="bottom" style={{background:"black"}}/>
                   </div>
                 </div>
                 {/* Off canvas Menu  */}
@@ -122,7 +122,7 @@ class Headertwo extends HeaderComponent {
                       : null}
                       <li className="menu-item">
             <div className="but">
-                <Link to="/contact">Book Now</Link>
+                <Link to="/contact" className="bt"><span className="bt">Book Now</span></Link>
             </div>
         </li>
                   </ul>

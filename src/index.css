@@ -69,7 +69,7 @@ header .nav-container.breakpoint-on .nav-menu .menu-items ul li.menu-item-has-ch
     position: absolute;
     left: 30px;
     top: 50%;
-    color: #bead8e;
+    color:#008d49;
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
 }
