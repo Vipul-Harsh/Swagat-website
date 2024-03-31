@@ -10,7 +10,9 @@ class Textblock extends Component {
             <div className="col-lg-7">
               <div className="text-img text-center text-lg-left mb-small">
                 <img
-                  src={process.env.PUBLIC_URL + "/assets/img/text-block/02 (1).jpg"}
+                  src={
+                    process.env.PUBLIC_URL + "/assets/img/text-block/02 (1).jpg"
+                  }
                   alt=""
                 />
               </div>
@@ -22,12 +24,14 @@ class Textblock extends Component {
                   <h2>Explore Our Essence</h2>
                 </div>
                 <p>
-                  Discover Swagat Hotel, a standout choice in Bhiwadis
-                  hospitality landscape. Boasting a solid 3.3 out of 5 rating,
-                  we excel in guest satisfaction and service. With flexible
-                  policies and a welcoming environment, we prioritize your
-                  comfort and convenience. Secure, hygienic, and memorable your
-                  perfect stay awaits at Swagat Hotel.
+                  Welcome to Swagat Hotel, an exceptional destination in
+                  Bhiwadi's vibrant hospitality scene. Committed to excellence,
+                  we pride ourselves on delivering unparalleled guest
+                  experiences with our attentive service and warm hospitality.
+                  Our flexible policies, along with a safe and hygienic
+                  environment, ensure that your comfort is our top priority.
+                  Embark on a memorable journey with us and discover the perfect
+                  blend of comfort and convenience at Swagat Hotel.
                 </p>
                 <Link to="/about" className="main-btn btn-filled mt-40 bookbtn">
                   Learn More

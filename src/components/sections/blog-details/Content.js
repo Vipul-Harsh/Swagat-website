@@ -3,7 +3,7 @@ import { Link, withRouter } from 'react-router-dom';
 import { getBlog } from '../../../helper/Bloghelper';
 import { postnavigation } from '../../../helper/helper';
 import Sidebar from '../../layouts/Blogsidebar';
-import authors from '../../../data/authors.json';
+import authors from '../../../data/authors2.json';
 import blogpost from '../../../data/blog.json';
 import blogcategory from '../../../data/blogcategory.json';
 import blogtags from '../../../data/blogtags.json';

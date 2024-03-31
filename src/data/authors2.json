@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "img": "assets/img/testimonial/01.png",
+        "name": "Rosalina D. William",
+        "designation": "Founder, qux co.",
+        "shotdesc": "Rosalina D. William, Founder of qux co., is a leading innovator in the industry. Discover her insights on comfort and luxury.",
+        "longdescription": "Had an amazing experience at Swagat Hotel. The Amber Lastir room was beautifully designed with modern amenities. The staff were friendly, and the gourmet breakfast was delicious.",
+        "social": [
+            {
+                "icon": "fab fa-facebook-f",
+                "title": "Facebook",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-twitter",
+                "title": "Twitter",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-behance",
+                "title": "Behance",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "title": "Linked In",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "title": "YouTube",
+                "url": "www.domain.com/username"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "img": "assets/img/testimonial/02.png",
+        "name": "Donald H. Hilixer",
+        "designation": "Founder, hilix",
+        "shotdesc": "Donald H. Hilixer, Founder of hilix, is a visionary leader shaping the future of luxury accommodations. Explore his perspectives on modern amenities.",
+        "longdescription": "I was thoroughly impressed with my stay at Swagat Hotel. The room was comfortable and well-equipped with modern amenities. The staff were attentive, ensuring a pleasant experience.",
+        "social": [
+            {
+                "icon": "fab fa-facebook-f",
+                "title": "Facebook",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-twitter",
+                "title": "Twitter",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-behance",
+                "title": "Behance",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "title": "Linked In",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "title": "YouTube",
+                "url": "www.domain.com/username"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "img": "assets/img/testimonial/03.png",
+        "name": "Browfish Dumble",
+        "designation": "Founder, Condo",
+        "shotdesc": "Browfish Dumble, Founder of Condo, is renowned for creating luxurious and comfortable spaces. Dive into his expertise on hospitality design.",
+        "longdescription": "My experience at Swagat Hotel was fantastic. The room was spacious and comfortable, with impressive amenities. The staff were friendly and attentive, ensuring a memorable stay.",
+        "social": [
+            {
+                "icon": "fab fa-facebook-f",
+                "title": "Facebook",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-twitter",
+                "title": "Twitter",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-behance",
+                "title": "Behance",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "title": "Linked In",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "title": "YouTube",
+                "url": "www.domain.com/username"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "img": "assets/img/testimonial/04.jpg",
+        "name": "Donald H. Hilixer",
+        "designation": "Founder, hilix",
+        "shotdesc": "Donald H. Hilixer, Founder of hilix, is a leading expert in luxury accommodations. Discover his insights on creating memorable guest experiences.",
+        "longdescription": "Swagat Hotel exceeded my expectations. The room was impeccably clean and well-maintained. The staff were professional and courteous, making my stay truly enjoyable.",
+        "social": [
+            {
+                "icon": "fab fa-facebook-f",
+                "title": "Facebook",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-twitter",
+                "title": "Twitter",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-behance",
+                "title": "Behance",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "title": "Linked In",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "title": "YouTube",
+                "url": "www.domain.com/username"
+            }
+        ]
+    }
+]

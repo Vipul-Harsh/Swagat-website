@@ -4982,7 +4982,7 @@ header.sticky-header.sticky-active.header-two .header-info .item .title {
 .news-details-box .entry-content blockquote {
   position: relative;
   padding: 45px 55px;
-  background-color: #bead8e;
+  background-color: #008d49;
   border-radius: 10px;
   z-index: 1;
   font-size: 28px;
@@ -5898,7 +5898,7 @@ header.sticky-header.sticky-active.header-two .header-info .item .title {
   color: #222;
 }
 .restaurant-tab-area .restaurant-rood-list .nav-link i {
-  color: #bead8e;
+  color: white;
   font-size: 60px;
   transition: all 0.3s ease-out 0s;
 }
@@ -5908,12 +5908,16 @@ header.sticky-header.sticky-active.header-two .header-info .item .title {
   }
 }
 .restaurant-tab-area .restaurant-rood-list .nav-link.active, .restaurant-tab-area .restaurant-rood-list .nav-link:hover {
-  background-color: #bead8e;
+  background-color: #008d49;
 }
-.restaurant-tab-area .restaurant-rood-list .nav-link.active i,
-.restaurant-tab-area .restaurant-rood-list .nav-link.active .title, .restaurant-tab-area .restaurant-rood-list .nav-link:hover i,
-.restaurant-tab-area .restaurant-rood-list .nav-link:hover .title {
+.restaurant-tab-area .restaurant-rood-list .nav-link.active i, .restaurant-tab-area .restaurant-rood-list .nav-link:hover i {
+  color: white !important;
+}
+.restaurant-tab-area .restaurant-rood-list .nav-link.active .title, .restaurant-tab-area .restaurant-rood-list .nav-link:hover .title {
   color: #fff;
+}
+.restaurant-tab-area .restaurant-rood-list .nav-linkactive i {
+  color: white !important;
 }
 .restaurant-tab-area .food-box {
   margin-bottom: 30px;
@@ -6532,7 +6536,7 @@ footer .copyright-area.light-theme .footer-menu ul li::before {
   background: #008d49 !important;
 }
 #cate:hover i {
-  color: black !important;
+  color: white !important;
 }
 
 .cates a i {
