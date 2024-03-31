@@ -36,11 +36,11 @@ class Aboutpage extends Component {
           </div>
           <div className="section-title about-title text-center">
             <span className="title-tag">
-              since <span>1994</span>
+              since <span className="price2">1994</span>
             </span>
             <h2>
-              Swagat Hotel Bhiwadi <br /> 20+ Years Offering Premier
-              Accommodation and Unmatched Customer Satisfaction .
+              Swagat Hotel  <br /> Providing premier accommodation and
+              unparalleled customer satisfaction for over 20 Years.
             </h2>
           </div>
           <ul className="about-features">
