@@ -18,7 +18,7 @@ class Preloader extends Component {
     render() {
         const preloaderhidden = this.state.fetchSuccess ? 'd-none' : '';
         return (
-            <div className={`preloader align-items-center justify-content-center ${preloaderhidden}`}>
+            <div className={`preloader align-items-center justify-content-center ${preloaderhidden}`} id='pre-load1'>
                 <div className="cssload-container">
                     <div className="cssload-loading"><i /><i /><i /><i /></div>
                 </div>

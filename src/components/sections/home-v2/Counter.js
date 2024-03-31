@@ -32,7 +32,7 @@ const countPost = [
 function Counter(props) {
     const [focus, setFocus] = React.useState(false);
     return (
-        <div className="row">
+        <div className="row row1">
             {countPost.map((item, i) => (
                 <div key={i} className="col-lg-3 col-md-6 col-6">
                     <div className="counter-box">

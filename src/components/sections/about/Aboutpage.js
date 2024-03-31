@@ -23,7 +23,7 @@ class Aboutpage extends Component {
               backgroundImage:
                 "url(" +
                 process.env.PUBLIC_URL +
-                "/assets/img/text-block/04.jpg)",
+                "/assets/img/text-block/07.jpg)",
             }}
           >
             <a

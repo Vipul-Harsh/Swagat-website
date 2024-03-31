@@ -31,31 +31,31 @@
     },
     {
         "id": 6,
-        "img": "assets/img/menu/06.jpg",
+        "img": "assets/img/menu/04.jpg",
         "title": "Fruit Parfait",
         "shortdesc": "Layers of fresh fruits and yogurt for a light and delicious treat."
     },
     {
         "id": 7,
-        "img": "assets/img/menu/07.jpg",
+        "img": "assets/img/menu/03.jpg",
         "title": "Jam Selection",
         "shortdesc": "Assorted jams made from organic fruits, perfect for your toast."
     },
     {
         "id": 8,
-        "img": "assets/img/menu/08.jpg",
+        "img": "assets/img/menu/02.jpg",
         "title": "Cheese Platter",
         "shortdesc": "A selection of fine cheeses served with crackers and grapes."
     },
     {
         "id": 9,
-        "img": "assets/img/menu/09.jpg",
+        "img": "assets/img/menu/01.jpg",
         "title": "Avocado Toast",
         "shortdesc": "Sliced avocado on toasted whole-grain bread, drizzled with olive oil."
     },
     {
         "id": 10,
-        "img": "assets/img/menu/10.jpg",
+        "img": "assets/img/menu/02.jpg",
         "title": "Mushroom Risotto",
         "shortdesc": "Creamy risotto cooked with fresh mushrooms and herbs."
     }

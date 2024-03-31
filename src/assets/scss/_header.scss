@@ -6,7 +6,7 @@ header {
 		width: 100%;
 		z-index: 99;
 		background-color: transparent;
-		top: 35px;
+		top: 20px;
 	}
 
 	.container.container-custom-one {
@@ -285,7 +285,7 @@ header {
 
 		&.breakpoint-on {
 			.nav-menu {
-				background-color: $primary-color;
+				background-color: white;
 				position: fixed;
 				top: 0;
 				left: -300px;
@@ -300,12 +300,14 @@ header {
 				overflow-y: scroll;
 				padding-top: 70px;
 				.menu-items {
+					
 					ul li {
 						display: block;
+						margin: 0 !important;
 						a {
 							display: block;
 							border-bottom: 1px solid rgba(255, 255, 255, 0.5);
-							color: $white !important;
+							color: black !important;
 							line-height: 45px !important;
 						}
 						.submenu {
@@ -346,6 +348,7 @@ header {
 							font-size: 20px;
 						}
 					}
+					
 				}
 
 				&.menu-on {

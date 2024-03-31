@@ -229,7 +229,7 @@ select {
   position: absolute;
   left: 30px;
   top: 50%;
-  color:#008d49;
+  color: #bead8e;
   transform: translateY(-50%);
 }
 
@@ -567,7 +567,7 @@ header.header-absolute {
   width: 100%;
   z-index: 99;
   background-color: transparent;
-  top: 35px;
+  top: 20px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1599px) {
   header .container.container-custom-one {
@@ -853,7 +853,7 @@ header .nav-container .navbar-close .cross-wrap span.bottom {
   transform: rotate(-45deg);
 }
 header .nav-container.breakpoint-on .nav-menu {
-  background-color: #bead8e;
+  background-color: white;
   position: fixed;
   top: 0;
   left: -300px;
@@ -870,11 +870,12 @@ header .nav-container.breakpoint-on .nav-menu {
 }
 header .nav-container.breakpoint-on .nav-menu .menu-items ul li {
   display: block;
+  margin: 0 !important;
 }
 header .nav-container.breakpoint-on .nav-menu .menu-items ul li a {
   display: block;
   border-bottom: 1px solid rgba(255, 255, 255, 0.5);
-  color: #fff !important;
+  color: black !important;
   line-height: 45px !important;
 }
 header .nav-container.breakpoint-on .nav-menu .menu-items ul li .submenu {
@@ -3007,7 +3008,7 @@ header.sticky-header.sticky-active.header-two .header-info .item .title {
 }
 .testimonial-slider ul.slick-dots li.slick-active button {
   width: 26px;
-  background-color:#008d49;
+  background-color: #bead8e;
 }
 
 /*=======  Latest Post   =======*/
@@ -3916,7 +3917,7 @@ header.sticky-header.sticky-active.header-two .header-info .item .title {
   left: 0;
   top: 50%;
   transform: translateY(-50%);
-  color:#008d49;
+  color: #bead8e;
   font-family: "Font Awesome 5 Pro";
   font-weight: 300;
   content: "\f00c";
@@ -4005,7 +4006,7 @@ header.sticky-header.sticky-active.header-two .header-info .item .title {
   transform: translateY(-50%);
   width: 40px;
   height: 2px;
-  background-color:#008d49;
+  background-color: #bead8e;
   content: "";
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -4367,7 +4368,7 @@ header.sticky-header.sticky-active.header-two .header-info .item .title {
   padding: 65px 60px 60px;
   margin-left: 60px;
   margin-right: 60px;
-  border-top: 6px solid #008d49;
+  border-top: 6px solid #bead8e;
   margin-top: -75px;
   z-index: 2;
   position: relative;
@@ -4981,7 +4982,7 @@ header.sticky-header.sticky-active.header-two .header-info .item .title {
 .news-details-box .entry-content blockquote {
   position: relative;
   padding: 45px 55px;
-  background-color:#008d49;
+  background-color: #bead8e;
   border-radius: 10px;
   z-index: 1;
   font-size: 28px;
@@ -6556,4 +6557,16 @@ footer .copyright-area.light-theme .footer-menu ul li::before {
 
 #price2 {
   color: #008d49;
+}
+
+.row1 {
+  text-align: center !important;
+}
+
+#pre-load1 {
+  background-color: #008d49 !important;
+}
+
+header .header-absolute {
+  top: 20px !important;
 }/*# sourceMappingURL=style.css.map */

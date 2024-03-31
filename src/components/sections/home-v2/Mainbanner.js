@@ -4,12 +4,12 @@ import Slider from "react-slick";
 
 const bannerPosts = [
     {
-        photo: "assets/img/banner/04.jpg",
+        photo: "assets/img/banner/01.jpg",
         tag: 'Experience Ultimate Luxury at Hotel Swagat',
         title: "The Perfect <br/> Choice For You",
     },
     {
-        photo: "assets/img/banner/05.jpg",
+        photo: "assets/img/banner/02.jpg",
         tag: 'Experience Ultimate Luxury at Hotel Swagat',
         title: 'The Perfect <br/> Choice For You',
     },

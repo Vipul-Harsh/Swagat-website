@@ -10,7 +10,7 @@ class Textblock extends Component {
             <div className="col-lg-7">
               <div className="text-img text-center text-lg-left mb-small">
                 <img
-                  src={process.env.PUBLIC_URL + "/assets/img/text-block/02.jpg"}
+                  src={process.env.PUBLIC_URL + "/assets/img/text-block/02 (1).jpg"}
                   alt=""
                 />
               </div>

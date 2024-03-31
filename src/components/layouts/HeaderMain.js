@@ -14,7 +14,8 @@ class Headertwo extends HeaderComponent {
       <Fragment>
         {/*====== HEADER START ======*/}
         <header
-          className={`header-absolute header-two sticky-header ${stickyHeader}`}
+          className={`header-absolute  header-two sticky-header ${stickyHeader}`}
+         id="headd"
         >
           <div className="container container-custom-one">
             <div
@@ -24,7 +25,7 @@ class Headertwo extends HeaderComponent {
 
               {/* Site Logo */}
               <div className="site-logo">
-                <Link to="/" className="main-logo">
+                <Link to="/" className="main-logo" style={{background:"white"}}>
                   <img
                     src={logo}
                     alt="logo"

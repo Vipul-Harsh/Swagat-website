@@ -14,7 +14,7 @@ class Videowrap extends Component {
     render() {
         return (
             <section className="video-wrap full-section" style={{ backgroundImage: "url(" + process.env.PUBLIC_URL + "/assets/img/bg/05.jpg)" }}>
-                <a rel={'external'} href="https://www.youtube.com/embed/EEJFMdfraVY" className="popup-video">
+                <a rel={'external'} href="https://www.youtube.com/watch?v=UHT53k0gyjs" className="popup-video">
                     <img src={process.env.PUBLIC_URL + "/assets/img/icon/07.png"} alt="" />
                 </a>
             </section>
