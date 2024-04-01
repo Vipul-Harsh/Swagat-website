@@ -15,7 +15,7 @@ class Aboutpage extends Component {
   }
   render() {
     return (
-      <section className="about-section pt-115 pb-115">
+      <section className="about-section pt-115 pb-80">
         <div className="container">
           <div
             className="video-wrap video-wrap-two video-about mb-60"
@@ -39,8 +39,8 @@ class Aboutpage extends Component {
               since <span className="price2">1994</span>
             </span>
             <h2>
-              Swagat Hotel  <br /> Providing premier accommodation and
-              unparalleled customer satisfaction for over 20 Years.
+              Swagat Hotel <br /> Premier lodging and unmatched service for 20+
+              years.
             </h2>
           </div>
           <ul className="about-features">
@@ -69,12 +69,9 @@ class Aboutpage extends Component {
               <div className="col-lg-6">
                 <div className="about-text">
                   <span>Restaurant</span>
-                  <h3>
-                    Discover Restaurant Facilities &amp; Much More at Swagat
-                    Hotel{" "}
-                  </h3>
+                  <h3>Experience In-House Dining at Swagat Hotel. </h3>
                   <p>
-                    Explore our exquisite restaurant offerings, exceptional
+                    Explore exquisite restaurant offerings, exceptional
                     amenities, and unparalleled services at Swagat Hotel
                     Bhiwadi. With a blend of luxury and convenience, we ensure a
                     memorable stay for every guest. Dive into a world of comfort
@@ -83,6 +80,38 @@ class Aboutpage extends Component {
                   <Link to="/contact" className="main-btn btn-filled bookbtn">
                     Book Now
                   </Link>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="about-text-box">
+            <div className="row align-items-center">
+              <div className="col-lg-6">
+                <div className="about-text">
+                  <span>Banquet Halls</span>
+                  <h3>
+                    Plan Your Events with Our Exclusive Baquet Halls
+                  </h3>
+                  <p>
+                    Discover the expansive banquet halls at Swagat Hotel in
+                    Bhiwadi. Elevate your events with our hall's luxurious
+                    ambiance and advanced amenities. With ample space, it's the
+                    perfect venue for any occasion. Don't miss out click 'Book
+                    Now' to make your event memorable with us!
+                  </p>
+                  <Link to="/contact" className="main-btn btn-filled bookbtn">
+                    Book Now
+                  </Link>
+                </div>
+              </div>
+              <div className="col-lg-6">
+                <div className="about-img">
+                  <img
+                    src={
+                      process.env.PUBLIC_URL + "/assets/img/text-block/08.jpg"
+                    }
+                    alt=""
+                  />
                 </div>
               </div>
             </div>

@@ -6,7 +6,7 @@ import Breadcrumb from '../layouts/Breadcrumb';
 import Instagram from '../sections/home-v2/Instagram';
 import Content from '../sections/restaurant/Content';
 
-const pagelocation = 'Restaurants'
+const pagelocation = 'Dining'
 
 class Restaurant extends Component {
     render() {

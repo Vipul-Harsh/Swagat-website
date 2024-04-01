@@ -24,14 +24,14 @@ class Textblock extends Component {
                   <h2>Explore Our Essence</h2>
                 </div>
                 <p>
-                  Welcome to Swagat Hotel, an exceptional destination in
-                  Bhiwadi's vibrant hospitality scene. Committed to excellence,
-                  we pride ourselves on delivering unparalleled guest
-                  experiences with our attentive service and warm hospitality.
-                  Our flexible policies, along with a safe and hygienic
-                  environment, ensure that your comfort is our top priority.
-                  Embark on a memorable journey with us and discover the perfect
-                  blend of comfort and convenience at Swagat Hotel.
+                  Welcome to Swagat Hotel, where every stay tells a story.
+                  Nestled in the heart of Bhiwadi, we are more than just a hotel ,
+                  we are a home away from home. With our warm hospitality,
+                  personalized service, and attention to detail, we strive to
+                  create memorable experiences that keep our guests coming back
+                  time and again. Whether you're here for business or leisure,
+                  let us be a part of your journey and make your stay truly
+                  special. Discover what sets Swagat Hotel apart from Other.
                 </p>
                 <Link to="/about" className="main-btn btn-filled mt-40 bookbtn">
                   Learn More

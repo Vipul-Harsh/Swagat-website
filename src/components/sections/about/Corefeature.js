@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 class Corefeature extends Component {
   render() {
     return (
-      <section className="core-feature-section bg-black pt-115 pb-115">
+      <section className="core-feature-section bg-black pt-80 pb-115">
         <div className="container">
           <div className="section-title white-color text-center mb-50">
             <span className="title-tag"> facilities </span>

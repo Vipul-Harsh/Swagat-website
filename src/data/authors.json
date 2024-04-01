@@ -2,7 +2,7 @@
     {
         "id": 1,
         "img": "assets/img/testimonial/01.png",
-        "name": "Rosalina D. William",
+        "name": "Anikesh Gupta",
         "designation": "Founder, qux co.",
         "shotdesc": "Outstanding service at Swagat Hotel! A memorable experience for comfort and luxury.",
         "longdescription": "Had an amazing experience at Swagat Hotel. The Amber Lastir room was beautifully designed with modern amenities. The staff were friendly, and the gourmet breakfast was delicious.",
@@ -37,7 +37,7 @@
     {
         "id": 2,
         "img": "assets/img/testimonial/02.png",
-        "name": "Donald H. Hilixer",
+        "name": "Rajesh Patel",
         "designation": "Founder, hilix",
         "shotdesc": "Swagat Hotel delivers exceptional service! A perfect blend of luxury and convenience.",
         "longdescription": "I was thoroughly impressed with my stay at Swagat Hotel. The room was comfortable and well-equipped with modern amenities. The staff were attentive, ensuring a pleasant experience.",
@@ -72,7 +72,7 @@
     {
         "id": 3,
         "img": "assets/img/testimonial/03.png",
-        "name": "Browfish Dumble",
+        "name": "Prem Sharma",
         "designation": "Founder, Condo",
         "shotdesc": "Outstanding service at Swagat Hotel! A memorable experience for comfort and luxury.",
         "longdescription": "My experience at Swagat Hotel was fantastic. The room was spacious and comfortable, with impressive amenities. The staff were friendly and attentive, ensuring a memorable stay.",
@@ -107,7 +107,7 @@
     {
         "id": 4,
         "img": "assets/img/testimonial/04.jpg",
-        "name": "Donald H. Hilixer",
+        "name": "Ananya Kumar",
         "designation": "Founder, hilix",
         "shotdesc": "Outstanding service at Swagat Hotel! A memorable experience for comfort and luxury.",
         "longdescription": "Swagat Hotel exceeded my expectations. The room was impeccably clean and well-maintained. The staff were professional and courteous, making my stay truly enjoyable.",

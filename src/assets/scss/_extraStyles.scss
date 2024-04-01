@@ -24,7 +24,7 @@
   font-size: 20px;
   color: white !important;
 }
-.bt{
+.bt {
   color: white !important;
 }
 .itt {
@@ -42,98 +42,119 @@
     font-size: 16px !important;
   }
 }
-.show-button{
+.show-button {
   background: white !important;
 }
 
-.bookbtn{
-    background-color: #008d49 !important;
-    border-color:  #008d49 !important ;
-
+.bookbtn {
+  background-color: #008d49 !important;
+  border-color: #008d49 !important ;
 }
-.bookbtn:hover{
- color: white !important;
+.bookbtn:hover {
+  color: white !important;
 }
 
-.aboutbtn{
+.aboutbtn {
   border: 1px solid #008d49 !important ;
 }
-.aboutbtn:hover{
+.aboutbtn:hover {
   background-color: #008d49 !important;
 }
-.aboutbtn1:hover{
+.aboutbtn1:hover {
   background-color: #008d49 !important;
   color: white !important;
 }
-.single-twitter::before{
-color: #008d49 !important;
-}
-.price2{
+.single-twitter::before {
   color: #008d49 !important;
 }
-.booktext:hover{
+.price2 {
   color: #008d49 !important;
 }
-.about-features{
-  li{
-    a{
-      i{
-        color: #008d49 ;
+.booktext:hover {
+  color: #008d49 !important;
+}
+.about-features {
+  li {
+    a {
+      i {
+        color: #008d49;
+      }
+      i:hover{
+        color: white !important;
       }
     }
   }
 }
-.vegicon:hover{
+
+.vegicon:hover {
   background: #008d49 !important;
-  i{
-    color: black !important;
+  i {
+    color: white !important;
   }
 }
-.icon{
-  i{
+.icon {
+  i {
     color: #008d49 !important;
   }
 }
-#cate:hover{
+#cate:hover {
   background: #008d49 !important;
-  i{
+  i {
     color: white !important;
-  } 
+  }
 }
-.cates{
-    a{
-      i{
-        color: #008d49 !important;
-      }
-
+.cates {
+  a {
+    i {
+      color: #008d49 !important;
     }
-    
+  }
 }
-#texty{
+#texty {
   background-color: #008d49 !important;
 }
-.widget-title::before{
+.widget-title::before {
   background-color: #008d49 !important;
 }
-.boo{
+.boo {
   background-color: #03be64 !important;
 }
 
-.bt:hover{
+.bt:hover {
   color: black !important;
 }
-#price2{
+#price2 {
   color: #008d49;
 }
-.row1{
+.row1 {
   text-align: center !important;
 }
 
-#pre-load1{
+#pre-load1 {
   background-color: #008d49 !important;
 }
-header{
-  .header-absolute{
+header {
+  .header-absolute {
     top: 20px !important;
   }
+}
+.roomsec {
+  width: 60% !important;
+}
+
+    .video {
+      background-color: white;
+      position: absolute;
+      content: "";
+      left: 0;
+      top: 0;
+      height: 100%;
+      width: 100%;
+      border: 1px solid #cccccc;
+      border-radius: 50%;
+      animation: pulse-border-2 1s linear infinite;
+    }
+  
+.contact-head{
+  font-size: 67px !important;
 }

@@ -15,12 +15,12 @@ const splitEvery = (array, length) =>
 class Menuarea extends Component {
     render() {
         return (
-            <section className="menu-area gradient-white pt-115 pb-115">
+            <section className="menu-area gradient-white pt-80 pb-115">
                 <div className="container">
                     {/* Section Title */}
                     <div className="section-title text-center mb-80">
-                        <span className="title-tag">available</span>
-                        <h2>Chef's Special Vegetarian Selections</h2>
+                        <span className="title-tag">Our Menu</span>
+                        <h2>Hotel's Exclusive Vegetarian Offerings</h2>
                     </div>
                     {/* Menu Looop */}
                     <div className="menu-loop">

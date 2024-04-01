@@ -840,7 +840,7 @@ header .nav-container .navbar-close .cross-wrap span {
   width: 100%;
   height: 2px;
   border-radius: 6px;
-  background: #fff;
+  background: black;
 }
 header .nav-container .navbar-close .cross-wrap span.top {
   top: 12px;
@@ -2097,12 +2097,14 @@ header.sticky-header.sticky-active.header-two .header-info .item .title {
   .about-section .about-text-box .about-text {
     padding: 0;
     margin-top: 50px;
+    margin-bottom: 10%;
   }
 }
 @media (max-width: 767px) {
   .about-section .about-text-box .about-text {
     padding: 0;
     margin-top: 50px;
+    margin-bottom: 10%;
   }
 }
 .about-section .about-text-box .about-text span {
@@ -2876,9 +2878,9 @@ header.sticky-header.sticky-active.header-two .header-info .item .title {
   }
 }
 .video-wrap.full-section a.popup-video {
-  height: auto;
+  height: 300px;
   width: auto;
-  background-color: transparent;
+  background-color: white;
 }
 .video-wrap.full-section a.popup-video::before, .video-wrap.full-section a.popup-video::after {
   display: none;
@@ -3008,7 +3010,7 @@ header.sticky-header.sticky-active.header-two .header-info .item .title {
 }
 .testimonial-slider ul.slick-dots li.slick-active button {
   width: 26px;
-  background-color: #bead8e;
+  background-color: #008d49;
 }
 
 /*=======  Latest Post   =======*/
@@ -3917,7 +3919,7 @@ header.sticky-header.sticky-active.header-two .header-info .item .title {
   left: 0;
   top: 50%;
   transform: translateY(-50%);
-  color: #bead8e;
+  color: #008d49;
   font-family: "Font Awesome 5 Pro";
   font-weight: 300;
   content: "\f00c";
@@ -4343,7 +4345,7 @@ header.sticky-header.sticky-active.header-two .header-info .item .title {
 }
 .contact-part .contact-form {
   background-color: #fff;
-  padding: 100px;
+  padding: 34px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .contact-part .contact-form {
@@ -6520,12 +6522,15 @@ footer .copyright-area.light-theme .footer-menu ul li::before {
 .about-features li a i {
   color: #008d49;
 }
+.about-features li a i:hover {
+  color: white !important;
+}
 
 .vegicon:hover {
   background: #008d49 !important;
 }
 .vegicon:hover i {
-  color: black !important;
+  color: white !important;
 }
 
 .icon i {
@@ -6573,4 +6578,25 @@ footer .copyright-area.light-theme .footer-menu ul li::before {
 
 header .header-absolute {
   top: 20px !important;
+}
+
+.roomsec {
+  width: 60% !important;
+}
+
+.video {
+  background-color: white;
+  position: absolute;
+  content: "";
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  border: 1px solid #cccccc;
+  border-radius: 50%;
+  animation: pulse-border-2 1s linear infinite;
+}
+
+.contact-head {
+  font-size: 67px !important;
 }/*# sourceMappingURL=style.css.map */

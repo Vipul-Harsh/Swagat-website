@@ -6,7 +6,7 @@ import Breadcrumb from '../layouts/Breadcrumb';
 import Instagram from '../sections/home-v2/Instagram';
 import Content from '../sections/blog-standard/Content';
 
-const pagelocation = 'Blog Standard'
+const pagelocation = 'Our Blogs & Articles'
 
 class Blogstandard extends Component {
     render() {

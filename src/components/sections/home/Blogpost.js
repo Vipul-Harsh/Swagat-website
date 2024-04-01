@@ -48,7 +48,7 @@ class Blogpost extends Component {
                         <div className="col-lg-6 col-md-8 col-sm-7">
                             <div className="section-title">
                                 <span className="title-tag">Blog</span>
-                                <h2>News Feeds</h2>
+                                <h2>Travel Tales</h2>
                             </div>
                         </div>
                         <div className="col-lg-6 col-md-4 col-sm-5 d-none d-sm-block">

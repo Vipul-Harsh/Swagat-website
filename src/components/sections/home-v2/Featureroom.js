@@ -41,13 +41,13 @@ class Featureroom extends Component {
             ],
         };
         return (
-            <section className="feature-room-section pt-155 pb-115">
+            <section className="feature-room-section pt-60 pb-115">
                 <div className="container">
                     <div className="row align-items-center">
-                        <div className="col-lg-6 col-md-8 col-sm-7">
+                        <div className="col-lg-6 col-md-8 col-sm-7 roomsec">
                             <div className="section-title">
                                 <span className="title-tag">Rooms</span>
-                                <h2>Featured Room</h2>
+                                <h2> Room & Suites</h2>
                             </div>
                         </div>
                         <div className="col-lg-6 col-md-4 col-sm-5 d-none d-sm-block">

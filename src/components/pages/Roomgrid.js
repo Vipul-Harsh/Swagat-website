@@ -6,14 +6,14 @@ import Breadcrumb from '../layouts/Breadcrumb';
 import Instagram from '../sections/home-v2/Instagram';
 import Content from '../sections/room-grid/Content';
 
-const pagelocation = 'Room Grid'
+const pagelocation = 'Rooms & Suites'
 
 class Roomgrid extends Component {
     render() {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Hotel Miranda - React Template | {pagelocation}</title>
+                    <title>Hotel Swagat - React Template | {pagelocation}</title>
                     <meta
                         name="description"
                         content="#"

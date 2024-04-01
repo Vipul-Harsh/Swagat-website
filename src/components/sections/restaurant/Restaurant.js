@@ -52,7 +52,7 @@ class Restaurant extends Component {
             </div>
         ));
         return (
-            <section className="restaurant-tab-area pt-120 pb-90">
+            <section className="restaurant-tab-area pt-120 pb-60">
                 <div className="container">
                     <ul className="restaurant-rood-list row justify-content-center nav nav-pills mb-30" id="restaurant-tab" role="tablist">
                         {productcategory.map((item) => (

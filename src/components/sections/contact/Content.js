@@ -14,8 +14,8 @@ function Content(props) {
                   <i className="flaticon-home" />
                 </div>
                 <div className="desc">
-                  <h4>Office Address</h4>
-                  <p>19/A, Cirikon City hall Tower New York, NYC</p>
+                  <h4>Hotel Address</h4>
+                  <p>B-294-295 NEAR RIICO CHOWK BHIWADI, Bhiwadi, Bhiwadi, India</p>
                 </div>
               </div>
             </div>
@@ -24,10 +24,10 @@ function Content(props) {
                 <div className="icon">
                   <i className="flaticon-phone" />
                 </div>
-                <div className="desc">
+                <div className="desc  pb-25">
                   <h4>Phone Number</h4>
                   <p>
-                    + 97656 8675 7864 7 <br /> + 876 766 8675 765 6
+                    + 97656 8675 7864 7 <br /> + 876 766 8675 765 6 <br/>
                   </p>
                 </div>
               </div>
@@ -37,10 +37,10 @@ function Content(props) {
                 <div className="icon">
                   <i className="flaticon-message" />
                 </div>
-                <div className="desc">
+                <div className="desc pb-25">
                   <h4>Email Address</h4>
                   <p>
-                    example@example.com <br /> example.example@example.com
+                    example@example.com <br /> example@example.com
                   </p>
                 </div>
               </div>
@@ -66,7 +66,10 @@ function Content(props) {
           </Map>
         </div>
         {/* Contact Form */}
+        <span className="title-tag">Contact Us</span>
+        <h2 className="contact-head" style={{fontSize:"67px",padding:"10px"}}>Reach Us Anytime</h2>
         <div className="contact-form">
+        
           <form action="#">
             <div className="row">
               <div className="col-md-6">
@@ -111,7 +114,7 @@ function Content(props) {
               </div>
               <div className="col-12 text-center">
                 <button type="submit" className="main-btn btn-filled bookbtn">
-                  Get Free Quote
+                  Request A Quote
                 </button>
               </div>
             </div>

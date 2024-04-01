@@ -6,11 +6,11 @@ import authors from '../../../data/authors.json';
 class Blogpost extends Component {
     render() {
         return (
-            <section className="latest-news pt-115 pb-115">
+            <section className="latest-news pt-80 pb-80">
                 <div className="container">
                     <div className="section-title text-center">
                         <span className="title-tag">Blogs</span>
-                        <h2>News Feeds</h2>
+                        <h2>Explore Our Blogs</h2>
                     </div>
                     {/* Latest post loop */}
                     <div className="row justify-content-center mt-50">

@@ -5,29 +5,30 @@ import VisibilitySensor from "react-visibility-sensor";
 const countPost = [
     {
         icon: "assets/img/icon/01.png",
-        count: 84,
-        prefix: "k",
-        title: "Projects are Completed"
+        count: 50,
+        prefix: "+",
+        title: "Rooms Available"
     },
     {
         icon: "assets/img/icon/02.png",
-        count: 10,
-        prefix: "M",
-        title: "Active Backers Around World"
+        count: 95,
+        prefix: "%",
+        title: "Guest Satisfaction Rate"
     },
     {
         icon: "assets/img/icon/03.png",
-        count: 2,
-        prefix: "k",
-        title: "Categories Served"
+        count: 20,
+        prefix: "+",
+        title: "Years in Hospitality"
     },
     {
         icon: "assets/img/icon/04.png",
-        count: 100,
-        prefix: "M",
-        title: "Ideas Raised Funds"
+        count: 500,
+        prefix: "+",
+        title: "Happy Guests Served"
     }
 ]
+
 
 function Counter(props) {
     const [focus, setFocus] = React.useState(false);
@@ -51,7 +52,7 @@ function Counter(props) {
                                                 }
                                             }}
                                         >
-                                            <span>{item.prefix}<span className="plus-icon">+</span></span>
+                                            <span>{item.prefix}<span className="plus-icon"></span></span>
                                         </VisibilitySensor>
                                     </Fragment>
                                 )}

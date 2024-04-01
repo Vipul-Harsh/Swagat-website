@@ -7,19 +7,19 @@ const countPost = [
         icon: "flaticon-user-1",
         value: 8000,
         prefix: "",
-        title: "Happy Users"
+        title: "Satisfied Guests"
     },
     {
         icon: "flaticon-like",
         value: 10,
         prefix: "M",
-        title: "Reviews & Appriciate"
+        title: "Positive Reviews"
     },
     {
         icon: "flaticon-suitcase",
         value: 100,
         prefix: "",
-        title: "Country Coverage"
+        title: "Events Hosted"
     }
 ];
 

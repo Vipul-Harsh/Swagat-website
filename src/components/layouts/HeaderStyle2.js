@@ -129,7 +129,7 @@ class Headertwo extends HeaderComponent {
                     <li className="menu-item">
                       <div className="but">
                         <Link className="hovering-btn" to="/contact" >
-                          <span >Book Now</span>
+                          <span  className="bt">Book Now</span>
                         </Link>
                       </div>
                     </li>

@@ -5,7 +5,7 @@ import Footer from '../layouts/Footertwo';
 import Breadcrumb from '../layouts/Breadcrumb';
 import Content from '../sections/offers/Content';
 
-const pagelocation = 'Offers'
+const pagelocation = 'Special Offers'
 
 class Offers extends Component {
     render() {

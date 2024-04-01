@@ -8,7 +8,7 @@ class Footertwo extends Component {
       <Fragment>
         <Backtotop />
         <footer className="footer-two">
-          <div className="footer-subscibe-area pt-120 pb-120">
+          <div className="footer-subscibe-area pt-70 pb-120">
             <div className="container">
               <div className="row justify-content-center">
                 <div className="col-lg-8">
@@ -78,32 +78,32 @@ class Footertwo extends Component {
                     <div>
                       <h4 className="widget-title">Services</h4>
                       <ul>
-                        <li>
+                        {/* <li>
                           <Link to="#" className="booktext">Resturent &amp; Bar</Link>
-                        </li>
-                        <li>
+                        </li> */}
+                        {/* <li>
                           <Link to="#" className="booktext">Gaming Zone</Link>
+                        </li> */}
+                        <li>
+                          <Link to="/about" className="booktext">Swimming Pool</Link>
                         </li>
                         <li>
-                          <Link to="#" className="booktext">Swimming Pool</Link>
+                          <Link to="/about" className="booktext">Banquet Hall</Link>
                         </li>
                         <li>
-                          <Link to="#" className="booktext">Marrige Party</Link>
+                          <Link to="/restaurant" className="booktext">Dining</Link>
                         </li>
                         <li>
-                          <Link to="#" className="booktext">Restaurant</Link>
+                          <Link to="/about" className="booktext">Party Planning</Link>
                         </li>
                         <li>
-                          <Link to="#" className="booktext">Party Planning</Link>
+                          <Link to="/room-grid" className="booktext">Spacious Rooms</Link>
                         </li>
                         <li>
-                          <Link to="#" className="booktext">Conference Room</Link>
+                          <Link to="/contact" className="booktext">Tour Consultancy</Link>
                         </li>
                         <li>
-                          <Link to="#" className="booktext">Tour Consultancy</Link>
-                        </li>
-                        <li>
-                          <Link to="#" className="booktext">Coctail Party Houses</Link>
+                          <Link to="/contact" className="booktext">Contact Us</Link>
                         </li>
                       </ul>
                     </div>

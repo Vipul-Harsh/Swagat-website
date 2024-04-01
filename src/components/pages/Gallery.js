@@ -6,7 +6,7 @@ import Breadcrumb from '../layouts/Breadcrumb';
 import Instagram from '../sections/home-v2/Instagram';
 import Content from '../sections/gallery/Content';
 
-const pagelocation = 'Gallery'
+const pagelocation = 'Photo Gallery'
 
 class Gallery extends Component {
     render() {

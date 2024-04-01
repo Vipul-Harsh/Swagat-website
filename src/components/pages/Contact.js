@@ -6,7 +6,7 @@ import Breadcrumb from '../layouts/Breadcrumb';
 import Instagram from '../sections/home-v2/Instagram';
 import Content from '../sections/contact/Content';
 
-const pagelocation = 'Contact Us'
+const pagelocation = 'Get in Touch'
 
 class Contact extends Component {
     render() {

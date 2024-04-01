@@ -169,9 +169,9 @@
 			height: 380px;
 		}
 		a.popup-video {
-			height: auto;
+			height: 300px;
 			width: auto;
-			background-color: transparent;
+			background-color: white;
 			&::before,
 			&::after {
 				display: none;

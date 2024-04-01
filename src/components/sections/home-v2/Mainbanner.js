@@ -5,13 +5,13 @@ import Slider from "react-slick";
 const bannerPosts = [
     {
         photo: "assets/img/banner/01.jpg",
-        tag: 'Experience Ultimate Luxury at Hotel Swagat',
-        title: "The Perfect <br/> Choice For You",
+        tag: 'Where Comfort Meets Convenience',
+        title: "Welcome to Hotel Swagat",
     },
     {
         photo: "assets/img/banner/02.jpg",
-        tag: 'Experience Ultimate Luxury at Hotel Swagat',
-        title: 'The Perfect <br/> Choice For You',
+        tag: 'Where Comfort Meets Convenience',
+        title: "Welcome to Hotel Swagat",
     },
 ];
 
@@ -33,8 +33,9 @@ class Mainbanner extends Component {
                             <div className="row justify-content-center">
                                 <div className="col-lg-8">
                                     <div className="banner-content text-center">
-                                        <span className="promo-tag">{item.tag}</span>
+                                        
                                         <h1 className="title" dangerouslySetInnerHTML={{ __html: item.title }}/>
+                                        <span className="promo-tag">{item.tag}</span>
                                         <ul>
                                             <li>
                                                 <Link className="main-btn btn-filled bookbtn" to="/contact">Book Now</Link>
