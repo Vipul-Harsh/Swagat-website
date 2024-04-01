@@ -24,14 +24,13 @@ class Textblock extends Component {
                   <h2>Explore Our Essence</h2>
                 </div>
                 <p>
-                  Welcome to Swagat Hotel, where every stay tells a story.
+                  Welcome to Swagat Hotel, Where every visit promises a distinctive experience.
                   Nestled in the heart of Bhiwadi, we are more than just a hotel ,
                   we are a home away from home. With our warm hospitality,
                   personalized service, and attention to detail, we strive to
                   create memorable experiences that keep our guests coming back
                   time and again. Whether you're here for business or leisure,
-                  let us be a part of your journey and make your stay truly
-                  special. Discover what sets Swagat Hotel apart from Other.
+                  let us be a part of your journey . Discover what sets Swagat Hotel apart from Other.
                 </p>
                 <Link to="/about" className="main-btn btn-filled mt-40 bookbtn">
                   Learn More
