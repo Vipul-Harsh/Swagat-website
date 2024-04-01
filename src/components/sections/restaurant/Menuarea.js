@@ -15,7 +15,7 @@ const splitEvery = (array, length) =>
 class Menuarea extends Component {
     render() {
         return (
-            <section className="menu-area gradient-white pt-80 pb-115">
+            <section className="menu-area gradient-white pt-50 pb-115">
                 <div className="container">
                     {/* Section Title */}
                     <div className="section-title text-center mb-80">

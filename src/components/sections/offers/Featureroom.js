@@ -5,11 +5,11 @@ import rooms from '../../../data/room.json';
 class Featureroom extends Component {
     render() {
         return (
-            <section className="feature-room-section with-bg pt-155 pb-115" style={{ backgroundImage: 'url(assets/img/bg/06.jpg)' }}>
+            <section className="feature-room-section with-bg pt-70 pb-115" style={{ backgroundImage: 'url(assets/img/bg/06.jpg)' }}>
                 <div className="container">
                     <div className="section-title white-color text-center">
                         <span className="title-tag">popular list</span>
-                        <h2>Popular Rooms</h2>
+                        <h2>Featured Rooms</h2>
                     </div>
                     {/* Room Looop */}
                     <div className="row room-gird-loop justify-content-center mt-30">

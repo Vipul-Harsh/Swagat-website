@@ -6,7 +6,7 @@ import roomcategory from '../../../data/roomcategory.json';
 class Offers extends Component {
     render() {
         return (
-            <section className="offers-area pt-120 pb-60">
+            <section className="offers-area pt-120 pb-40">
                 <div className="container">
                     <div className="offer-boxes-loop">
                         {rooms.filter(function (item) { return item.offer === true }).map((item, i) => (
