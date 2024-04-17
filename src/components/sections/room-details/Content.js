@@ -39,7 +39,7 @@ function Content(props) {
               </div>
               <div className="thumb">
                 <img
-                  src={process.env.PUBLIC_URL + "/" + item.sliderimage}
+                  src={process.env.PUBLIC_URL + "/" + item.listimage}
                   className="w-100"
                   alt={item.title}
                 />

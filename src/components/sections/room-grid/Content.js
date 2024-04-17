@@ -56,7 +56,7 @@ class Content extends Component {
                         </ul>
                         <h4 className="title "><Link  className="booktext" to={"/room-details/" + item.id}>{item.title}</Link></h4>
                         <p>{item.text.slice(0,75)}...</p>
-                        <span className="price price2">${new Intl.NumberFormat().format(item.price)}/{item.period}</span>
+                        <span className="price price2">Rs.{item.price}/{item.period}</span>
                         <Link to={"/room-details/" + item.id} className="book-btn booktext">Book Now</Link>
                     </div>
                 </div>
@@ -78,7 +78,7 @@ class Content extends Component {
             );
         });
         return (
-            <section className="room-section room-grid-style pt-120 pb-120 pagination-content">
+            <section className="room-section room-grid-style pt-120  pb-80 pagination-content">
                 <div className="container">
                     <div className="row justify-content-center room-gird-loop">
                         {/* Post Start */}

@@ -120,7 +120,9 @@ class Footertwo extends Component {
                         </div>
                         <div className="desc">
                           <h6 className="title">Phone Number</h6>
-                          +987 876 765 76 577
+                          <a href="tel:+91-1493-220858">+91-1493-220858</a>
+                          <a href="tel:+91 9783748000">+91 9783748000</a>
+                          <a href="tel:+91 9982637111">+91 9982637111</a>
                         </div>
                       </div>
                       <div className="contact-box">
@@ -129,7 +131,7 @@ class Footertwo extends Component {
                         </div>
                         <div className="desc">
                           <h6 className="title">Email Address</h6>
-                          <Link to="#">example@example.com</Link>
+                          <Link to="#">swagatpalace@gmail.com</Link>
                         </div>
                       </div>
                       <div className="contact-box">
@@ -138,7 +140,7 @@ class Footertwo extends Component {
                         </div>
                         <div className="desc">
                           <h6 className="title">Office Address</h6>
-                          B-294-295 A, RIICO CHOWK, BHIWADI, ALWAR RAJASTHAN, 301019
+                          B-294-295 A, RIICO CHOWK, BHIWADI,RAJASTHAN, 301019
                         </div>
                       </div>
                     </div>
