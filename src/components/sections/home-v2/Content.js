@@ -29,7 +29,7 @@ class Content extends Component {
                     </div>
                 </section>
                 <Testimonials />
-                <Videowrap />
+                {/* <Videowrap /> */}
                 <Blogpost />
                 <Instagram />
             </Fragment>

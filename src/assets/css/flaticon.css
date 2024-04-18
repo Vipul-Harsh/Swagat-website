@@ -263,7 +263,7 @@
 	content: '\f14a';
 }
 .flaticon-boiled:before {
-	content: '\f144';
+	content: '\e001';
 }
 .flaticon-cookie:before {
 	content: '\f14c';
@@ -303,4 +303,7 @@
 }
 .flaticon-notebook:before {
 	content: '\f158';
+}
+.flaticon-chicken:before{
+	content: \1f414;
 }

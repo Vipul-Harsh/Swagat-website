@@ -29,9 +29,9 @@ class Aboutpage extends Component {
             <a
               rel={"external"}
               href="https://www.youtube.com/embed/EEJFMdfraVY"
-              className="popup-video"
+              className="popup-video" style={{background:"transparent"}}
             >
-              <i className="fas fa-play" />
+              
             </a>
           </div>
           <div className="section-title about-title text-center">
@@ -39,7 +39,7 @@ class Aboutpage extends Component {
               since <span className="price2">1994</span>
             </span>
             <h2>
-              Swagat Hotel <br /> Premier lodging and unmatched service for 20+
+              Swagat Palace <br /> Premier lodging and unmatched service for 15+
               years.
             </h2>
           </div>
@@ -69,7 +69,7 @@ class Aboutpage extends Component {
               <div className="col-lg-6">
                 <div className="about-text">
                   <span>Restaurant</span>
-                  <h3>Experience In-House Dining at Swagat Hotel. </h3>
+                  <h3>Experience In-House Dining at Swagat Palace. </h3>
                   <p>
                     Explore exquisite restaurant offerings, exceptional
                     amenities, and unparalleled services at Swagat Hotel

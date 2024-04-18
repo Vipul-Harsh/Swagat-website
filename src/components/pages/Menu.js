@@ -4,7 +4,7 @@ import Header from '../layouts/Header';
 import Footer from '../layouts/Footer';
 import Breadcrumb from '../layouts/Breadcrumb';
 import Content from '../sections/menu/Content';
-
+import Instagram from '../sections/home-v2/Instagram';
 const pagelocation = 'Menu'
 
 class Menu extends Component {
@@ -21,6 +21,7 @@ class Menu extends Component {
                 <Header />
                 <Breadcrumb breadcrumb={{ pagename: pagelocation }} />
                 <Content/>
+                <Instagram/>
                 <Footer />
             </Fragment>
         );

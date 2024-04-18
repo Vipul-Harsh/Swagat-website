@@ -5,19 +5,19 @@ import VisibilitySensor from "react-visibility-sensor";
 const countPost = [
     {
         icon: "flaticon-user-1",
-        value: 800,
-        prefix: "+",
+        value: 5000,
+        prefix: "",
         title: "Satisfied Guests"
     },
     {
         icon: "flaticon-like",
-        value: 10,
+        value: 1,
         prefix: "K",
         title: "Positive Reviews"
     },
     {
         icon: "flaticon-suitcase",
-        value: 100,
+        value: 500,
         prefix: "",
         title: "Events Hosted"
     }

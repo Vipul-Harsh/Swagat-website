@@ -53,7 +53,7 @@ class Footertwo extends Component {
                       retreat. Enjoy top-notch amenities and exceptional
                       service. Booknow for a memorable stay.
                     </p>
-                    <div className="social-links mt-40">
+                    {/* <div className="social-links mt-40">
                       <Link to="#" className="aboutbtn1">
                         <i className="fab fa-facebook-f" />
                       </Link>
@@ -69,14 +69,14 @@ class Footertwo extends Component {
                       <Link to="#" className="aboutbtn1">
                         <i className="fab fa-youtube" />
                       </Link>
-                    </div>
+                    </div> */}
                   </div>
                 </div>
                 <div className="col-lg-6 order-3 order-lg-2">
                   {/* Nav Widget */}
                   <div className="widget nav-widget mb-50">
                     <div>
-                      <h4 className="widget-title">Services</h4>
+                    <h4 className="widget-title">Quick Links</h4>
                       <ul>
                         {/* <li>
                           <Link to="#" className="booktext">Resturent &amp; Bar</Link>
@@ -85,25 +85,25 @@ class Footertwo extends Component {
                           <Link to="#" className="booktext">Gaming Zone</Link>
                         </li> */}
                         <li>
-                          <Link to="/about" className="booktext">Swimming Pool</Link>
+                          <Link to="/about" className="booktext">About Us</Link>
                         </li>
                         <li>
-                          <Link to="/about" className="booktext">Banquet Hall</Link>
+                          <Link to="/room-grid" className="booktext">Rooms</Link>
                         </li>
                         <li>
                           <Link to="/restaurant" className="booktext">Dining</Link>
                         </li>
                         <li>
-                          <Link to="about" className="booktext">Party Planning</Link>
+                          <Link to="/about" className="booktext">Gallery</Link>
                         </li>
                         <li>
-                          <Link to="/room-grid" className="booktext">Spacious  Room</Link>
+                          <Link to="/room-grid" className="booktext">Blogs</Link>
                         </li>
+                        {/* <li>
+                          <Link to="/contact" className="booktext"></Link>
+                        </li> */}
                         <li>
-                          <Link to="/contact" className="booktext">Tour Consultancy</Link>
-                        </li>
-                        <li>
-                          <Link to="/contact" className="booktext">Contact</Link>
+                          <Link to="/contact" className="booktext">Contact Us</Link>
                         </li>
                       </ul>
                     </div>
@@ -121,8 +121,8 @@ class Footertwo extends Component {
                         <div className="desc">
                           <h6 className="title">Phone Number</h6>
                           <a href="tel:+91-1493-220858">+91-1493-220858</a>
-                          <a href="tel:+91 9783748000">+91 9783748000</a>
-                          <a href="tel:+91 9982637111">+91 9982637111</a>
+                          {/* <a href="tel:+91 9783748000">+91 9783748000</a>
+                          <a href="tel:+91 9982637111">+91 9982637111</a> */}
                         </div>
                       </div>
                       <div className="contact-box">

@@ -22,7 +22,7 @@ class Roomgrid extends Component {
                 <Header />
                 <Breadcrumb breadcrumb={{ pagename: pagelocation }} />
                 <Content/>
-                {/* <Instagram/> */}
+                <Instagram/> 
                 <Footer footer={{ style:"", logo:"assets/img/footer-logo.png" }}/>
             </Fragment>
         );

@@ -6,12 +6,12 @@ const bannerPosts = [
     {
         photo: "assets/img/banner/01.jpg",
         tag: 'Where Comfort Meets Convenience',
-        title: "Welcome to Hotel Swagat",
+        title: "Welcome to Swagat Palace",
     },
     {
-        photo: "assets/img/banner/02.jpg",
+        photo: "assets/img/banner/01.jpg",
         tag: 'Where Comfort Meets Convenience',
-        title: "Welcome to Hotel Swagat",
+        title: "Welcome to  Swagat Palace",
     },
 ];
 

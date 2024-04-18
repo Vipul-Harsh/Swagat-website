@@ -13,7 +13,7 @@ class About extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Hotel Swagat - React Template | {pagelocation}</title>
+                    <title>Hotel Swagat Palace - React Template | {pagelocation}</title>
                     <meta
                         name="description"
                         content="#"
@@ -22,7 +22,7 @@ class About extends Component {
                 <Header />
                 <Breadcrumb breadcrumb={{ pagename: pagelocation }} />
                 <Content/>
-                {/* <Instagram/> */}
+                 <Instagram/> 
                 <Footer footer={{ style:"", logo:"assets/img/footer-logo.png" }}/>
             </Fragment>
         );

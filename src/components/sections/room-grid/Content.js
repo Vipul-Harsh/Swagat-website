@@ -56,7 +56,7 @@ class Content extends Component {
                         </ul>
                         <h4 className="title "><Link  className="booktext" to={"/room-details/" + item.id}>{item.title}</Link></h4>
                         <p>{item.text.slice(0,75)}...</p>
-                        <span className="price price2">Rs.{item.price}/{item.period}</span>
+                        <span className="price price2"> &#8377;{item.price}/{item.period}</span>
                         <Link to={"/room-details/" + item.id} className="book-btn booktext">Book Now</Link>
                     </div>
                 </div>

@@ -35,7 +35,7 @@ class Restaurant extends Component {
                 <div className="food-box">
                     <div className="thumb">
                         <img src={process.env.PUBLIC_URL + "/" + item.img} alt="" />
-                        <span className="price bookbtn">${new Intl.NumberFormat().format((item.price).toFixed(2))}</span>
+                        
                     </div>
                     <div className="desc">
                         {item.category.slice(0,1).map((category) => (

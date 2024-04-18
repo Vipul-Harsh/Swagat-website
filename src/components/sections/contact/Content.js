@@ -27,7 +27,7 @@ function Content(props) {
                 <div className="desc  pb-25">
                   <h4>Phone Number</h4>
                   <p>
-                    + 97656 8675 7864 7 <br /> + 876 766 8675 765 6 <br/>
+                  <a href="tel:+91-1493-220858">+91-1493-220858</a>
                   </p>
                 </div>
               </div>
@@ -40,7 +40,7 @@ function Content(props) {
                 <div className="desc pb-25">
                   <h4>Email Address</h4>
                   <p>
-                    example@example.com <br /> example@example.com
+                  swagatpalace@gmail.com
                   </p>
                 </div>
               </div>

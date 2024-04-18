@@ -11,7 +11,7 @@ class Hometwo extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Hotel Swagat - React Template | {pagelocation}</title>
+                    <title>Hotel Swagat Palace - React Template | {pagelocation}</title>
                     <meta
                         name="description"
                         content="#"

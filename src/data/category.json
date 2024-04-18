@@ -1,32 +1,37 @@
 [
     {
         "id":1,
-        "icon": "flaticon-boiled",
-        "title":"Veggie Delight"
+        "icon": "flaticon-coffee",
+        "title":"Bevrages"
     },
     {
         "id":2,
-        "icon":"flaticon-pizza",
-        "title":"Italian"
+        "icon":"flaticon-breakfast",
+        "title":"BreakFast"
     },
     {
         "id":3,
-        "icon":"flaticon-coffee",
-        "title":"Coffee"
+        "icon":"flaticon-groceries",
+        "title":"Salad"
     },
     {
         "id":4,
-        "icon":"flaticon-cake",
-        "title":"Bake Cake"
+        "icon":"flaticon-fast-food",
+        "title":"\nStarters\n"
     },
     {
         "id":5,
-        "icon":"flaticon-cookie",
-        "title":"Cookies"
+        "icon":"flaticon-hamburger",
+        "title":"MainCourse\n(Veg)"
     },
     {
         "id":6,
-        "icon":"flaticon-cocktail",
-        "title":"Cocktails"
+        "icon":"flaticon-barbecue",
+        "title":"MainCourse\n(NonVeg)"
+    },
+    {
+        "id":7,
+        "icon":"flaticon-cookie",
+        "title":"Sweet\n"
     }
 ]

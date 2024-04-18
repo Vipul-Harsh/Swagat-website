@@ -8,7 +8,7 @@ class Footer extends Component {
       <Fragment>
         <Backtotop />
         <footer>
-          <div className="footer-subscibe-area pt-120 pb-120">
+          {/* <div className="footer-subscibe-area pt-120 pb-120">
             <div className="container">
               <div className="row justify-content-center">
                 <div className="col-lg-8">
@@ -36,7 +36,7 @@ class Footer extends Component {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
           <div className="copyright-area pt-20 pb-20">
             <div className="container">
               <div className="row align-items-center">
@@ -44,7 +44,7 @@ class Footer extends Component {
                   <p className="copyright-text">copyright by@slidesigma</p>
                 </div>
                 <div className="col-md-7 order-1 order-md-2">
-                  <div className="social-links">
+                  {/* <div className="social-links">
                     <Link to="#">
                       <i className="fab fa-facebook-f" />
                     </Link>
@@ -60,7 +60,7 @@ class Footer extends Component {
                     <Link to="#">
                       <i className="fab fa-youtube" />
                     </Link>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>

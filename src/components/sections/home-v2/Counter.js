@@ -5,7 +5,7 @@ import VisibilitySensor from "react-visibility-sensor";
 const countPost = [
     {
         icon: "assets/img/icon/01.png",
-        count: 50,
+        count: 40,
         prefix: "+",
         title: "Rooms Available"
     },
@@ -17,13 +17,13 @@ const countPost = [
     },
     {
         icon: "assets/img/icon/03.png",
-        count: 20,
+        count: 15,
         prefix: "+",
         title: "Years in Hospitality"
     },
     {
         icon: "assets/img/icon/04.png",
-        count: 500,
+        count: 5000,
         prefix: "+",
         title: "Happy Guests Served"
     }

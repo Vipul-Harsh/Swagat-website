@@ -18,26 +18,22 @@ function Roomsidebar(props) {
                     <div className="icon"><i className="fal fa-calendar-alt" /></div>
                     <DatePicker selected={departureDate} onChange={date => setDepartureDate(date)} />
                 </div>
-                <div className="input-group input-group-two left-icon mb-20">
+                <div className="input-group input-group-two  mb-20">
                     <label htmlFor="room">Rooms</label>
-                    <div className="nice-select">
-                        <select name="room" id="room">
+                    <div className="">
+                        {/* <select name="room" id="room">
                             <option value={1}>1 Room</option>
                             <option value={2}>2 Room</option>
                             <option value={4}>4 Room</option>
                             <option value={8}>8 Room</option>
-                        </select>
+                        </select> */}
+                        <input type="number" name="room" id="room" defaultValue={1} />
                     </div>
                 </div>
                 <div className="input-group input-group-two left-icon mb-20">
                     <label htmlFor="departure-date">Guest</label>
-                    <div className="nice-select">
-                        <select name="guest" id="guest">
-                            <option value={8}>8 Guest</option>
-                            <option value={10}>10 Guest</option>
-                            <option value={12}>12 Guest</option>
-                            <option value={15}>15 Guest</option>
-                        </select>
+                    <div className="">
+                    <input type="number" name="room" id="room" defaultValue={1} />
                     </div>
                 </div>
                 <div className="input-group">

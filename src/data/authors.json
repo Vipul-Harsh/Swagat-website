@@ -1,142 +1,46 @@
 [
     {
         "id": 1,
-        "img": "assets/img/testimonial/01.png",
+        "img": "assets/img/testimonial/01.jpg",
         "name": "Anikesh Gupta",
-        "designation": "Founder, qux co.",
+        "designation": "",
         "shotdesc": "Outstanding service at Swagat Hotel! A memorable experience for comfort and luxury.",
         "longdescription": "Had an amazing experience at Swagat Hotel. The Amber Lastir room was beautifully designed with modern amenities. The staff were friendly, and the gourmet breakfast was delicious.",
         "social": [
-            {
-                "icon": "fab fa-facebook-f",
-                "title": "Facebook",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-twitter",
-                "title": "Twitter",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-behance",
-                "title": "Behance",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-linkedin",
-                "title": "Linked In",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-youtube",
-                "title": "YouTube",
-                "url": "www.domain.com/username"
-            }
+           
         ]
     },
     {
         "id": 2,
-        "img": "assets/img/testimonial/02.png",
+        "img": "assets/img/testimonial/02.jpg",
         "name": "Rajesh Patel",
-        "designation": "Founder, hilix",
+        "designation": "",
         "shotdesc": "Swagat Hotel delivers exceptional service! A perfect blend of luxury and convenience.",
         "longdescription": "I was thoroughly impressed with my stay at Swagat Hotel. The room was comfortable and well-equipped with modern amenities. The staff were attentive, ensuring a pleasant experience.",
         "social": [
-            {
-                "icon": "fab fa-facebook-f",
-                "title": "Facebook",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-twitter",
-                "title": "Twitter",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-behance",
-                "title": "Behance",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-linkedin",
-                "title": "Linked In",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-youtube",
-                "title": "YouTube",
-                "url": "www.domain.com/username"
-            }
+            
         ]
     },
     {
         "id": 3,
-        "img": "assets/img/testimonial/03.png",
+        "img": "assets/img/testimonial/03.jpg",
         "name": "Prem Sharma",
-        "designation": "Founder, Condo",
+        "designation": "",
         "shotdesc": "Outstanding service at Swagat Hotel! A memorable experience for comfort and luxury.",
         "longdescription": "My experience at Swagat Hotel was fantastic. The room was spacious and comfortable, with impressive amenities. The staff were friendly and attentive, ensuring a memorable stay.",
         "social": [
-            {
-                "icon": "fab fa-facebook-f",
-                "title": "Facebook",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-twitter",
-                "title": "Twitter",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-behance",
-                "title": "Behance",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-linkedin",
-                "title": "Linked In",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-youtube",
-                "title": "YouTube",
-                "url": "www.domain.com/username"
-            }
+           
         ]
     },
     {
         "id": 4,
         "img": "assets/img/testimonial/04.jpg",
         "name": "Ananya Kumar",
-        "designation": "Founder, hilix",
+        "designation": "",
         "shotdesc": "Outstanding service at Swagat Hotel! A memorable experience for comfort and luxury.",
         "longdescription": "Swagat Hotel exceeded my expectations. The room was impeccably clean and well-maintained. The staff were professional and courteous, making my stay truly enjoyable.",
         "social": [
-            {
-                "icon": "fab fa-facebook-f",
-                "title": "Facebook",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-twitter",
-                "title": "Twitter",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-behance",
-                "title": "Behance",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-linkedin",
-                "title": "Linked In",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-youtube",
-                "title": "YouTube",
-                "url": "www.domain.com/username"
-            }
+            
         ]
     }
 ]

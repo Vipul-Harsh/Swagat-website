@@ -42,7 +42,7 @@ class Blogpost extends Component {
             ]
         }
         return (
-            <section className="latest-news pt-115 pb-115">
+            <section className="latest-news pt-50 pb-115">
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-8 col-sm-7">

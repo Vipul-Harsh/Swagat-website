@@ -2808,23 +2808,19 @@ header.sticky-header.sticky-active.header-two .header-info .item .title {
 }
 .video-wrap a.popup-video::before {
   position: absolute;
-  content: "";
   left: 0;
   top: 0;
   height: 100%;
   width: 100%;
-  border: 1px solid #cccccc;
   border-radius: 50%;
   animation: pulse-border-2 1s linear infinite;
 }
 .video-wrap a.popup-video::after {
   position: absolute;
-  content: "";
   left: 0;
   top: 0;
   height: 100%;
   width: 100%;
-  border: 1px solid #cccccc;
   border-radius: 50%;
   animation: pulse-border-2 1.5s linear infinite;
 }
@@ -3976,6 +3972,7 @@ header.sticky-header.sticky-active.header-two .header-info .item .title {
 .room-details .room-booking-form .nice-select,
 .room-details .room-booking-form select {
   background-color: #f8f8f8;
+  color: black;
 }
 .room-details .room-booking-form .main-btn {
   height: 60px;

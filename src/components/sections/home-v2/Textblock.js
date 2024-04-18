@@ -11,7 +11,7 @@ class Textblock extends Component {
               <div className="text-img text-center text-lg-left mb-small">
                 <img
                   src={
-                    process.env.PUBLIC_URL + "/assets/img/text-block/02 (1).jpg"
+                    process.env.PUBLIC_URL + "/assets/img/text-block/02.jpeg"
                   }
                   alt=""
                 />

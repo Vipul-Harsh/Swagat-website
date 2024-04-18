@@ -25,16 +25,16 @@
         "icon": "fal fa-lock"
       },
       {
-        "title": "24/7 Online Support",
+        "title": "24/7 Room Service",
         "icon": "fal fa-headphones-alt"
       }
     ],
     "rules": [
       "No smoking, parties or events.",
-      "Check-in time from 2 PM, check-out by 10 AM.",
+      "Check-in time from 2 PM, check-out by 12 Noon.",
       "Time to time car parking"
     ],
-    "cancellation": "At Swagat Hotel Bhiwadi, we understand plans can change. Cancel up to 7 days prior for a Full Refund.",
+    "cancellation": "At Swagat Hotel Bhiwadi, we understand plans can change. Cancel up to 24 Hours prior for a Full Refund.",
     "location": {
       "lat": 31.53912,
       "lng": -89.29163
@@ -75,16 +75,16 @@
         "icon": "fal fa-cut"
       },
       {
-        "title": "Kitchen",
+        "title": "24/7 Room Service",
         "icon": "fal fa-guitar"
       }
     ],
     "rules": [
       "No smoking, parties or events.",
-      "Check-in time from 2 PM, check-out by 10 AM.",
+      "Check-in time from 2 PM, check-out by 12 Noon.",
       "Time to time car parking"
     ],
-    "cancellation": "At Swagat Hotel Bhiwadi, we understand plans can change. Cancel up to 7 days prior for a Full Refund.",
+    "cancellation": "At Swagat Hotel Bhiwadi, we understand plans can change. Cancel up to 24 Hours prior for a Full Refund.",
     "location": {
       "lat": 31.53912,
       "lng": -89.29163
@@ -125,13 +125,10 @@
         "icon": "fal fa-cut"
       },
       {
-        "title": "Kitchen",
-        "icon": "fal fa-guitar"
+        "title": "24/7 Room Service",
+        "icon": "fal fa-headphones-alt"
       },
-      {
-        "title": "Living Room",
-        "icon": "fal fa-couch"
-      },
+      
       {
         "title": "Private Balcony",
         "icon": "fal fa-tree"
@@ -139,10 +136,10 @@
     ],
     "rules": [
       "No smoking, parties or events.",
-      "Check-in time from 2 PM, check-out by 10 AM.",
+      "Check-in time from 2 PM, check-out by 12 Noon.",
       "Time to time car parking"
     ],
-    "cancellation": "At Swagat Hotel Bhiwadi, we understand plans can change. Cancel up to 7 days prior for a Full Refund.",
+    "cancellation": "At Swagat Hotel Bhiwadi, we understand plans can change. Cancel up to 24 Hours prior for a Full Refund.",
     "location": {
       "lat": 31.53912,
       "lng": -89.29163
@@ -175,25 +172,22 @@
         "title": "Smart Security",
         "icon": "fal fa-lock"
       },
-      {
-        "title": "24/7 Online Support",
-        "icon": "fal fa-headphones-alt"
-      },
+      
       {
         "title": "Breakfast",
         "icon": "fal fa-cut"
       },
       {
-        "title": "Kitchen",
-        "icon": "fal fa-guitar"
+        "title": "24/7 Room Service",
+        "icon": "fal fa-headphones-alt"
       }
     ],
     "rules": [
       "No smoking, parties or events.",
-      "Check-in time from 2 PM, check-out by 10 AM.",
+      "Check-in time from 2 PM, check-out by 12 Noon.",
       "Time to time car parking"
     ],
-    "cancellation": "At Swagat Hotel Bhiwadi, we understand plans can change. Cancel up to 7 days prior for a Full Refund.",
+    "cancellation": "At Swagat Hotel Bhiwadi, we understand plans can change. Cancel up to 24 Hours prior for a Full Refund.",
     "location": {
       "lat": 31.53912,
       "lng": -89.29163
@@ -206,7 +200,7 @@
     "price": 2490,
     "period": "Night",
     "category": [2,3],
-    "gridimage": "assets/img/room/SuperD3.jpg",
+    "gridimage": "assets/img/room/Super-single.jpg",
     "listimage": "assets/img/room/Super-2.jpg",
     "sliderimage": "assets/img/room-slider/super-deluxe-double.jpg",
     "text": "Experience luxury and sophistication in our Super Deluxe Double Room, featuring spacious living areas and premium amenities for an unforgettable stay in Bhiwadi.",
@@ -225,17 +219,14 @@
         "title": "Smart Security",
         "icon": "fal fa-lock"
       },
-      {
-        "title": "24/7 Online Support",
-        "icon": "fal fa-headphones-alt"
-      },
+      
       {
         "title": "Breakfast",
         "icon": "fal fa-cut"
       },
       {
-        "title": "Kitchen",
-        "icon": "fal fa-guitar"
+        "title": "24/7 Room Service",
+        "icon": "fal fa-headphones-alt"
       },
       {
         "title": "Living Room",
@@ -244,10 +235,10 @@
     ],
     "rules": [
       "No smoking, parties or events.",
-      "Check-in time from 2 PM, check-out by 10 AM.",
+      "Check-in time from 2 PM, check-out by 12 Noon.",
       "Time to time car parking"
     ],
-    "cancellation": "At Swagat Hotel Bhiwadi, we understand plans can change. Cancel up to 7 days prior for a Full Refund.",
+    "cancellation": "At Swagat Hotel Bhiwadi, we understand plans can change. Cancel up to 24 Hours prior for a Full Refund.",
     "location": {
       "lat": 31.53912,
       "lng": -89.29163

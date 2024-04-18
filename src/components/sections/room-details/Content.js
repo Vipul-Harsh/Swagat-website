@@ -33,7 +33,7 @@ function Content(props) {
                   <h2>{item.title}</h2>
                 </div>
                 <div className="price price2">
-                  ${new Intl.NumberFormat().format(item.price)}
+                &#8377;{new Intl.NumberFormat().format(item.price)}
                   <span>/{item.period}</span>
                 </div>
               </div>

@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "img": "assets/img/testimonial/01.png",
+        "img": "assets/img/testimonial/01.jpg",
         "name": "Rosalina D. William",
         "designation": "Founder, qux co.",
         "shotdesc": "Rosalina D. William, Founder of qux co., is a leading innovator in the industry. Discover her insights on comfort and luxury.",
@@ -36,7 +36,7 @@
     },
     {
         "id": 2,
-        "img": "assets/img/testimonial/02.png",
+        "img": "assets/img/testimonial/02.jpg",
         "name": "Donald H. Hilixer",
         "designation": "Founder, hilix",
         "shotdesc": "Donald H. Hilixer, Founder of hilix, is a visionary leader shaping the future of luxury accommodations. Explore his perspectives on modern amenities.",
@@ -71,7 +71,7 @@
     },
     {
         "id": 3,
-        "img": "assets/img/testimonial/03.png",
+        "img": "assets/img/testimonial/03.jpg",
         "name": "Browfish Dumble",
         "designation": "Founder, Condo",
         "shotdesc": "Browfish Dumble, Founder of Condo, is renowned for creating luxurious and comfortable spaces. Dive into his expertise on hospitality design.",

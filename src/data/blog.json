@@ -1,1203 +1,333 @@
 [
     {
-        "id": 1,
-        "gridimg": "assets/img/latest-post/01.jpg",
-        "listimg": "assets/img/blog/01.jpg",
-        "title": "Purple Skies, Pool, and Champagne. This is us",
-        "postdate": "2021-February-15",
-        "author": [
-            1
-        ],
-        "categories": [
-            1,
-            2
-        ],
-        "tags": [
-            1,
-            2,
-            3
-        ],
-        "social": [
+      "id": 1,
+      "gridimg": "assets/img/blog/01.jpg",
+      "listimg": "assets/img/blog/012.jpg",
+      "title": "Unveiling the Charm of Swagat Palace: A Tranquil Retreat",
+      "postdate": "2024-April-19",
+      "author": [1],
+      "categories": [1, 2],
+      "tags": [1, 2, 3],
+      "social": [
+        {
+          "icon": "fab fa-facebook-f",
+          "title": "Facebook",
+          "url": "www.domain.com/username"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "title": "Twitter",
+          "url": "www.domain.com/username"
+        },
+        {
+          "icon": "fab fa-behance",
+          "title": "Behance",
+          "url": "www.domain.com/username"
+        },
+        {
+          "icon": "fab fa-linkedin",
+          "title": "Linked In",
+          "url": "www.domain.com/username"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "title": "YouTube",
+          "url": "www.domain.com/username"
+        }
+      ],
+      "views": 232,
+      "shortdesc": "Embark on a journey of discovery as we unveil the serene beauty and unmatched tranquility of Swagat Palace. Nestled amidst lush greenery and picturesque landscapes, our palace offers a unique retreat for the discerning traveler.",
+      "longdescription": "<p class='mb-30'>Explore the captivating allure of Swagat Palace, where every corner tells a story of luxury and elegance. With its idyllic setting and impeccable service, our palace promises an experience that is truly unforgettable.</p><p>Indulge in the opulence of our accommodations, where every detail is meticulously curated to ensure your comfort and satisfaction. From spacious rooms to luxurious amenities, we strive to exceed your expectations at every turn.</p><figure class='mt-45 mb-45'> <img src='../assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'>A Sanctuary of Sophistication</h3><p>Our palace is more than just a place to stay – it's a sanctuary of sophistication and serenity. With its lush gardens, tranquil courtyards, and stunning architecture, Swagat Palace offers a peaceful retreat from the hustle and bustle of everyday life.</p><div class='gap'></div><h3 class='subtitle'>A Unique Experience Awaits</h3><p>Discover a world of luxury and relaxation at Swagat Palace. From rejuvenating spa treatments to gourmet dining experiences, our palace offers a host of amenities and services designed to pamper and indulge you.</p><ul class='list-icon'><li>Tranquil natural surroundings</li><li>Luxurious accommodations</li><li>World-class amenities</li><li>Exceptional guest services</li><li>Gourmet dining options</li></ul><blockquote class='mt-40 mb-40'><span class='quote-by'>by Hetmayar</span>An enchanting escape that transports you to a world of luxury and indulgence. Swagat Palace is truly a hidden gem waiting to be discovered.</blockquote><p class='mb-30'>Experience the magic of Swagat Palace for yourself and discover why it's the perfect destination for your next getaway. Whether you're seeking relaxation, adventure, or simply a break from the ordinary, our palace offers an experience that is second to none.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='../assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p>Plan your visit to Swagat Palace today and experience the beauty of nature, the warmth of hospitality, and the luxury of indulgence. We look forward to welcoming you to our palace and creating memories that will last a lifetime.</p></div></div><p>Discover the charm and elegance of Swagat Palace, where every moment is a celebration of life's simple pleasures. From the breathtaking views to the impeccable service, our palace offers an experience that is truly unforgettable.</p><p>Join us for an unforgettable journey of discovery and experience the magic of Swagat Palace for yourself. Whether you're seeking adventure, relaxation, or simply a break from the ordinary, our palace offers something for everyone.</p><p>Indulge in the luxury of Swagat Palace and experience the ultimate in relaxation and rejuvenation. From our world-class amenities to our exceptional service, we promise an experience that is truly unforgettable.</p><p>Escape to Swagat Palace and discover a world of luxury and indulgence. From the moment you arrive, you'll be greeted with warm hospitality and impeccable service, ensuring a stay that is nothing short of extraordinary.</p>",
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Anna Wright",
+          "img": "assets/img/blog-details/avatar-1.jpg",
+          "date": "19th Jan 2024",
+          "comment": "Swagat Palace is a hidden gem nestled amidst nature's bounty. The serene surroundings and luxurious accommodations make it the perfect destination for a relaxing getaway. Highly recommended!",
+          "replies": [
             {
-                "icon": "fab fa-facebook-f",
-                "title": "Facebook",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-twitter",
-                "title": "Twitter",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-behance",
-                "title": "Behance",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-linkedin",
-                "title": "Linked In",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-youtube",
-                "title": "YouTube",
-                "url": "www.domain.com/username"
+              "id": 11,
+              "name": "Jhon Kelian",
+              "img": "assets/img/blog-details/avatar-2.jpg",
+              "date": "20th Jan 2024",
+              "comment": "Couldn't agree more! Swagat Palace offers a truly unique experience, with its stunning views and impeccable service. It's the ideal retreat for anyone seeking tranquility and relaxation."
             }
-        ],
-        "views": 232,
-        "shortdesc": "Discover the allure of our poolside sanctuary, where the mesmerizing hues of the purple skies harmoniously blend with the sparkling bubbles of premium champagne. Experience a retreat where sophistication meets tranquility.",
-        "longdescription": "<p class='mb-30'>Explore the charm of our exclusive poolside hideaway, where the enchanting shades of twilight skies meld seamlessly with the effervescence of the finest champagne. Immerse yourself in a setting where elegance and serenity intertwine.</p><p>Unwind and bask in the luxury of our meticulously curated spaces. Witness the magic as the sky paints a canvas of purples and blues, reflecting upon the tranquil waters of our pool. Savor the crisp notes of champagne that perfectly complement the serene ambiance, elevating your experience to new heights of indulgence.</p><figure class='mt-45 mb-45'> <img src='../assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'>An epitome of luxury</h3><p>Revel in the exquisite blend of opulence and tranquility at our poolside oasis. With its breathtaking vistas and unparalleled hospitality, our establishment promises an experience that is truly exceptional.</p><div class='gap'></div><h3 class='subtitle'>A sanctuary of sophistication</h3><p>Our unwavering commitment to excellence sets us apart. From our state-of-the-art amenities to our personalized guest services, we strive to surpass your expectations at every juncture.</p><div class='gap'></div><h3 class='subtitle'>A unique experience awaits</h3><ul class='list-icon'><li>Breathtaking views of the purple skies</li><li>World-class amenities</li><li>Exceptional guest services</li><li>Premium selection of champagne</li><li>Tranquil poolside setting</li></ul><blockquote class='mt-40 mb-40'><span class='quote-by'>by Hetmayar</span>A truly lavish experience that captivates the senses. From the awe-inspiring views to the flawless service, every moment spent here is a tribute to luxury and refinement.</blockquote><p class='mb-30'>Discover the essence of elevated living at our establishment. With its unmatched amenities, exquisite design, and attentive staff, we invite you to partake in the ultimate expression of sophistication and elegance.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='../assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p>Embark on a journey of indulgence and relaxation at our venue. From our sumptuous accommodations to our gourmet dining options, we offer an experience that is unparalleled.</p></div></div><p>Experience the magic of our poolside sanctuary, where every detail is meticulously crafted to enhance your stay. From the panoramic views to the impeccable service, we promise a memorable experience that will leave you yearning for more.</p><p>Our commitment to excellence extends to every aspect of your stay, ensuring that each guest enjoys a personalized and unforgettable experience. Whether you're here for a romantic getaway, a relaxing retreat, or a special celebration, our dedicated team is on hand to cater to your every need.</p><p>Indulge in the finest amenities and services that our establishment has to offer. From our luxurious accommodations to our world-class dining options, we strive to provide an experience that is both memorable and satisfying. Immerse yourself in the tranquility of our poolside setting, where you can unwind and recharge in style.</p><p>Explore the local attractions and activities that our location has to offer. From cultural landmarks to outdoor adventures, there's something for everyone to enjoy. Whether you prefer to relax by the pool, explore the surrounding area, or indulge in gourmet dining, our concierge team is here to help you make the most of your stay.</p><p>Join us for an unforgettable experience that combines luxury, comfort, and exceptional service. Discover why our poolside sanctuary is a favorite destination for discerning travelers and experience the magic for yourself.</p>",
-        "reviews": [
-            {
-                "id": 1,
-                "name": "Anna Wright",
-                "img": "assets/img/blog-details/avatar-1.jpg",
-                "date": "19th Jan 2021",
-                "comment": "This place is a dream come true! The combination of the mesmerizing purple skies, the tranquil pool, and the exquisite champagne creates a magical ambiance that is truly unparalleled. A must-visit for anyone seeking luxury and serenity.",
-                "replies": [
-                    {
-                        "id": 11,
-                        "name": "Jhon Kelian",
-                        "img": "assets/img/blog-details/avatar-2.jpg",
-                        "date": "20th Jan 2021",
-                        "comment": "Couldn't agree more! It's the perfect spot to unwind and escape the hustle and bustle of everyday life. The staff is incredibly attentive, and the amenities are top-notch. A truly unforgettable experience."
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "name": "Hilixer D. Dilimmah",
-                "img": "assets/img/blog-details/avatar-3.jpg",
-                "date": "18th Jan 2021",
-                "comment": "A hidden gem indeed! The ambiance is so serene, and the views are breathtaking. The champagne selection is impressive, and the service is impeccable. I can't wait to visit again!",
-                "replies": []
-            }
-        ]
-    },
-    
-    {
-        "id": 2,
-        "gridimg": "assets/img/latest-post/02.jpg",
-        "listimg": "assets/img/blog/02.jpg",
-        "title": "Implementing Pools by the Sea Side This Year",
-        "postdate": "2021-February-28",
-        "author": [
-            2
-        ],
-        "categories": [
-            3,
-            4
-        ],
-        "tags": [
-            4,
-            5,
-            6
-        ],
-        "social": [
-            {
-                "icon": "fab fa-facebook-f",
-                "title": "Facebook",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-twitter",
-                "title": "Twitter",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-behance",
-                "title": "Behance",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-linkedin",
-                "title": "Linked In",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-youtube",
-                "title": "YouTube",
-                "url": "www.domain.com/username"
-            }
-        ],
-        "views": 232,
-        "shortdesc": "Discover the latest trends in beachside leisure as we introduce new sea-side pool installations this year.",
-        "longdescription": "<p class='mb-30'>As the summer sun beckons, we're thrilled to announce our new initiative: installing state-of-the-art pools right by the sea. These pools are not just about relaxation; they're about blending luxury with nature, offering guests a chance to swim with a view of the endless horizon.</p><p>The idea stems from our commitment to redefine leisure experiences. With the gentle sea breeze and the rhythmic sound of waves as a backdrop, these pools aim to create a serene ambiance that enhances relaxation. Guests can enjoy a refreshing dip while gazing at the expansive sea, making every swim a memorable experience.</p><figure class='mt-45 mb-45'><img src='../assets/img/blog-details/01.jpg' alt='img'></figure><h3 class='subtitle'>A cleansing hot shower or bath</h3><p>Following a rejuvenating swim, guests can further unwind with our premium shower and bath facilities. These are designed to provide a therapeutic experience, ensuring you leave feeling refreshed and revitalized.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p>To elevate the experience, we're introducing aromatic incense that complements the natural seaside ambiance. These scents aim to relax the mind and body, creating a holistic relaxation experience.</p><div class='gap'></div><h3 class='subtitle'>Elevating your stay with personalized services</h3><ul class='list-icon'><li>Complimentary beach towels and loungers for guests.</li><li>24/7 poolside service offering refreshments and snacks.</li><li>Guided meditation and yoga sessions by the pool.</li><li>Special sunset pool parties with live music.</li><li>Exclusive membership packages for frequent visitors.</li></ul><blockquote class='mt-40 mb-40'><span class='quote-by'>by Hetmayar</span> Embrace the blend of luxury and nature with our innovative poolside offerings. Dive into an experience that transcends traditional leisure, offering a harmonious balance between relaxation and adventure.</blockquote><p class='mb-30'>Our commitment to providing unparalleled leisure experiences is unwavering. We believe in creating memories that last a lifetime. Join us in this exciting journey as we set new standards in beachside luxury.</p><div class='row align-items-center'><div class='col-md-5 mb-30'><img src='../assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p>As we embark on this new venture, we invite you to be a part of our story. Share your thoughts and suggestions, and let's create unforgettable memories together.</p></div></div><p>Experience the future of beachside leisure with us. Dive into a world where every moment is crafted with care, ensuring you leave with memories that linger long after your stay.</p>",
-        "reviews": [
-            {
-                "id": 1,
-                "name": "Anna Wright",
-                "img": "assets/img/blog-details/avatar-1.jpg",
-                "date": "19th Jan 2021",
-                "comment": "The concept of beachside pools is revolutionary! I had the most relaxing time swimming with the waves in sight. Kudos to the team for this brilliant idea.",
-                "replies": [
-                    {
-                        "id": 11,
-                        "name": "Jhon Kelian",
-                        "img": "assets/img/blog-details/avatar-2.jpg",
-                        "date": "20th Jan 2021",
-                        "comment": "Thank you, Anna! We're delighted to hear about your positive experience. Your feedback motivates us to innovate further."
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "name": "Hilixer D. Dilimmah",
-                "img": "assets/img/blog-details/avatar-3.jpg",
-                "date": "18th Jan 2021",
-                "comment": "The new pools are a game-changer! The blend of luxury and nature is unparalleled. Can't wait to visit again.",
-                "replies": []
-            }
-        ]
-    },    
-    {
-        "id": 3,
-        "gridimg": "assets/img/latest-post/03.jpg",
-        "listimg": "assets/img/blog/03.jpg",
-        "title": "Changing Hotel Rooms This Year Is Great",
-        "postdate": "2021-February-11",
-        "author": [
-            3
-        ],
-        "categories": [
-            5,
-            1
-        ],
-        "tags": [
-            7,
-            8,
-            9
-        ],
-        "social": [
-            {
-                "icon": "fab fa-facebook-f",
-                "title": "Facebook",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-twitter",
-                "title": "Twitter",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-behance",
-                "title": "Behance",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-linkedin",
-                "title": "Linked In",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-youtube",
-                "title": "YouTube",
-                "url": "www.domain.com/username"
-            }
-        ],
-        "views": 232,
-        "shortdesc": "Discover the latest trends in hotel room designs and the benefits they bring to travelers. With evolving needs and preferences, hotel rooms are adapting to offer more comfort and flexibility. Embrace the change and elevate your travel experiences.",
-        "longdescription": "<p class='mb-30'> Discover the latest trends in hotel room designs and the benefits they bring to travelers. With evolving needs and preferences, hotel rooms are adapting to offer more comfort and flexibility. Embrace the change and elevate your travel experiences. Find out how modern hotel rooms are revolutionizing the hospitality industry and setting new standards for guest satisfaction. Experience the blend of functionality and aesthetics, ensuring a memorable stay every time.</p><p> As travelers seek more personalized experiences, hotels are focusing on creating unique and inviting spaces. From innovative room layouts to eco-friendly amenities, discover how hotels are redefining the guest experience. Learn about the importance of sustainability in hotel design and how it contributes to a greener future.</p><figure class='mt-45 mb-45'> <img src='../assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> The Future of Hotel Rooms</h3><p> With advancements in technology and design, the future of hotel rooms looks promising. Explore the latest innovations that are shaping the hospitality industry and enhancing guest comfort. From smart room controls to personalized services, discover what's next in hotel room design.</p><div class='gap'></div><h3 class='subtitle'> Sustainable Hotel Design</h3><p> Sustainability is no longer a trend but a necessity in hotel design. Learn how hotels are adopting eco-friendly practices and materials to reduce their environmental impact. Discover the benefits of sustainable hotel design for both guests and the planet.</p><div class='gap'></div><h3 class='subtitle'> Enhancing Guest Experience</h3><ul class='list-icon'><li> Personalized services tailored to individual preferences.</li><li> Innovative technologies to simplify the guest experience.</li><li> Eco-friendly amenities for a greener stay.</li><li> Comfortable and functional room layouts.</li><li> Accessible designs for guests of all abilities.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> The evolution of hotel rooms reflects the changing needs and preferences of travelers. As the hospitality industry continues to innovate, guests can expect more personalized and sustainable experiences.</blockquote><p class='mb-30'> Discover how the design of hotel rooms is evolving to meet the demands of modern travelers. From flexible workspaces to relaxation zones, hotels are creating multifunctional spaces that cater to different needs. Explore the latest trends in hotel room designs and find inspiration for your next stay.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='../assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> As the hospitality industry continues to evolve, so do the expectations of travelers. Discover how hotels are adapting to these changes and creating memorable experiences for their guests. From personalized services to innovative amenities, hotels are going above and beyond to exceed guest expectations.</p></div></div><p> The future of hotel rooms is bright and promising. With a focus on sustainability, technology, and guest satisfaction, hotels are setting new standards in the industry. Discover the latest trends and innovations that are shaping the future of hotel room design and enhancing the guest experience.</p>",
-        "reviews": [
-            {
-                "id": 1,
-                "name": "Anna Wright",
-                "img": "assets/img/blog-details/avatar-1.jpg",
-                "date": "19th Jan 2021",
-                "comment": "I absolutely loved reading about the changing trends in hotel room designs. It's fascinating to see how hotels are adapting to meet the needs of modern travelers.",
-                "replies": [
-                    {
-                        "id": 11,
-                        "name": "Jhon Kelian",
-                        "img": "assets/img/blog-details/avatar-2.jpg",
-                        "date": "20th Jan 2021",
-                        "comment": "I couldn't agree more, Anna. The shift towards more sustainable and personalized hotel experiences is truly commendable."
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "name": "Hilixer D. Dilimmah",
-                "img": "assets/img/blog-details/avatar-3.jpg",
-                "date": "18th Jan 2021",
-                "comment": "This article provided valuable insights into the future of hotel room designs. It's clear that sustainability and guest comfort are at the forefront of innovation.",
-                "replies": []
-            }
-        ]
-    },    
-    {
-        "id": 4,
-        "gridimg": "assets/img/latest-post/01.jpg",
-        "listimg": "assets/img/blog/01.jpg",
-        "title": "Experience the Soothing Cold Breeze In Our Exclusive Hotel.",
-        "postdate": "2021-February-28",
-        "author": [
-            1
-        ],
-        "categories": [
-            1,
-            2
-        ],
-        "tags": [
-            10,
-            11,
-            12
-        ],
-        "social": [
-            {
-                "icon": "fab fa-facebook-f",
-                "title": "Facebook",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-twitter",
-                "title": "Twitter",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-behance",
-                "title": "Behance",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-linkedin",
-                "title": "Linked In",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-youtube",
-                "title": "YouTube",
-                "url": "www.domain.com/username"
-            }
-        ],
-        "views": 232,
-        "shortdesc": "Experience the refreshing cool breeze and serene atmosphere at our exclusive hotel. Discover unparalleled tranquility and relaxation amidst nature's embrace.",
-        "longdescription": "<p class='mb-30'> Experience the refreshing cool breeze and serene atmosphere at our exclusive hotel. Discover unparalleled tranquility and relaxation amidst nature's embrace. Unwind and immerse yourself in the soothing ambiance, rejuvenating your senses with every gentle gust. Bask in the tranquility of our surroundings and let the worries of the world melt away. Feel the crisp air invigorating your soul as you indulge in moments of pure serenity. Your stay with us promises a rejuvenating experience that revitalizes both mind and body, leaving you refreshed and invigorated.</p><p> Immerse yourself in the tranquil oasis of our hotel, where every moment is a celebration of serenity and peace. Allow yourself to be swept away by the beauty of nature, finding solace in the gentle whispers of the wind. With every breath, feel your spirit lifted and your worries fade into oblivion. Experience the magic of our exclusive hotel, where the soothing cold breeze is a constant companion, guiding you towards moments of pure bliss and relaxation.</p> <figure class='mt-45 mb-45'> <img src='../assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A rejuvenating spa experience</h3><p> Indulge in a rejuvenating spa experience at our hotel, where skilled therapists pamper you with bespoke treatments tailored to your needs. Feel the tension melt away as expert hands work their magic, leaving you feeling refreshed and renewed.</p><div class='gap'></div><h3 class='subtitle'>Exploring nature's wonders</h3><p> Embark on a journey of discovery as you explore the wonders of nature surrounding our hotel. From lush greenery to breathtaking vistas, every moment spent in nature is a reminder of life's beauty and wonder.</p><div class='gap'></div><h3 class='subtitle'>Culinary delights</h3><ul class='list-icon'><li>Indulge in a culinary journey with our delectable array of dishes, crafted with the freshest ingredients and bursting with flavor.</li><li>Experience the joy of dining amidst nature's beauty, with al fresco dining options offering stunning views and unforgettable experiences.</li><li>Savor the flavors of local cuisine with our curated menu, showcasing the best of regional delicacies and international favorites.</li><li>Immerse yourself in the rich culinary heritage of the region, with dishes that pay homage to traditional flavors and techniques passed down through generations.</li><li>Discover a world of gastronomic delights at our hotel, where every meal is a celebration of taste, texture, and culinary creativity.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aesthetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Experience the refreshing cool breeze and serene atmosphere at our exclusive hotel. Discover unparalleled tranquility and relaxation amidst nature's embrace. Unwind and immerse yourself in the soothing ambiance, rejuvenating your senses with every gentle gust. Bask in the tranquility of our surroundings and let the worries of the world melt away. Feel the crisp air invigorating your soul as you indulge in moments of pure serenity. Your stay with us promises a rejuvenating experience that revitalizes both mind and body, leaving you refreshed and invigorated.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='../assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Experience the refreshing cool breeze and serene atmosphere at our exclusive hotel. Discover unparalleled tranquility and relaxation amidst nature's embrace. Unwind and immerse yourself in the soothing ambiance, rejuvenating your senses with every gentle gust. Bask in the tranquility of our surroundings and let the worries of the world melt away. Feel the crisp air invigorating your soul as you indulge in moments of pure serenity. Your stay with us promises a rejuvenating experience that revitalizes both mind and body, leaving you refreshed and invigorated.</p></div></div><p> Experience the refreshing cool breeze and serene atmosphere at our exclusive hotel. Discover unparalleled tranquility and relaxation amidst nature's embrace. Unwind and immerse yourself in the soothing ambiance, rejuvenating your senses with every gentle gust. Bask in the tranquility of our surroundings and let the worries of the world melt away. Feel the crisp air invigorating your soul as you indulge in moments of pure serenity. Your stay with us promises a rejuvenating experience that revitalizes both mind and body, leaving you refreshed and invigorated.</p>",
-        "reviews": [
-            {
-                "id": 1,
-                "name": "Anna Wright",
-                "img": "assets/img/blog-details/avatar-1.jpg",
-                "date": "19th Jan 2021",
-                "comment": "Experience the refreshing cool breeze and serene atmosphere at our exclusive hotel. Discover unparalleled tranquility and relaxation amidst nature's embrace.",
-                "replies": [
-                    {
-                        "id": 11,
-                        "name": "Jhon Kelian",
-                        "img": "assets/img/blog-details/avatar-2.jpg",
-                        "date": "20th Jan 2021",
-                        "comment": "I completely agree with Anna! The hotel's ambiance is truly soothing and refreshing."
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "name": "Hilixer D. Dilimmah",
-                "img": "assets/img/blog-details/avatar-3.jpg",
-                "date": "18th Jan 2021",
-                "comment": "The tranquil atmosphere and refreshing breeze make this hotel a perfect getaway spot.",
-                "replies": []
-            }
-        ]
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Hilixer D. Dilimmah",
+          "img": "assets/img/blog-details/avatar-3.jpg",
+          "date": "18th Jan 2024",
+          "comment": "Swagat Palace exceeded all my expectations! From the moment I arrived, I was greeted with warmth and hospitality. The accommodations were luxurious, and the surroundings were simply breathtaking. A truly unforgettable experience!",
+          "replies": []
+        }
+      ]
     },
     {
-        "id": 5,
-        "gridimg": "assets/img/latest-post/01.jpg",
-        "listimg": "assets/img/blog/01.jpg",
-        "title": "We are opening a Brand New Hotel In The Bahamas",
-        "postdate": "2021-February-28",
-        "author": [
-            1
-        ],
-        "categories": [
-            1,
-            2
-        ],
-        "tags": [
-            1,
-            2,
-            3
-        ],
-        "social": [
+      "id": 2,
+      "gridimg": "assets/img/blog/02.jpg",
+      "listimg": "assets/img/blog/beautiful-scenery-mangal-das-gar.jpg",
+      "title": "Exploring the Rich History and Culture of Swagat Palace",
+      "postdate": "2024-April-20",
+      "author": [1],
+      "categories": [1, 3],
+      "tags": [4, 5, 6],
+      "social": [
+        {
+          "icon": "fab fa-facebook-f",
+          "title": "Facebook",
+          "url": "www.domain.com/username"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "title": "Twitter",
+          "url": "www.domain.com/username"
+        },
+        {
+          "icon": "fab fa-behance",
+          "title": "Behance",
+          "url": "www.domain.com/username"
+        },
+        {
+          "icon": "fab fa-linkedin",
+          "title": "Linked In",
+          "url": "www.domain.com/username"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "title": "YouTube",
+          "url": "www.domain.com/username"
+        }
+      ],
+      "views": 321,
+      "shortdesc": "Take a journey back in time as we delve into the rich history and cultural heritage of Swagat Palace. From its origins as a royal residence to its present-day incarnation as a luxurious retreat, discover the stories that have shaped this iconic landmark.",
+      "longdescription": "<p class='mb-30'>Explore the fascinating history and cultural heritage of Swagat Palace, where every corner tells a story of royalty and grandeur. From its regal architecture to its priceless artifacts, our palace is a treasure trove of history waiting to be discovered.</p><p>Join us as we journey through the annals of time and uncover the secrets of Swagat Palace. From its humble beginnings as a royal residence to its modern-day incarnation as a luxurious retreat, our palace has witnessed centuries of history and tradition.</p><figure class='mt-45 mb-45'> <img src='../assets/img/blog-details/03 (2).jpg' alt='img'> </figure><h3 class='subtitle'>A Glimpse Into the Past</h3><p>Step back in time and experience the grandeur of Swagat Palace as it once was. From its opulent interiors to its sprawling gardens, our palace offers a glimpse into a bygone era of royalty and splendor.</p><div class='gap'></div><h3 class='subtitle'>Preserving Our Heritage</h3><p>At Swagat Palace, we are committed to preserving and celebrating our rich cultural heritage. From hosting traditional ceremonies to showcasing local art and craftsmanship, we strive to honor the legacy of our ancestors.</p><div class='gap'></div><h3 class='subtitle'>A Cultural Experience Like No Other</h3><p>Discover the beauty and diversity of Indian culture at Swagat Palace. From classical music and dance performances to traditional culinary experiences, our palace offers a unique opportunity to immerse yourself in the vibrant tapestry of Indian traditions.</p><ul class='list-icon'><li>Rich history and heritage</li><li>Regal architecture</li><li>Traditional ceremonies and celebrations</li><li>Local art and craftsmanship</li><li>Cultural performances and experiences</li></ul><blockquote class='mt-40 mb-40'><span class='quote-by'>by Hetmayar</span>A journey through time and space, where every step reveals a new story and a new adventure. Swagat Palace is a testament to the enduring spirit of India's rich cultural heritage.</blockquote><p class='mb-30'>Experience the magic of Swagat Palace for yourself and discover why it's more than just a palace – it's a living testament to India's vibrant past and promising future.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='../assets/img/blog-details/04 (2).jpg' alt='img'></div><div class='col-md-7 mb-30'><p>Plan your visit to Swagat Palace today and embark on a journey through time and space. From guided tours to cultural workshops, there's something for everyone to enjoy at our palace.</p></div></div><p>Discover the rich history and cultural heritage of Swagat Palace, where every moment is a celebration of India's vibrant past and promising future. Join us as we embark on a journey through time and space, exploring the stories and traditions that have shaped our nation's identity.</p><p>Experience the magic of Swagat Palace for yourself and discover why it's more than just a palace – it's a living testament to India's rich cultural heritage and promising future.</p><p>Indulge in the luxury and opulence of Swagat Palace, where every moment is a celebration of India's vibrant past and promising future. From the regal architecture to the rich history, our palace offers an experience that is truly unforgettable.</p><p>Escape to Swagat Palace and discover a world of beauty, history, and culture. From the moment you arrive, you'll be transported to a bygone era of royalty and grandeur, where every corner tells a story and every moment is a memory in the making.</p>",
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Anna Wright",
+          "img": "assets/img/blog-details/avatar-1.jpg",
+          "date": "19th Jan 2024",
+          "comment": "Swagat Palace is a true marvel of history and architecture. The guided tour was fascinating, and I learned so much about the palace's rich heritage. Highly recommend it to anyone interested in history and culture!",
+          "replies": [
             {
-                "icon": "fab fa-facebook-f",
-                "title": "Facebook",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-twitter",
-                "title": "Twitter",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-behance",
-                "title": "Behance",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-linkedin",
-                "title": "Linked In",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-youtube",
-                "title": "YouTube",
-                "url": "www.domain.com/username"
+              "id": 11,
+              "name": "Jhon Kelian",
+              "img": "assets/img/blog-details/avatar-2.jpg",
+              "date": "20th Jan 2024",
+              "comment": "Couldn't agree more! The tour was both informative and engaging, and the palace itself is simply stunning. It's a must-visit for anyone interested in exploring India's rich cultural heritage."
             }
-        ],
-        "views": 232,
-        "shortdesc": "Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates!",
-        "longdescription": "<p class='mb-30'> Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates!</p><p> Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates!</p> <figure class='mt-45 mb-45'> <img src='../assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates!</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates!</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates!</li><li>Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates!</li><li>Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates!</li><li>Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates!</li><li>Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates!</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> The grand opening of our new Bahamas hotel is a game-changer for luxury travel. Be part of this exquisite experience. </blockquote><p class='mb-30'> Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates!</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='../assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates!</p></div></div><p> Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates! Experience the excitement of our upcoming launch as we introduce a luxurious retreat in the breathtaking beauty of the Bahamas. Stay tuned for updates!</p>",
-        "reviews": [
-            {
-                "id": 1,
-                "name": "Anna Wright",
-                "img": "assets/img/blog-details/avatar-1.jpg",
-                "date": "19th Jan 2021",
-                "comment": "I am thrilled about this new hotel opening in the Bahamas! The location looks stunning and I can't wait to book my stay.",
-                "replies": [
-                    {
-                        "id": 11,
-                        "name": "Jhon Kelian",
-                        "img": "assets/img/blog-details/avatar-2.jpg",
-                        "date": "20th Jan 2021",
-                        "comment": "Thank you, Anna! We are equally excited and can't wait to welcome you to our luxurious retreat."
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "name": "Hilixer D. Dilimmah",
-                "img": "assets/img/blog-details/avatar-3.jpg",
-                "date": "18th Jan 2021",
-                "comment": "This hotel is going to redefine luxury in the Bahamas. I'm eager to see the final result.",
-                "replies": []
-            }
-        ]
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Hilixer D. Dilimmah",
+          "img": "assets/img/blog-details/avatar-3.jpg",
+          "date": "18th Jan 2024",
+          "comment": "Swagat Palace exceeded all my expectations! The guided tour was fantastic, and I was amazed by the palace's rich history and cultural significance. A truly enlightening experience!",
+          "replies": []
+        }
+      ]
     },
     {
-        "id": 6,
-        "gridimg": "assets/img/latest-post/02.jpg",
-        "listimg": "assets/img/blog/02.jpg",
-        "title": "Suites and Rooms, We Have Them All Tonight",
-        "postdate": "2021-February-28",
-        "author": [
-            2
-        ],
-        "categories": [
-            3,
-            4
-        ],
-        "tags": [
-            4,
-            5,
-            6
-        ],
-        "social": [
+      "id": 3,
+      "gridimg": "assets/img/blog/03.jpg",
+      "listimg": "assets/img/blog/movie-night-by-pool-whole-family (2).jpg",
+      "title": "Indulge in Luxury: A Gourmet Experience at Swagat Palace",
+      "postdate": "2024-April-21",
+      "author": [1],
+      "categories": [1, 4],
+      "tags": [7, 8, 9],
+      "social": [
+        {
+          "icon": "fab fa-facebook-f",
+          "title": "Facebook",
+          "url": "www.domain.com/username"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "title": "Twitter",
+          "url": "www.domain.com/username"
+        },
+        {
+          "icon": "fab fa-behance",
+          "title": "Behance",
+          "url": "www.domain.com/username"
+        },
+        {
+          "icon": "fab fa-linkedin",
+          "title": "Linked In",
+          "url": "www.domain.com/username"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "title": "YouTube",
+          "url": "www.domain.com/username"
+        }
+      ],
+      "views": 456,
+      "shortdesc": "Treat your taste buds to an unforgettable culinary journey at Swagat Palace. From traditional Indian delicacies to international gourmet fare, our palace offers a dining experience like no other.",
+      "longdescription": "<p class='mb-30'>Indulge in the ultimate gourmet experience at Swagat Palace, where every dish is a masterpiece and every meal is a celebration of flavor and innovation. From traditional Indian delicacies to international cuisine, our palace offers a culinary journey like no other.</p><p>Savor the rich flavors and aromas of Indian cuisine at Swagat Palace. From fragrant curries to mouthwatering kebabs, our palace offers a tantalizing array of dishes that are sure to delight your palate.</p><figure class='mt-45 mb-45'> <img src='../assets/img/blog-details/movie-night-by-pool-whole-family (2).jpg' alt='img'> </figure><h3 class='subtitle'>A Feast for the Senses</h3><p>Experience the magic of Indian cuisine at Swagat Palace, where every dish is a work of art and every bite is a revelation. From traditional thalis to modern fusion creations, our palace offers a feast for the senses that will leave you craving more.</p><div class='gap'></div><h3 class='subtitle'>Innovative Culinary Creations</h3><p>At Swagat Palace, we are committed to pushing the boundaries of culinary innovation. From molecular gastronomy to farm-to-table dining experiences, our palace offers a glimpse into the future of food.</p><div class='gap'></div><h3 class='subtitle'>A Culinary Journey Awaits</h3><p>Join us for a culinary journey like no other at Swagat Palace. Whether you're a connoisseur of fine dining or simply looking to explore new flavors, our palace offers an experience that is sure to satisfy your appetite.</p><ul class='list-icon'><li>Traditional Indian delicacies</li><li>International gourmet fare</li><li>Molecular gastronomy</li><li>Farm-to-table dining experiences</li><li>Exquisite desserts and pastries</li></ul><blockquote class='mt-40 mb-40'><span class='quote-by'>by Hetmayar</span>A culinary adventure that tantalizes the taste buds and awakens the senses. Swagat Palace is a must-visit destination for food lovers and gastronomes alike.</blockquote><p class='mb-30'>Discover the flavors of Swagat Palace and experience the magic of Indian cuisine like never before. From traditional favorites to innovative creations, our palace offers a dining experience that is sure to leave a lasting impression.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='../assets/img/blog-details/04 (2).jpg' alt='img'></div><div class='col-md-7 mb-30'><p>Plan your visit to Swagat Palace today and embark on a culinary journey like no other. Whether you're craving classic Indian dishes or eager to try something new, our palace offers an array of options to suit every palate.</p></div></div><p>Indulge in the luxury of Swagat Palace and experience the ultimate dining experience. From the moment you arrive, you'll be greeted with warm hospitality and impeccable service, ensuring a meal that is nothing short of extraordinary.</p><p>Escape to Swagat Palace and treat yourself to a culinary adventure that tantalizes the taste buds and awakens the senses. From traditional Indian delicacies to international gourmet fare, our palace offers a dining experience like no other.</p><p>Experience the magic of Swagat Palace for yourself and discover why it's more than just a palace – it's a culinary destination that promises to delight and inspire. Join us for a meal and discover the flavors of India in a whole new way.</p><p>Discover the rich flavors and aromas of Swagat Palace, where every dish is a masterpiece and every meal is a celebration of flavor and innovation. From traditional Indian delicacies to international cuisine, our palace offers a culinary journey like no other.</p>",
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Anna Wright",
+          "img": "assets/img/blog-details/avatar-1.jpg",
+          "date": "19th Jan 2024",
+          "comment": "Swagat Palace offers a dining experience like no other. The flavors and aromas of Indian cuisine are simply irresistible, and the service is impeccable. Highly recommend it to anyone looking for an unforgettable culinary adventure!",
+          "replies": [
             {
-                "icon": "fab fa-facebook-f",
-                "title": "Facebook",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-twitter",
-                "title": "Twitter",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-behance",
-                "title": "Behance",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-linkedin",
-                "title": "Linked In",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-youtube",
-                "title": "YouTube",
-                "url": "www.domain.com/username"
+              "id": 11,
+              "name": "Jhon Kelian",
+              "img": "assets/img/blog-details/avatar-2.jpg",
+              "date": "20th Jan 2024",
+              "comment": "Couldn't agree more! The dining experience at Swagat Palace is truly exceptional, with its diverse menu and impeccable service. It's the perfect destination for food lovers and gastronomes alike."
             }
-        ],
-        "views": 232,
-        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
-        "longdescription": "<p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p> <figure class='mt-45 mb-45'> <img src='../assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='../assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>",
-        "reviews": [
-            {
-                "id": 1,
-                "name": "Anna Wright",
-                "img": "assets/img/blog-details/avatar-1.jpg",
-                "date": "19th Jan 2021",
-                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "replies": [
-                    {
-                        "id": 11,
-                        "name": "Jhon Kelian",
-                        "img": "assets/img/blog-details/avatar-2.jpg",
-                        "date": "20th Jan 2021",
-                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "name": "Hilixer D. Dilimmah",
-                "img": "assets/img/blog-details/avatar-3.jpg",
-                "date": "18th Jan 2021",
-                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "replies": []
-            }
-        ]
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Hilixer D. Dilimmah",
+          "img": "assets/img/blog-details/avatar-3.jpg",
+          "date": "18th Jan 2024",
+          "comment": "Swagat Palace exceeded all my expectations! The flavors of Indian cuisine are simply divine, and the dining experience was unforgettable. A must-visit for anyone with a passion for food!",
+          "replies": []
+        }
+      ]
     },
     {
-        "id": 7,
-        "gridimg": "assets/img/latest-post/03.jpg",
-        "listimg": "assets/img/blog/03.jpg",
-        "title": "Bangalo Height is the craziest get away of the year. Try it Out",
-        "postdate": "2021-February-28",
-        "author": [
-            3
-        ],
-        "categories": [
-            5,
-            1
-        ],
-        "tags": [
-            7,
-            8,
-            9
-        ],
-        "social": [
+      "id": 4,
+      "gridimg": "assets/img/blog/011.jpg",
+      "listimg": "assets/img/blog/011.jpg",
+      "title": "Rejuvenate and Revitalize: Experience at Swagat Palace",
+      "postdate": "2024-April-22",
+      "author": [1],
+      "categories": [1, 5],
+      "tags": [10, 11, 12],
+      "social": [
+        {
+          "icon": "fab fa-facebook-f",
+          "title": "Facebook",
+          "url": "www.domain.com/username"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "title": "Twitter",
+          "url": "www.domain.com/username"
+        },
+        {
+          "icon": "fab fa-behance",
+          "title": "Behance",
+          "url": "www.domain.com/username"
+        },
+        {
+          "icon": "fab fa-linkedin",
+          "title": "Linked In",
+          "url": "www.domain.com/username"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "title": "YouTube",
+          "url": "www.domain.com/username"
+        }
+      ],
+      "views": 543,
+      "shortdesc": "Escape the stresses of everyday life and embark on a journey of relaxation and rejuvenation at Swagat Palace. Our spa offers a range of holistic treatments designed to soothe the mind, body, and soul.",
+      "longdescription": "<p class='mb-30'>Indulge in the ultimate spa experience at Swagat Palace, where tranquility and relaxation await at every turn. From soothing massages to rejuvenating facials, our spa offers a range of holistic treatments designed to nourish the body and calm the mind.</p><p>Unwind and recharge in the serene surroundings of Swagat Palace Spa. Our expert therapists will customize a treatment plan to suit your individual needs, ensuring a truly personalized experience that leaves you feeling refreshed and revitalized.</p><figure class='mt-45 mb-45'> <img src='../assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'>A Sanctuary of Serenity</h3><p>Escape the stresses of everyday life and immerse yourself in the tranquility of Swagat Palace Spa. With its serene ambiance and expert therapists, our spa offers a sanctuary of serenity where you can relax, rejuvenate, and restore balance to your body and mind.</p><div class='gap'></div><h3 class='subtitle'>Holistic Healing</h3><p>At Swagat Palace Spa, we believe in the power of holistic healing to promote wellness and vitality. From ancient Ayurvedic rituals to modern wellness techniques, our spa offers a comprehensive approach to health and wellbeing.</p><div class='gap'></div><h3 class='subtitle'>Personalized Pampering</h3><p>Experience the ultimate in personalized pampering at Swagat Palace Spa. Our expert therapists will tailor each treatment to address your specific concerns and goals, ensuring a spa experience that is truly transformative.</p><ul class='list-icon'><li>Tranquil spa environment</li><li>Expert therapists</li><li>Range of holistic treatments</li><li>Personalized spa experiences</li><li>State-of-the-art facilities</li></ul><blockquote class='mt-40 mb-40'><span class='quote-by'>by Hetmayar</span>A journey of relaxation and rejuvenation that nourishes the body, calms the mind, and soothes the soul. Swagat Palace Spa is a true oasis of serenity and wellbeing.</blockquote><p class='mb-30'>Escape to Swagat Palace Spa and experience the ultimate in relaxation and rejuvenation. Whether you're seeking relief from muscle tension, stress, or simply a moment of tranquility, our spa offers a range of treatments to suit your needs.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='../assets/img/blog-details/04 (2).jpg' alt='img'></div><div class='col-md-7 mb-30'><p>Plan your spa getaway at Swagat Palace today and embark on a journey of holistic healing and renewal. From Ayurvedic massages to detoxifying body wraps, our spa offers a range of treatments to rejuvenate your body, mind, and spirit.</p></div></div><p>Discover the transformative power of Swagat Palace Spa, where every treatment is designed to nourish the body, calm the mind, and soothe the soul. Whether you're seeking relaxation, rejuvenation, or relief from a specific ailment, our spa offers a holistic approach to health and wellbeing.</p><p>Experience the magic of Swagat Palace Spa for yourself and discover why it's more than just a spa – it's a sanctuary of serenity and wellbeing. Join us for a spa experience that nourishes the body, calms the mind, and soothes the soul.</p><p>Escape to Swagat Palace Spa and discover a world of relaxation and rejuvenation. From the moment you arrive, you'll be greeted with warm hospitality and expert care, ensuring a spa experience that is truly unforgettable.</p><p>Indulge in the luxury of Swagat Palace Spa and experience the ultimate in relaxation and rejuvenation. From our expert therapists to our state-of-the-art facilities, we promise a spa experience that is nothing short of extraordinary.</p>",
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Anna Wright",
+          "img": "assets/img/blog-details/avatar-1.jpg",
+          "date": "19th Jan 2024",
+          "comment": "Swagat Palace Spa is a true oasis of relaxation and rejuvenation. The treatments are heavenly, and the therapists are highly skilled. I left feeling completely refreshed and revitalized!",
+          "replies": [
             {
-                "icon": "fab fa-facebook-f",
-                "title": "Facebook",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-twitter",
-                "title": "Twitter",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-behance",
-                "title": "Behance",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-linkedin",
-                "title": "Linked In",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-youtube",
-                "title": "YouTube",
-                "url": "www.domain.com/username"
+              "id": 11,
+              "name": "Jhon Kelian",
+              "img": "assets/img/blog-details/avatar-2.jpg",
+              "date": "20th Jan 2024",
+              "comment": "Couldn't agree more! Swagat Palace Spa offers a range of holistic treatments that nourish the body, calm the mind, and soothe the soul. It's the perfect escape from the stresses of everyday life."
             }
-        ],
-        "views": 232,
-        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
-        "longdescription": "<p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p> <figure class='mt-45 mb-45'> <img src='../assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='../assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>",
-        "reviews": [
-            {
-                "id": 1,
-                "name": "Anna Wright",
-                "img": "assets/img/blog-details/avatar-1.jpg",
-                "date": "19th Jan 2021",
-                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "replies": [
-                    {
-                        "id": 11,
-                        "name": "Jhon Kelian",
-                        "img": "assets/img/blog-details/avatar-2.jpg",
-                        "date": "20th Jan 2021",
-                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "name": "Hilixer D. Dilimmah",
-                "img": "assets/img/blog-details/avatar-3.jpg",
-                "date": "18th Jan 2021",
-                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "replies": []
-            }
-        ]
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Hilixer D. Dilimmah",
+          "img": "assets/img/blog-details/avatar-3.jpg",
+          "date": "18th Jan 2024",
+          "comment": "Swagat Palace Spa exceeded all my expectations! The treatments were divine, and the ambiance was so relaxing. It was the perfect way to unwind and recharge.",
+          "replies": []
+        }
+      ]
     },
     {
-        "id": 8,
-        "gridimg": "assets/img/latest-post/01.jpg",
-        "listimg": "assets/img/blog/01.jpg",
-        "title": "Summer Vacation in the Bahamas starting at only 499$",
-        "postdate": "2021-February-28",
-        "author": [
-            1
-        ],
-        "categories": [
-            1,
-            2
-        ],
-        "tags": [
-            10,
-            11,
-            12
-        ],
-        "social": [
+      "id": 5,
+      "gridimg": "assets/img/blog/033.jpg",
+      "listimg": "assets/img/blog/033.jpg",
+      "title": "Embracing Nature: Outdoor Adventures at Swagat Palace",
+      "postdate": "2024-April-23",
+      "author": [1],
+      "categories": [1, 6],
+      "tags": [13, 14, 15],
+      "social": [
+        {
+          "icon": "fab fa-facebook-f",
+          "title": "Facebook",
+          "url": "www.domain.com/username"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "title": "Twitter",
+          "url": "www.domain.com/username"
+        },
+        {
+          "icon": "fab fa-behance",
+          "title": "Behance",
+          "url": "www.domain.com/username"
+        },
+        {
+          "icon": "fab fa-linkedin",
+          "title": "Linked In",
+          "url": "www.domain.com/username"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "title": "YouTube",
+          "url": "www.domain.com/username"
+        }
+      ],
+      "views": 678,
+      "shortdesc": "Discover the beauty of nature and embark on exciting outdoor adventures at Swagat Palace. From hiking and trekking to bird watching and wildlife safaris, our palace offers a range of activities to suit every adventurer.",
+      "longdescription": "<p class='mb-30'>Embark on a journey of discovery and adventure at Swagat Palace, where the great outdoors beckons with its stunning vistas and untamed beauty. From thrilling treks to tranquil nature walks, our palace offers a range of outdoor activities to suit every adventurer.</p><p>Explore the natural wonders of Swagat Palace and discover a world of beauty and adventure waiting to be explored. Whether you're seeking adrenaline-fueled thrills or peaceful moments of contemplation, our palace offers something for everyone.</p><figure class='mt-45 mb-45'> <img src='../assets/img/blog-details/09.jpg' alt='img'> </figure><h3 class='subtitle'>A Paradise for Nature Lovers</h3><p>Immerse yourself in the breathtaking beauty of Swagat Palace, where lush forests, rolling hills, and pristine lakes await at every turn. From bird watching to wildlife safaris, our palace offers a paradise for nature lovers to explore and enjoy.</p><div class='gap'></div><h3 class='subtitle'>Thrilling Outdoor Adventures</h3><p>Embark on an adventure of a lifetime at Swagat Palace, where thrilling outdoor activities await at every turn. From high-altitude trekking to adrenaline-pumping water sports, our palace offers a range of experiences to satisfy your inner adventurer.</p><div class='gap'></div><h3 class='subtitle'>Tranquil Escapes</h3><p>Escape the hustle and bustle of everyday life and reconnect with nature at Swagat Palace. With its serene surroundings and tranquil ambiance, our palace offers the perfect setting for relaxation, rejuvenation, and reflection.</p><ul class='list-icon'><li>Hiking and trekking trails</li><li>Bird watching and wildlife safaris</li><li>Water sports and adventure activities</li><li>Nature walks and guided tours</li><li>Outdoor yoga and meditation sessions</li></ul><blockquote class='mt-40 mb-40'><span class='quote-by'>by Hetmayar</span>An adventure of a lifetime awaits at Swagat Palace, where every moment is a celebration of nature's beauty and wonder. From thrilling treks to tranquil nature walks, our palace offers something for everyone to enjoy.</blockquote><p class='mb-30'>Experience the magic of Swagat Palace for yourself and discover why it's more than just a palace – it's a gateway to adventure and exploration. Join us for an unforgettable journey through the great outdoors and create memories that will last a lifetime.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='../assets/img/blog-details/10.jpg' alt='img'></div><div class='col-md-7 mb-30'><p>Plan your outdoor adventure at Swagat Palace today and embark on a journey of discovery and exploration. Whether you're a seasoned adventurer or a nature enthusiast, our palace offers an array of activities to suit your interests.</p></div></div><p>Discover the beauty of Swagat Palace and immerse yourself in the wonders of nature. From thrilling treks to tranquil nature walks, our palace offers an array of outdoor activities to suit every adventurer.</p><p>Join us for an unforgettable outdoor adventure at Swagat Palace, where every moment is a celebration of nature's beauty and wonder. Whether you're seeking adrenaline-fueled thrills or peaceful moments of contemplation, our palace offers something for everyone to enjoy.</p><p>Experience the magic of Swagat Palace for yourself and discover why it's more than just a palace – it's a sanctuary for nature lovers and adventurers alike. Join us for an unforgettable journey through the great outdoors and create memories that will last a lifetime.</p><p>Escape to Swagat Palace and reconnect with nature in its purest form. From thrilling adventures to peaceful moments of solitude, our palace offers an array of outdoor activities to suit every adventurer's interests and preferences.</p>",
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Anna Wright",
+          "img": "assets/img/blog-details/avatar-1.jpg",
+          "date": "19th Jan 2024",
+          "comment": "Swagat Palace is a paradise for nature lovers and adventurers alike. The outdoor activities are thrilling, and the scenery is simply breathtaking. Highly recommend it to anyone looking for an unforgettable adventure!",
+          "replies": [
             {
-                "icon": "fab fa-facebook-f",
-                "title": "Facebook",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-twitter",
-                "title": "Twitter",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-behance",
-                "title": "Behance",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-linkedin",
-                "title": "Linked In",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-youtube",
-                "title": "YouTube",
-                "url": "www.domain.com/username"
+              "id": 11,
+              "name": "Jhon Kelian",
+              "img": "assets/img/blog-details/avatar-2.jpg",
+              "date": "20th Jan 2024",
+              "comment": "Couldn't agree more! Swagat Palace offers a range of outdoor activities that cater to every adventurer's interests and preferences. It's the perfect destination for nature lovers seeking thrills and excitement!"
             }
-        ],
-        "views": 232,
-        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
-        "longdescription": "<p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p> <figure class='mt-45 mb-45'> <img src='../assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='../assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>",
-        "reviews": [
-            {
-                "id": 1,
-                "name": "Anna Wright",
-                "img": "assets/img/blog-details/avatar-1.jpg",
-                "date": "19th Jan 2021",
-                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "replies": [
-                    {
-                        "id": 11,
-                        "name": "Jhon Kelian",
-                        "img": "assets/img/blog-details/avatar-2.jpg",
-                        "date": "20th Jan 2021",
-                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "name": "Hilixer D. Dilimmah",
-                "img": "assets/img/blog-details/avatar-3.jpg",
-                "date": "18th Jan 2021",
-                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "replies": []
-            }
-        ]
-    },
-    {
-        "id": 9,
-        "gridimg": "assets/img/latest-post/01.jpg",
-        "listimg": "assets/img/blog/01.jpg",
-        "title": "Hotel Booking In The Summer Season Is Off The Charts",
-        "postdate": "2021-February-15",
-        "author": [
-            1
-        ],
-        "categories": [
-            1,
-            2
-        ],
-        "tags": [
-            1,
-            2,
-            3
-        ],
-        "social": [
-            {
-                "icon": "fab fa-facebook-f",
-                "title": "Facebook",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-twitter",
-                "title": "Twitter",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-behance",
-                "title": "Behance",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-linkedin",
-                "title": "Linked In",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-youtube",
-                "title": "YouTube",
-                "url": "www.domain.com/username"
-            }
-        ],
-        "views": 232,
-        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
-        "longdescription": "<p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p> <figure class='mt-45 mb-45'> <img src='../assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='../assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>",
-        "reviews": [
-            {
-                "id": 1,
-                "name": "Anna Wright",
-                "img": "assets/img/blog-details/avatar-1.jpg",
-                "date": "19th Jan 2021",
-                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "replies": [
-                    {
-                        "id": 11,
-                        "name": "Jhon Kelian",
-                        "img": "assets/img/blog-details/avatar-2.jpg",
-                        "date": "20th Jan 2021",
-                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "name": "Hilixer D. Dilimmah",
-                "img": "assets/img/blog-details/avatar-3.jpg",
-                "date": "18th Jan 2021",
-                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "replies": []
-            }
-        ]
-    },
-    {
-        "id": 10,
-        "gridimg": "assets/img/latest-post/02.jpg",
-        "listimg": "assets/img/blog/02.jpg",
-        "title": "Hotel Booking This Winter Is Better Than Ever",
-        "postdate": "2021-February-28",
-        "author": [
-            2
-        ],
-        "categories": [
-            3,
-            4
-        ],
-        "tags": [
-            4,
-            5,
-            6
-        ],
-        "social": [
-            {
-                "icon": "fab fa-facebook-f",
-                "title": "Facebook",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-twitter",
-                "title": "Twitter",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-behance",
-                "title": "Behance",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-linkedin",
-                "title": "Linked In",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-youtube",
-                "title": "YouTube",
-                "url": "www.domain.com/username"
-            }
-        ],
-        "views": 232,
-        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
-        "longdescription": "<p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p> <figure class='mt-45 mb-45'> <img src='../assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='../assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>",
-        "reviews": [
-            {
-                "id": 1,
-                "name": "Anna Wright",
-                "img": "assets/img/blog-details/avatar-1.jpg",
-                "date": "19th Jan 2021",
-                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "replies": [
-                    {
-                        "id": 11,
-                        "name": "Jhon Kelian",
-                        "img": "assets/img/blog-details/avatar-2.jpg",
-                        "date": "20th Jan 2021",
-                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "name": "Hilixer D. Dilimmah",
-                "img": "assets/img/blog-details/avatar-3.jpg",
-                "date": "18th Jan 2021",
-                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "replies": []
-            }
-        ]
-    },
-    {
-        "id": 11,
-        "gridimg": "assets/img/latest-post/03.jpg",
-        "listimg": "assets/img/blog/03.jpg",
-        "title": "Changing Hotel Rooms This Year Is Great",
-        "postdate": "2021-February-11",
-        "author": [
-            3
-        ],
-        "categories": [
-            5,
-            1
-        ],
-        "tags": [
-            7,
-            8,
-            9
-        ],
-        "social": [
-            {
-                "icon": "fab fa-facebook-f",
-                "title": "Facebook",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-twitter",
-                "title": "Twitter",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-behance",
-                "title": "Behance",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-linkedin",
-                "title": "Linked In",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-youtube",
-                "title": "YouTube",
-                "url": "www.domain.com/username"
-            }
-        ],
-        "views": 232,
-        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
-        "longdescription": "<p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p> <figure class='mt-45 mb-45'> <img src='../assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='../assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>",
-        "reviews": [
-            {
-                "id": 1,
-                "name": "Anna Wright",
-                "img": "assets/img/blog-details/avatar-1.jpg",
-                "date": "19th Jan 2021",
-                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "replies": [
-                    {
-                        "id": 11,
-                        "name": "Jhon Kelian",
-                        "img": "assets/img/blog-details/avatar-2.jpg",
-                        "date": "20th Jan 2021",
-                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "name": "Hilixer D. Dilimmah",
-                "img": "assets/img/blog-details/avatar-3.jpg",
-                "date": "18th Jan 2021",
-                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "replies": []
-            }
-        ]
-    },
-    {
-        "id": 12,
-        "gridimg": "assets/img/latest-post/01.jpg",
-        "listimg": "assets/img/blog/01.jpg",
-        "title": "Experience the Soothing Cold Breeze In Our Exclusive Hotel.",
-        "postdate": "2021-February-28",
-        "author": [
-            1
-        ],
-        "categories": [
-            1,
-            2
-        ],
-        "tags": [
-            10,
-            11,
-            12
-        ],
-        "social": [
-            {
-                "icon": "fab fa-facebook-f",
-                "title": "Facebook",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-twitter",
-                "title": "Twitter",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-behance",
-                "title": "Behance",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-linkedin",
-                "title": "Linked In",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-youtube",
-                "title": "YouTube",
-                "url": "www.domain.com/username"
-            }
-        ],
-        "views": 232,
-        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
-        "longdescription": "<p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p> <figure class='mt-45 mb-45'> <img src='../assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='../assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>",
-        "reviews": [
-            {
-                "id": 1,
-                "name": "Anna Wright",
-                "img": "assets/img/blog-details/avatar-1.jpg",
-                "date": "19th Jan 2021",
-                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "replies": [
-                    {
-                        "id": 11,
-                        "name": "Jhon Kelian",
-                        "img": "assets/img/blog-details/avatar-2.jpg",
-                        "date": "20th Jan 2021",
-                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "name": "Hilixer D. Dilimmah",
-                "img": "assets/img/blog-details/avatar-3.jpg",
-                "date": "18th Jan 2021",
-                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "replies": []
-            }
-        ]
-    },
-    {
-        "id": 13,
-        "gridimg": "assets/img/latest-post/01.jpg",
-        "listimg": "assets/img/blog/01.jpg",
-        "title": "We are opening a Brand New Hotel In The Bahamas",
-        "postdate": "2021-February-28",
-        "author": [
-            1
-        ],
-        "categories": [
-            1,
-            2
-        ],
-        "tags": [
-            1,
-            2,
-            3
-        ],
-        "social": [
-            {
-                "icon": "fab fa-facebook-f",
-                "title": "Facebook",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-twitter",
-                "title": "Twitter",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-behance",
-                "title": "Behance",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-linkedin",
-                "title": "Linked In",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-youtube",
-                "title": "YouTube",
-                "url": "www.domain.com/username"
-            }
-        ],
-        "views": 232,
-        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
-        "longdescription": "<p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p> <figure class='mt-45 mb-45'> <img src='../assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='../assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>",
-        "reviews": [
-            {
-                "id": 1,
-                "name": "Anna Wright",
-                "img": "assets/img/blog-details/avatar-1.jpg",
-                "date": "19th Jan 2021",
-                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "replies": [
-                    {
-                        "id": 11,
-                        "name": "Jhon Kelian",
-                        "img": "assets/img/blog-details/avatar-2.jpg",
-                        "date": "20th Jan 2021",
-                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "name": "Hilixer D. Dilimmah",
-                "img": "assets/img/blog-details/avatar-3.jpg",
-                "date": "18th Jan 2021",
-                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "replies": []
-            }
-        ]
-    },
-    {
-        "id": 14,
-        "gridimg": "assets/img/latest-post/02.jpg",
-        "listimg": "assets/img/blog/02.jpg",
-        "title": "Suites and Rooms, We Have Them All Tonight",
-        "postdate": "2021-February-28",
-        "author": [
-            2
-        ],
-        "categories": [
-            3,
-            4
-        ],
-        "tags": [
-            4,
-            5,
-            6
-        ],
-        "social": [
-            {
-                "icon": "fab fa-facebook-f",
-                "title": "Facebook",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-twitter",
-                "title": "Twitter",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-behance",
-                "title": "Behance",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-linkedin",
-                "title": "Linked In",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-youtube",
-                "title": "YouTube",
-                "url": "www.domain.com/username"
-            }
-        ],
-        "views": 232,
-        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
-        "longdescription": "<p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p> <figure class='mt-45 mb-45'> <img src='../assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='../assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>",
-        "reviews": [
-            {
-                "id": 1,
-                "name": "Anna Wright",
-                "img": "assets/img/blog-details/avatar-1.jpg",
-                "date": "19th Jan 2021",
-                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "replies": [
-                    {
-                        "id": 11,
-                        "name": "Jhon Kelian",
-                        "img": "assets/img/blog-details/avatar-2.jpg",
-                        "date": "20th Jan 2021",
-                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "name": "Hilixer D. Dilimmah",
-                "img": "assets/img/blog-details/avatar-3.jpg",
-                "date": "18th Jan 2021",
-                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "replies": []
-            }
-        ]
-    },
-    {
-        "id": 15,
-        "gridimg": "assets/img/latest-post/03.jpg",
-        "listimg": "assets/img/blog/03.jpg",
-        "title": "Bangalo Height is the craziest get away of the year. Try it Out",
-        "postdate": "2021-February-28",
-        "author": [
-            3
-        ],
-        "categories": [
-            5,
-            1
-        ],
-        "tags": [
-            7,
-            8,
-            9
-        ],
-        "social": [
-            {
-                "icon": "fab fa-facebook-f",
-                "title": "Facebook",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-twitter",
-                "title": "Twitter",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-behance",
-                "title": "Behance",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-linkedin",
-                "title": "Linked In",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-youtube",
-                "title": "YouTube",
-                "url": "www.domain.com/username"
-            }
-        ],
-        "views": 232,
-        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
-        "longdescription": "<p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p> <figure class='mt-45 mb-45'> <img src='../assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='../assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>",
-        "reviews": [
-            {
-                "id": 1,
-                "name": "Anna Wright",
-                "img": "assets/img/blog-details/avatar-1.jpg",
-                "date": "19th Jan 2021",
-                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "replies": [
-                    {
-                        "id": 11,
-                        "name": "Jhon Kelian",
-                        "img": "assets/img/blog-details/avatar-2.jpg",
-                        "date": "20th Jan 2021",
-                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "name": "Hilixer D. Dilimmah",
-                "img": "assets/img/blog-details/avatar-3.jpg",
-                "date": "18th Jan 2021",
-                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "replies": []
-            }
-        ]
-    },
-    {
-        "id": 16,
-        "gridimg": "assets/img/latest-post/01.jpg",
-        "listimg": "assets/img/blog/01.jpg",
-        "title": "Summer Vacation in the Bahamas starting at only 499$",
-        "postdate": "2021-February-28",
-        "author": [
-            1
-        ],
-        "categories": [
-            1,
-            2
-        ],
-        "tags": [
-            10,
-            11,
-            12
-        ],
-        "social": [
-            {
-                "icon": "fab fa-facebook-f",
-                "title": "Facebook",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-twitter",
-                "title": "Twitter",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-behance",
-                "title": "Behance",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-linkedin",
-                "title": "Linked In",
-                "url": "www.domain.com/username"
-            },
-            {
-                "icon": "fab fa-youtube",
-                "title": "YouTube",
-                "url": "www.domain.com/username"
-            }
-        ],
-        "views": 232,
-        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
-        "longdescription": "<p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p> <figure class='mt-45 mb-45'> <img src='../assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='../assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>",
-        "reviews": [
-            {
-                "id": 1,
-                "name": "Anna Wright",
-                "img": "assets/img/blog-details/avatar-1.jpg",
-                "date": "19th Jan 2021",
-                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "replies": [
-                    {
-                        "id": 11,
-                        "name": "Jhon Kelian",
-                        "img": "assets/img/blog-details/avatar-2.jpg",
-                        "date": "20th Jan 2021",
-                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "name": "Hilixer D. Dilimmah",
-                "img": "assets/img/blog-details/avatar-3.jpg",
-                "date": "18th Jan 2021",
-                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "replies": []
-            }
-        ]
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Hilixer D. Dilimmah",
+          "img": "assets/img/blog-details/avatar-3.jpg",
+          "date": "18th Jan 2024",
+          "comment": "Swagat Palace exceeded all my expectations! The outdoor adventures were exhilarating, and the guides were so knowledgeable. It was the perfect way to experience the beauty of nature!",
+          "replies": []
+        }
+      ]
     }
-]
+  ]
+  
