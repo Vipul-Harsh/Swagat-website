@@ -30,15 +30,14 @@ class Restaurant extends Component {
             resize: true,
             fitWidth: true
         };
-        const renderAll = this.state.filteredProducts.map((item, i) => (
+        const renderAll = this.state.filteredProducts.slice(0, 4).map((item, i) => (
             <div key={i} className="col-lg-3 col-6 masonry-item">
                 <div className="food-box">
                     <div className="thumb">
                         <img src={process.env.PUBLIC_URL + "/" + item.img} alt="" />
-                        
                     </div>
                     <div className="desc">
-                        {item.category.slice(0,1).map((category) => (
+                        {item.category.slice(0, 1).map((category) => (
                             productcategory.filter(item => {
                                 return item.id === category
                             }).map((cat, i) => (
@@ -51,6 +50,7 @@ class Restaurant extends Component {
                 </div>
             </div>
         ));
+        
         return (
             <section className="restaurant-tab-area pt-120 pb-60">
                 <div className="container">

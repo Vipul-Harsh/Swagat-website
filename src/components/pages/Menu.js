@@ -12,7 +12,7 @@ class Menu extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Hotel Miranda - React Template | {pagelocation}</title>
+                    <title>Swagat Palace | {pagelocation}</title>
                     <meta
                         name="description"
                         content="#"

@@ -71,5 +71,104 @@
         ],
         "title": "Fried Vaegetable",
         "price": 80
+    },
+    {
+        "id": 9,
+        "img": "assets/img/restu/2150857894 (1).jpg",
+        "category": [
+           5
+        ],
+        "title": "Shahi Paneer",
+        "price": 80
+    },
+    {
+        "id": 10,
+        "img": "assets/img/restu/delicious-boneless-chicken-sauce.jpg",
+        "category": [
+           4
+        ],
+        "title": "Mix Pakora",
+        "price": 80
     }
+    ,
+    {
+        "id": 11,
+        "img": "assets/img/restu/fresh-cucumber-salad (1).jpg",
+        "category": [
+           3
+        ],
+        "title": "Cucumber Salad",
+        "price": 80
+    },
+    {
+        "id": 12,
+        "img": "assets/img/restu/high-angle-egg-jewish-meal-pan (1).jpg",
+        "category": [
+           6
+        ],
+        "title": "Egg curry",
+        "price": 80
+    },
+    {
+        "id": 13,
+        "img": "assets/img/restu/pakistan-food-arrangement-view (1).jpg",
+        "category": [
+           5
+        ],
+        "title": "Dal & rice",
+        "price": 80
+    }
+    ,
+    {
+        "id": 14,
+        "img": "assets/img/restu/roasted-cauliflower-with-sprouts.jpg",
+        "category": [
+           4
+        ],
+        "title": "Tandoori Gobhi",
+        "price": 80
+    }
+    ,
+    {
+        "id": 15,
+        "img": "assets/img/restu/side-view-appetizing-dish-dish-r.jpg",
+        "category": [
+           3
+        ],
+        "title": "Onion Salad",
+        "price": 80
+    }
+    ,
+    {
+        "id": 16,
+        "img": "assets/img/restu/side-view-chicken-kebab-lavash-s.jpg",
+        "category": [
+           4
+        ],
+        "title": "Chicken Kabab",
+        "price": 80
+    }
+    ,
+    {
+        "id": 17,
+        "img": "assets/img/restu/top-view-composition-with-delici.jpg",
+        "category": [
+           6
+        ],
+        "title": "Butter Chicken",
+        "price": 80
+    }
+    ,
+    {
+        "id": 18,
+        "img": "assets/img/restu/top-view-delicious-fries-sauce (1).jpg",
+        "category": [
+           4
+        ],
+        "title": "French Fries",
+        "price": 80
+    }
+
+
+    
 ]

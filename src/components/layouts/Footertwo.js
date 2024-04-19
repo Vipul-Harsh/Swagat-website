@@ -94,10 +94,10 @@ class Footertwo extends Component {
                           <Link to="/restaurant" className="booktext">Dining</Link>
                         </li>
                         <li>
-                          <Link to="/about" className="booktext">Gallery</Link>
+                          <Link to="/gallery" className="booktext">Gallery</Link>
                         </li>
                         <li>
-                          <Link to="/room-grid" className="booktext">Blogs</Link>
+                          <Link to="/blog-standard" className="booktext">Blogs</Link>
                         </li>
                         {/* <li>
                           <Link to="/contact" className="booktext"></Link>

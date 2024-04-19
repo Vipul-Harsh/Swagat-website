@@ -12,7 +12,7 @@ class Roomdetails extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Hotel Swagat - React Template | {pagelocation}</title>
+                    <title>Swagat Palace| {pagelocation}</title>
                     <meta
                         name="description"
                         content="#"

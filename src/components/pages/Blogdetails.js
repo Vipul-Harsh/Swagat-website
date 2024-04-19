@@ -13,7 +13,7 @@ class Blogdetails extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Swagat Palace - React Template | {pagelocation}</title>
+                    <title>Swagat Palace  | {pagelocation}</title>
                     <meta
                         name="description"
                         content="#"

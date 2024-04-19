@@ -13,7 +13,7 @@ class About extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Hotel Swagat Palace - React Template | {pagelocation}</title>
+                    <title>Swagat Palace | {pagelocation}</title>
                     <meta
                         name="description"
                         content="#"
